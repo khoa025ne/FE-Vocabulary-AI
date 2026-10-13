@@ -1,1 +1,73 @@
-aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgdXNlTmF2aWdhdGUsIHVzZVBhcmFtcyB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nOwppbXBvcnQgeyB3b3JkQXBpLCBhaUFwaSwgbGVhcm5BcGksIGVyck1zZyB9IGZyb20gJy4uL2FwaSc7CmltcG9ydCB0eXBlIHsgV29yZCwgRXhwbGFpbiB9IGZyb20gJy4uL2FwaSc7CmltcG9ydCB7IEljb24sIE1hc2NvdCB9IGZyb20gJy4uL2NvbXBvbmVudHMvaWNvbnMnOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gV29yZERldGFpbCgpIHsKICBjb25zdCB7IGlkIH0gPSB1c2VQYXJhbXMoKTsKICBjb25zdCBuYXYgPSB1c2VOYXZpZ2F0ZSgpOwogIGNvbnN0IFt3b3JkLCBzZXRXb3JkXSA9IHVzZVN0YXRlPFdvcmQgfCBudWxsPihudWxsKTsKICBjb25zdCBbZXgsIHNldEV4XSA9IHVzZVN0YXRlPEV4cGxhaW4gfCBudWxsPihudWxsKTsKICBjb25zdCBbbG9hZGluZ0V4LCBzZXRMb2FkaW5nRXhdID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtlcnIsIHNldEVycl0gPSB1c2VTdGF0ZSgnJyk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICB3b3JkQXBpLmxpc3QoeyBzZWFyY2g6ICcnLCBwYWdlOiAwLCBzaXplOiA1MCB9KS50aGVuKCh7IGRhdGEgfSkgPT4gewogICAgICBjb25zdCB3ID0gZGF0YS5jb250ZW50LmZpbmQoKHgpID0+IHguaWQgPT09IE51bWJlcihpZCkpOwogICAgICBpZiAodykgc2V0V29yZCh3KTsgZWxzZSBzZXRFcnIoJ0tow7RuZyB0w6xtIHRo4bqleSB04burIG7DoHkuJyk7CiAgICB9KS5jYXRjaCgoZSkgPT4gc2V0RXJyKGVyck1zZyhlKSkpOwogIH0sIFtpZF0pOwoKICBjb25zdCBleHBsYWluID0gYXN5bmMgKCkgPT4gewogICAgaWYgKCF3b3JkKSByZXR1cm47CiAgICBzZXRMb2FkaW5nRXgodHJ1ZSk7CiAgICB0cnkgeyBjb25zdCB7IGRhdGEgfSA9IGF3YWl0IGFpQXBpLmV4cGxhaW4od29yZC5pZCk7IHNldEV4KGRhdGEpOyB9CiAgICBjYXRjaCAoZSkgeyBzZXRFcnIoZXJyTXNnKGUsICdBSSDEkWFuZyBi4bqtbiwgdGjhu60gbOG6oWkgc2F1IG5ow6kuJykpOyB9CiAgICBmaW5hbGx5IHsgc2V0TG9hZGluZ0V4KGZhbHNlKTsgfQogIH07CiAgY29uc3Qgc3RhcnRMZWFybiA9IGFzeW5jICgpID0+IHsKICAgIGlmICghd29yZCkgcmV0dXJuOwogICAgdHJ5IHsgYXdhaXQgbGVhcm5BcGkuc3RhcnQod29yZC5pZCk7IG5hdignL3JldmlldycpOyB9CiAgICBjYXRjaCAoZSkgeyBzZXRFcnIoZXJyTXNnKGUpKTsgfQogIH07CgogIGlmICghd29yZCAmJiAhZXJyKSByZXR1cm4gPGRpdiBjbGFzc05hbWU9ImNvbnRlbnQiPjxkaXYgY2xhc3NOYW1lPSJsb2FkaW5nIj7EkGFuZyB04bqjaS4uLjwvZGl2PjwvZGl2PjsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJjb250ZW50IG5hcnJvdyI+CiAgICAgIDxidXR0b24gY2xhc3NOYW1lPSJsaW5rIiBvbkNsaWNrPXsoKSA9PiBuYXYoLTEpfSBzdHlsZT17eyBhbGlnblNlbGY6ICdmbGV4LXN0YXJ0JyB9fT7ihpAgUXVheSBs4bqhaTwvYnV0dG9uPgogICAgICB7ZXJyICYmIDxkaXYgY2xhc3NOYW1lPSJlcnJvciI+e2Vycn08L2Rpdj59CiAgICAgIHt3b3JkICYmICgKICAgICAgICA8PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQgY2VudGVyIiBzdHlsZT17eyBwYWRkaW5nOiAzNiB9fT4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJwaWxsIGxldmVsIj57d29yZC5sZXZlbH17d29yZC5jYXRlZ29yeSA/IGAgwrcgJHt3b3JkLmNhdGVnb3J5Lm5hbWV9YCA6ICcnfTwvc3Bhbj4KICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogNDQsIGZvbnRXZWlnaHQ6IDkwMCwgbWFyZ2luOiAnMTJweCAwIDRweCcgfX0+e3dvcmQud29yZH08L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InN1YiI+e3dvcmQucHJvbnVuY2lhdGlvbn08L2Rpdj4KICAgICAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImJ0biBnaG9zdCIgc3R5bGU9e3sgd2lkdGg6IDU2LCBtaW5IZWlnaHQ6IDU2LCBwYWRkaW5nOiAwLCBtYXJnaW46ICcxMnB4IGF1dG8gMCcgfX0gYXJpYS1sYWJlbD0ibmdoZSBwaMOhdCDDom0iPgogICAgICAgICAgICAgIDxJY29uIG49InZvbCIgcz17MjR9IC8+CiAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZvbnRTaXplOiAyMCwgZm9udFdlaWdodDogODAwLCBtYXJnaW5Ub3A6IDE2IH19Pnt3b3JkLm1lYW5pbmd9PC9kaXY+CiAgICAgICAgICAgIHt3b3JkLmV4YW1wbGUgJiYgPGRpdiBjbGFzc05hbWU9InN1YiBtdDgiIHN0eWxlPXt7IGZvbnRTdHlsZTogJ2l0YWxpYycgfX0+Int3b3JkLmV4YW1wbGV9IjwvZGl2Pn0KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJ0bi1yb3ciPgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYnRuIiBvbkNsaWNrPXtleHBsYWlufSBkaXNhYmxlZD17bG9hZGluZ0V4fT4KICAgICAgICAgICAgICA8SWNvbiBuPSJzcGFyayIgcz17MjB9IC8+e2xvYWRpbmdFeCA/ICdWaSDEkWFuZyBuZ2jEqS4uLicgOiAnQUkgZ2nhuqNpIHRow61jaCd9CiAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYnRuIGdyZWVuIiBvbkNsaWNrPXtzdGFydExlYXJufT5I4buNYyB04burIG7DoHk8L2J1dHRvbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAge2V4ICYmICgKICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2FjaCI+PE1hc2NvdCBzPXs0NH0gLz4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJidWJibGUiPjxiPlZpIGdp4bqjaSB0aMOtY2g6PC9iPiB7ZXgubWVhbmluZ308L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICB7ZXguZXhhbXBsZXM/Lmxlbmd0aCA+IDAgJiYgKDxkaXYgY2xhc3NOYW1lPSJtdDE2Ij48Yj5Ww60gZOG7pTwvYj48dWwgc3R5bGU9e3sgbWFyZ2luOiAnOHB4IDAgMCAyMHB4JywgbGluZUhlaWdodDogMS44LCBmb250V2VpZ2h0OiA2MDAgfX0+e2V4LmV4YW1wbGVzLm1hcCgocywgaSkgPT4gPGxpIGtleT17aX0+e3N9PC9saT4pfTwvdWw+PC9kaXY+KX0KICAgICAgICAgICAgICB7ZXguc3lub255bXM/Lmxlbmd0aCA+IDAgJiYgKDxkaXYgY2xhc3NOYW1lPSJtdDgiPjxiPlThu6sgxJHhu5NuZyBuZ2jEqWE6PC9iPiA8c3BhbiBjbGFzc05hbWU9InN1YiI+e2V4LnN5bm9ueW1zLmpvaW4oJywgJyl9PC9zcGFuPjwvZGl2Pil9CiAgICAgICAgICAgICAge2V4LnVzYWdlVGlwcyAmJiAoPGRpdiBjbGFzc05hbWU9Im10OCI+PGI+TeG6uW8gZMO5bmc6PC9iPiA8c3BhbiBjbGFzc05hbWU9InN1YiI+e2V4LnVzYWdlVGlwc308L3NwYW4+PC9kaXY+KX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApfQogICAgICAgIDwvPgogICAgICApfQogICAgPC9kaXY+CiAgKTsKfQo=
+import { useEffect, useState } from 'react';
+import { useNavigate, useParams } from 'react-router-dom';
+import { wordApi, aiApi, learnApi, errMsg } from '../api';
+import type { Word, Explain } from '../api';
+import { Icon, Mascot } from '../components/icons';
+
+export default function WordDetail() {
+  const { id } = useParams();
+  const nav = useNavigate();
+  const [word, setWord] = useState<Word | null>(null);
+  const [ex, setEx] = useState<Explain | null>(null);
+  const [loadingEx, setLoadingEx] = useState(false);
+  const [err, setErr] = useState('');
+
+  useEffect(() => {
+    wordApi.list({ search: '', page: 0, size: 50 }).then(({ data }) => {
+      const w = data.content.find((x) => x.id === Number(id));
+      if (w) setWord(w); else setErr('Không tìm thấy từ này.');
+    }).catch((e) => setErr(errMsg(e)));
+  }, [id]);
+
+  const explain = async () => {
+    if (!word) return;
+    setLoadingEx(true);
+    try { const { data } = await aiApi.explain(word.id); setEx(data); }
+    catch (e) { setErr(errMsg(e, 'AI đang bận, thử lại sau nhé.')); }
+    finally { setLoadingEx(false); }
+  };
+  const startLearn = async () => {
+    if (!word) return;
+    try { await learnApi.start(word.id); nav('/review'); }
+    catch (e) { setErr(errMsg(e)); }
+  };
+
+  if (!word && !err) return <div className="content"><div className="loading">Đang tải...</div></div>;
+
+  return (
+    <div className="content narrow">
+      <button className="link" onClick={() => nav(-1)} style={{ alignSelf: 'flex-start' }}>← Quay lại</button>
+      {err && <div className="error">{err}</div>}
+      {word && (
+        <>
+          <div className="card center" style={{ padding: 36 }}>
+            <span className="pill level">{word.level}{word.category ? ` · ${word.category.name}` : ''}</span>
+            <div style={{ fontSize: 44, fontWeight: 900, margin: '12px 0 4px' }}>{word.word}</div>
+            <div className="sub">{word.pronunciation}</div>
+            <button className="btn ghost" style={{ width: 56, minHeight: 56, padding: 0, margin: '12px auto 0' }} aria-label="nghe phát âm">
+              <Icon n="vol" s={24} />
+            </button>
+            <div style={{ fontSize: 20, fontWeight: 800, marginTop: 16 }}>{word.meaning}</div>
+            {word.example && <div className="sub mt8" style={{ fontStyle: 'italic' }}>"{word.example}"</div>}
+          </div>
+          <div className="btn-row">
+            <button className="btn" onClick={explain} disabled={loadingEx}>
+              <Icon n="spark" s={20} />{loadingEx ? 'Vi đang nghĩ...' : 'AI giải thích'}
+            </button>
+            <button className="btn green" onClick={startLearn}>Học từ này</button>
+          </div>
+          {ex && (
+            <div className="card">
+              <div className="coach"><Mascot s={44} />
+                <div className="bubble"><b>Vi giải thích:</b> {ex.meaning}</div>
+              </div>
+              {ex.examples?.length > 0 && (<div className="mt16"><b>Ví dụ</b><ul style={{ margin: '8px 0 0 20px', lineHeight: 1.8, fontWeight: 600 }}>{ex.examples.map((s, i) => <li key={i}>{s}</li>)}</ul></div>)}
+              {ex.synonyms?.length > 0 && (<div className="mt8"><b>Từ đồng nghĩa:</b> <span className="sub">{ex.synonyms.join(', ')}</span></div>)}
+              {ex.usageTips && (<div className="mt8"><b>Mẹo dùng:</b> <span className="sub">{ex.usageTips}</span></div>)}
+            </div>
+          )}
+        </>
+      )}
+    </div>
+  );
+}

@@ -1,1 +1,80 @@
-aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgdXNlTG9jYXRpb24sIHVzZU5hdmlnYXRlIH0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbSc7CmltcG9ydCB7IHNwZWFrQXBpLCBlcnJNc2cgfSBmcm9tICcuLi9hcGknOwppbXBvcnQgdHlwZSB7IFNlc3Npb25EZXRhaWwgfSBmcm9tICcuLi9hcGknOwppbXBvcnQgeyBNYXNjb3QsIEljb24gfSBmcm9tICcuLi9jb21wb25lbnRzL2ljb25zJzsKCmZ1bmN0aW9uIFJhZGFyKHsgc2NvcmVzIH06IHsgc2NvcmVzOiB7IGxhYmVsOiBzdHJpbmc7IHY6IG51bWJlciB9W10gfSkgewogIGNvbnN0IEMgPSAxMTAsIFIgPSA4ODsKICBjb25zdCBwdCA9IChpOiBudW1iZXIsIHY6IG51bWJlcikgPT4gewogICAgY29uc3QgYSA9IChNYXRoLlBJICogMiAqIGkpIC8gc2NvcmVzLmxlbmd0aCAtIE1hdGguUEkgLyAyOwogICAgY29uc3QgciA9IChSICogdikgLyAxMDA7CiAgICByZXR1cm4gYCR7QyArIHIgKiBNYXRoLmNvcyhhKX0sJHtDICsgciAqIE1hdGguc2luKGEpfWA7CiAgfTsKICBjb25zdCBwb2x5ID0gc2NvcmVzLm1hcCgocywgaSkgPT4gcHQoaSwgcy52KSkuam9pbignICcpOwogIGNvbnN0IGdyaWQgPSBbMjUsIDUwLCA3NSwgMTAwXS5tYXAoKGcpID0+IHNjb3Jlcy5tYXAoKF8sIGkpID0+IHB0KGksIGcpKS5qb2luKCcgJykpOwogIHJldHVybiAoCiAgICA8c3ZnIHZpZXdCb3g9IjAgMCAyMjAgMjIwIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgc3R5bGU9e3sgbWFyZ2luOiAnMCBhdXRvJywgZGlzcGxheTogJ2Jsb2NrJyB9fT4KICAgICAge2dyaWQubWFwKChnLCBpKSA9PiA8cG9seWdvbiBrZXk9e2l9IHBvaW50cz17Z30gZmlsbD0ibm9uZSIgc3Ryb2tlPSJ2YXIoLS1saW5lKSIgc3Ryb2tlV2lkdGg9IjEuNSIgLz4pfQogICAgICB7c2NvcmVzLm1hcCgocywgaSkgPT4geyBjb25zdCBbeCwgeV0gPSBwdChpLCAxMTgpLnNwbGl0KCcsJykubWFwKE51bWJlcik7IHJldHVybiA8dGV4dCBrZXk9e2l9IHg9e3h9IHk9e3l9IHRleHRBbmNob3I9Im1pZGRsZSIgZm9udFNpemU9IjEzIiBmb250V2VpZ2h0PSI4MDAiIGZpbGw9InZhcigtLW11dGVkKSI+e3MubGFiZWx9PC90ZXh0PjsgfSl9CiAgICAgIDxwb2x5Z29uIHBvaW50cz17cG9seX0gZmlsbD0icmdiYSgyMSwxMDEsMTkyLC4xNSkiIHN0cm9rZT0idmFyKC0tcHJpbWFyeSkiIHN0cm9rZVdpZHRoPSIyLjUiIC8+CiAgICAgIHtzY29yZXMubWFwKChzLCBpKSA9PiB7IGNvbnN0IFt4LCB5XSA9IHB0KGksIHMudikuc3BsaXQoJywnKS5tYXAoTnVtYmVyKTsgcmV0dXJuIDxjaXJjbGUga2V5PXtpfSBjeD17eH0gY3k9e3l9IHI9IjQuNSIgZmlsbD0idmFyKC0tcHJpbWFyeSkiIC8+OyB9KX0KICAgIDwvc3ZnPgogICk7Cn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFNwZWFraW5nUmVzdWx0KCkgewogIGNvbnN0IHsgc3RhdGUgfSA9IHVzZUxvY2F0aW9uKCkgYXMgeyBzdGF0ZT86IHsgc2Vzc2lvbklkOiBudW1iZXIgfSB9OwogIGNvbnN0IG5hdiA9IHVzZU5hdmlnYXRlKCk7CiAgY29uc3QgW2QsIHNldERdID0gdXNlU3RhdGU8U2Vzc2lvbkRldGFpbCB8IG51bGw+KG51bGwpOwogIGNvbnN0IFtlcnIsIHNldEVycl0gPSB1c2VTdGF0ZSgnJyk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAoc3RhdGU/LnNlc3Npb25JZCkgc3BlYWtBcGkuc2Vzc2lvbkRldGFpbChzdGF0ZS5zZXNzaW9uSWQpLnRoZW4oKHsgZGF0YSB9KSA9PiBzZXREKGRhdGEpKS5jYXRjaCgoZSkgPT4gc2V0RXJyKGVyck1zZyhlKSkpOwogIH0sIFtzdGF0ZV0pOwoKICBpZiAoIXN0YXRlPy5zZXNzaW9uSWQpIHJldHVybiA8ZGl2IGNsYXNzTmFtZT0iY29udGVudCBuYXJyb3cgY2VudGVyIiBzdHlsZT17eyBwYWRkaW5nVG9wOiA4MCB9fT48ZGl2IGNsYXNzTmFtZT0ic3ViIj5DaMawYSBjw7MgcGhpw6puIG7DoG8uPC9kaXY+PGJ1dHRvbiBjbGFzc05hbWU9ImJ0biBtdDE2IiBvbkNsaWNrPXsoKSA9PiBuYXYoJy9zcGVha2luZycpfT5MdXnhu4duIG7Ds2kgbmdheTwvYnV0dG9uPjwvZGl2PjsKICBpZiAoZXJyKSByZXR1cm4gPGRpdiBjbGFzc05hbWU9ImNvbnRlbnQgbmFycm93Ij48ZGl2IGNsYXNzTmFtZT0iZXJyb3IiPntlcnJ9PC9kaXY+PC9kaXY+OwogIGlmICghZCkgcmV0dXJuIDxkaXYgY2xhc3NOYW1lPSJjb250ZW50Ij48ZGl2IGNsYXNzTmFtZT0ibG9hZGluZyI+VmkgxJFhbmcgY2jhuqVtLi4uPC9kaXY+PC9kaXY+OwoKICBjb25zdCBsYXN0ID0gZC5hdHRlbXB0c1tkLmF0dGVtcHRzLmxlbmd0aCAtIDFdOwogIGNvbnN0IHNjb3JlcyA9IFsKICAgIHsgbGFiZWw6ICdOZ+G7ryBwaMOhcCcsIHY6IDcyIH0sIHsgbGFiZWw6ICdU4burIHbhu7FuZycsIHY6IDgwIH0sIHsgbGFiZWw6ICdUcsO0aSBjaOG6o3knLCB2OiA2NSB9LCB7IGxhYmVsOiAnTuG7mWkgZHVuZycsIHY6IDc4IH0sCiAgXTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJjb250ZW50Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9InBhZ2VoZWFkIj48aDE+S+G6v3QgcXXhuqMgbHV54buHbiBuw7NpPC9oMT48ZGl2IGNsYXNzTmFtZT0ic3ViIj57ZC50b3BpY30gwrcgbOG6p24gdGjhu60gI3tkLmF0dGVtcHRDb3VudH08L2Rpdj48L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbHMyIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCBjZW50ZXIiPgogICAgICAgICAgPGgyPkLhuqNuIMSR4buTIGvhu7kgbsSDbmc8L2gyPgogICAgICAgICAgPFJhZGFyIHNjb3Jlcz17c2NvcmVzfSAvPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNjb3JlLWJpZyI+e2xhc3Q/Lm92ZXJhbGxTY29yZSA/PyAn4oCUJ308L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzdWIiPsSRaeG7g20gdOG7lW5nIMK3IHtkLnN0YXRpc3RpY3MuaW1wcm92ZW1lbnR9PC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLCBnYXA6IDE4IH19PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQiPgogICAgICAgICAgICA8aDI+Q2hpIHRp4bq/dCDEkWnhu4NtPC9oMj4KICAgICAgICAgICAge3Njb3Jlcy5tYXAoKHMpID0+ICgKICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmFyLXJvdyBtdDgiIGtleT17cy5sYWJlbH0+PHNwYW4gY2xhc3NOYW1lPSJsYmwiPntzLmxhYmVsfTwvc3Bhbj48ZGl2IGNsYXNzTmFtZT0icHJvZ3Jlc3MiPjxpIHN0eWxlPXt7IHdpZHRoOiBgJHtzLnZ9JWAgfX0gLz48L2Rpdj48Yj57cy52fTwvYj48L2Rpdj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkIj4KICAgICAgICAgICAgPGgyPkzhu4tjaCBz4butIHBoacOqbiBuw6B5PC9oMj4KICAgICAgICAgICAgPHRhYmxlIGNsYXNzTmFtZT0iZGF0YSBtdDgiPjx0aGVhZD48dHI+PHRoPkzhuqduPC90aD48dGg+xJBp4buDbTwvdGg+PC90cj48L3RoZWFkPjx0Ym9keT4KICAgICAgICAgICAgICB7ZC5hdHRlbXB0cy5tYXAoKGEpID0+IDx0ciBrZXk9e2EuaWR9Pjx0ZD4je2EuYXR0ZW1wdE51bWJlcn08L3RkPjx0ZD48Yj57YS5vdmVyYWxsU2NvcmV9PC9iPjwvdGQ+PC90cj4pfQogICAgICAgICAgICA8L3Rib2R5PjwvdGFibGU+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29hY2giPjxNYXNjb3Qgcz17NTJ9IC8+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYnViYmxlIj48Yj5WaSBuaOG6rW4geMOpdDo8L2I+IHBow6F0IMOibSBj4bunYSBi4bqhbiDEkcOjIHThu5F0IGjGoW4ge2Quc3RhdGlzdGljcy5pbXByb3ZlbWVudH0uIEx1eeG7h24gdGjDqm0gcGjhuqduIHRyw7RpIGNo4bqjeSBi4bqxbmcgY8OhY2ggbsOzaSBjaOG6rW0gdsOgIMSR4buBdSBuaOG7i3AgbmjDqS48L2Rpdj48L2Rpdj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJidG4tcm93Ij4KICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYnRuIGdob3N0IiBvbkNsaWNrPXsoKSA9PiBuYXYoJy9zcGVha2luZycpfT48SWNvbiBuPSJtaWMiIHM9ezIwfSAvPkx1eeG7h24gdGnhur9wPC9idXR0b24+CiAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImJ0biIgb25DbGljaz17KCkgPT4gbmF2KCcvJyl9Plbhu4EgdHJhbmcgY2jhu6c8L2J1dHRvbj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg==
+import { useEffect, useState } from 'react';
+import { useLocation, useNavigate } from 'react-router-dom';
+import { speakApi, errMsg } from '../api';
+import type { SessionDetail } from '../api';
+import { Mascot, Icon } from '../components/icons';
+
+function Radar({ scores }: { scores: { label: string; v: number }[] }) {
+  const C = 110, R = 88;
+  const pt = (i: number, v: number) => {
+    const a = (Math.PI * 2 * i) / scores.length - Math.PI / 2;
+    const r = (R * v) / 100;
+    return `${C + r * Math.cos(a)},${C + r * Math.sin(a)}`;
+  };
+  const poly = scores.map((s, i) => pt(i, s.v)).join(' ');
+  const grid = [25, 50, 75, 100].map((g) => scores.map((_, i) => pt(i, g)).join(' '));
+  return (
+    <svg viewBox="0 0 220 220" width="300" height="300" style={{ margin: '0 auto', display: 'block' }}>
+      {grid.map((g, i) => <polygon key={i} points={g} fill="none" stroke="var(--line)" strokeWidth="1.5" />)}
+      {scores.map((s, i) => { const [x, y] = pt(i, 118).split(',').map(Number); return <text key={i} x={x} y={y} textAnchor="middle" fontSize="13" fontWeight="800" fill="var(--muted)">{s.label}</text>; })}
+      <polygon points={poly} fill="rgba(21,101,192,.15)" stroke="var(--primary)" strokeWidth="2.5" />
+      {scores.map((s, i) => { const [x, y] = pt(i, s.v).split(',').map(Number); return <circle key={i} cx={x} cy={y} r="4.5" fill="var(--primary)" />; })}
+    </svg>
+  );
+}
+
+export default function SpeakingResult() {
+  const { state } = useLocation() as { state?: { sessionId: number } };
+  const nav = useNavigate();
+  const [d, setD] = useState<SessionDetail | null>(null);
+  const [err, setErr] = useState('');
+
+  useEffect(() => {
+    if (state?.sessionId) speakApi.sessionDetail(state.sessionId).then(({ data }) => setD(data)).catch((e) => setErr(errMsg(e)));
+  }, [state]);
+
+  if (!state?.sessionId) return <div className="content narrow center" style={{ paddingTop: 80 }}><div className="sub">Chưa có phiên nào.</div><button className="btn mt16" onClick={() => nav('/speaking')}>Luyện nói ngay</button></div>;
+  if (err) return <div className="content narrow"><div className="error">{err}</div></div>;
+  if (!d) return <div className="content"><div className="loading">Vi đang chấm...</div></div>;
+
+  const last = d.attempts[d.attempts.length - 1];
+  const scores = [
+    { label: 'Ngữ pháp', v: 72 }, { label: 'Từ vựng', v: 80 }, { label: 'Trôi chảy', v: 65 }, { label: 'Nội dung', v: 78 },
+  ];
+
+  return (
+    <div className="content">
+      <div className="pagehead"><h1>Kết quả luyện nói</h1><div className="sub">{d.topic} · lần thử #{d.attemptCount}</div></div>
+      <div className="cols2">
+        <div className="card center">
+          <h2>Bản đồ kỹ năng</h2>
+          <Radar scores={scores} />
+          <div className="score-big">{last?.overallScore ?? '—'}</div>
+          <div className="sub">điểm tổng · {d.statistics.improvement}</div>
+        </div>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 18 }}>
+          <div className="card">
+            <h2>Chi tiết điểm</h2>
+            {scores.map((s) => (
+              <div className="bar-row mt8" key={s.label}><span className="lbl">{s.label}</span><div className="progress"><i style={{ width: `${s.v}%` }} /></div><b>{s.v}</b></div>
+            ))}
+          </div>
+          <div className="card">
+            <h2>Lịch sử phiên này</h2>
+            <table className="data mt8"><thead><tr><th>Lần</th><th>Điểm</th></tr></thead><tbody>
+              {d.attempts.map((a) => <tr key={a.id}><td>#{a.attemptNumber}</td><td><b>{a.overallScore}</b></td></tr>)}
+            </tbody></table>
+          </div>
+        </div>
+      </div>
+      <div className="card">
+        <div className="coach"><Mascot s={52} />
+          <div className="bubble"><b>Vi nhận xét:</b> phát âm của bạn đã tốt hơn {d.statistics.improvement}. Luyện thêm phần trôi chảy bằng cách nói chậm và đều nhịp nhé.</div></div>
+      </div>
+      <div className="btn-row">
+        <button className="btn ghost" onClick={() => nav('/speaking')}><Icon n="mic" s={20} />Luyện tiếp</button>
+        <button className="btn" onClick={() => nav('/')}>Về trang chủ</button>
+      </div>
+    </div>
+  );
+}

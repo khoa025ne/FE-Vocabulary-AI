@@ -1,1 +1,40 @@
-aW1wb3J0IHsgdXNlQXV0aCB9IGZyb20gJy4uL2F1dGgvQXV0aENvbnRleHQnOwppbXBvcnQgeyBJY29uLCBNYXNjb3QgfSBmcm9tICcuLi9jb21wb25lbnRzL2ljb25zJzsKaW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJzsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFByb2ZpbGUoKSB7CiAgY29uc3QgeyB1c2VyLCBsb2dvdXQgfSA9IHVzZUF1dGgoKTsKICBjb25zdCBuYXYgPSB1c2VOYXZpZ2F0ZSgpOwogIGlmICghdXNlcikgcmV0dXJuIG51bGw7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGVudCBuYXJyb3ciPgogICAgICA8ZGl2IGNsYXNzTmFtZT0icGFnZWhlYWQiPjxoMT5Dw6EgbmjDom48L2gxPjxkaXYgY2xhc3NOYW1lPSJzdWIiPlRow7RuZyB0aW4gdMOgaSBraG/huqNuIGPhu6dhIGLhuqFuPC9kaXY+PC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icm93Ij4KICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBnYXA6IDE2LCBhbGlnbkl0ZW1zOiAnY2VudGVyJyB9fT4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InVhdmF0YXIiIHN0eWxlPXt7IHdpZHRoOiA2NCwgaGVpZ2h0OiA2NCwgZm9udFNpemU6IDI4IH19Pnt1c2VyLnVzZXJuYW1lWzBdLnRvVXBwZXJDYXNlKCl9PC9kaXY+CiAgICAgICAgICAgIDxkaXY+PGgyPnt1c2VyLmZ1bGxOYW1lIHx8IHVzZXIudXNlcm5hbWV9PC9oMj48ZGl2IGNsYXNzTmFtZT0ic3ViIj5Ae3VzZXIudXNlcm5hbWV9PC9kaXY+PC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icGlsbCBsZXZlbCI+e3VzZXIucm9sZX08L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10MTYiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Imt2Ij48c3Bhbj5FbWFpbDwvc3Bhbj48Yj57dXNlci5lbWFpbH08L2I+PC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ia3YiPjxzcGFuPlRy4bqhbmcgdGjDoWk8L3NwYW4+PGI+e3VzZXIuc3RhdHVzfTwvYj48L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2xzMiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQgY2VudGVyIj48ZGl2IGNsYXNzTmFtZT0ic3ViIj48SWNvbiBuPSJmbGFtZSIgcz17MTh9IC8+IFN0cmVhazwvZGl2PjxiIHN0eWxlPXt7IGZvbnRTaXplOiAyOCB9fT4xMiBuZ8OgeTwvYj48L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCBjZW50ZXIiPjxkaXYgY2xhc3NOYW1lPSJzdWIiPjxJY29uIG49ImdlbSIgcz17MTh9IC8+IEtpbSBjxrDGoW5nPC9kaXY+PGIgc3R5bGU9e3sgZm9udFNpemU6IDI4IH19PjM0MDwvYj48L2Rpdj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29hY2giPjxNYXNjb3Qgcz17NDR9IC8+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYnViYmxlIj48Yj5WaTo8L2I+IGLhuqFuIMSRYW5nIOG7nyB0csOsbmggxJHhu5kgPGI+QjE8L2I+LiBN4bulYyB0acOqdSB0deG6p24gbsOgeTogaG/DoG4gdGjDoG5oIEJ1c2luZXNzIEVuZ2xpc2ggYsOgaSA0LzEyLjwvZGl2PjwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImJ0bi1yb3ciPgogICAgICAgIDxidXR0b24gY2xhc3NOYW1lPSJidG4gZ2hvc3QiIG9uQ2xpY2s9eygpID0+IG5hdignL2Zhdm9yaXRlcycpfT48SWNvbiBuPSJoZWFydCIgcz17MjB9IC8+VOG7qyB5w6p1IHRow61jaDwvYnV0dG9uPgogICAgICAgIDxidXR0b24gY2xhc3NOYW1lPSJidG4gZGFuZ2VyLWdob3N0IiBvbkNsaWNrPXtsb2dvdXR9PjxJY29uIG49ImxvZ291dCIgcz17MjB9IC8+xJDEg25nIHh14bqldDwvYnV0dG9uPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K
+import { useAuth } from '../auth/AuthContext';
+import { Icon, Mascot } from '../components/icons';
+import { useNavigate } from 'react-router-dom';
+
+export default function Profile() {
+  const { user, logout } = useAuth();
+  const nav = useNavigate();
+  if (!user) return null;
+
+  return (
+    <div className="content narrow">
+      <div className="pagehead"><h1>Cá nhân</h1><div className="sub">Thông tin tài khoản của bạn</div></div>
+      <div className="card">
+        <div className="row">
+          <div style={{ display: 'flex', gap: 16, alignItems: 'center' }}>
+            <div className="uavatar" style={{ width: 64, height: 64, fontSize: 28 }}>{user.username[0].toUpperCase()}</div>
+            <div><h2>{user.fullName || user.username}</h2><div className="sub">@{user.username}</div></div>
+          </div>
+          <span className="pill level">{user.role}</span>
+        </div>
+        <div className="mt16">
+          <div className="kv"><span>Email</span><b>{user.email}</b></div>
+          <div className="kv"><span>Trạng thái</span><b>{user.status}</b></div>
+        </div>
+      </div>
+      <div className="cols2">
+        <div className="card center"><div className="sub"><Icon n="flame" s={18} /> Streak</div><b style={{ fontSize: 28 }}>12 ngày</b></div>
+        <div className="card center"><div className="sub"><Icon n="gem" s={18} /> Kim cương</div><b style={{ fontSize: 28 }}>340</b></div>
+      </div>
+      <div className="card">
+        <div className="coach"><Mascot s={44} />
+          <div className="bubble"><b>Vi:</b> bạn đang ở trình độ <b>B1</b>. Mục tiêu tuần này: hoàn thành Business English bài 4/12.</div></div>
+      </div>
+      <div className="btn-row">
+        <button className="btn ghost" onClick={() => nav('/favorites')}><Icon n="heart" s={20} />Từ yêu thích</button>
+        <button className="btn danger-ghost" onClick={logout}><Icon n="logout" s={20} />Đăng xuất</button>
+      </div>
+    </div>
+  );
+}

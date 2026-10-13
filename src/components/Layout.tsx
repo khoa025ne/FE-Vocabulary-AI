@@ -1,1 +1,45 @@
-aW1wb3J0IHsgTmF2TGluaywgT3V0bGV0LCB1c2VOYXZpZ2F0ZSB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nOwppbXBvcnQgeyB1c2VBdXRoIH0gZnJvbSAnLi4vYXV0aC9BdXRoQ29udGV4dCc7CmltcG9ydCB7IEljb24sIE1hc2NvdCB9IGZyb20gJy4vaWNvbnMnOwoKY29uc3QgVEFCUyA9IFsKICB7IHRvOiAnLycsIGxhYmVsOiAnVOG7lW5nIHF1YW4nLCBpY29uOiAnaG9tZScgYXMgY29uc3QsIGVuZDogdHJ1ZSB9LAogIHsgdG86ICcvd29yZHMnLCBsYWJlbDogJ1Thu6sgduG7sW5nJywgaWNvbjogJ2Jvb2snIGFzIGNvbnN0IH0sCiAgeyB0bzogJy9zcGVha2luZycsIGxhYmVsOiAnTHV54buHbiBuw7NpJywgaWNvbjogJ21pYycgYXMgY29uc3QgfSwKICB7IHRvOiAnL3Byb2ZpbGUnLCBsYWJlbDogJ0PDoSBuaMOibicsIGljb246ICd1c2VyJyBhcyBjb25zdCB9LApdOwoKZXhwb3J0IGZ1bmN0aW9uIExheW91dCgpIHsKICBjb25zdCB7IHVzZXIsIGxvZ291dCB9ID0gdXNlQXV0aCgpOwogIGNvbnN0IG5hdiA9IHVzZU5hdmlnYXRlKCk7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJ3ZWIiPgogICAgICA8YXNpZGUgY2xhc3NOYW1lPSJzaWRlYmFyIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYnJhbmQiPjxNYXNjb3Qgcz17Mzh9IC8+Vm9jYWJ1bGFyeUFJPC9kaXY+CiAgICAgICAge1RBQlMubWFwKCh0KSA9PiAoCiAgICAgICAgICA8TmF2TGluayBrZXk9e3QudG99IHRvPXt0LnRvfSBlbmQ9e3QuZW5kfSBjbGFzc05hbWU9eyh7IGlzQWN0aXZlIH0pID0+ICduYXYnICsgKGlzQWN0aXZlID8gJyBvbicgOiAnJyl9PgogICAgICAgICAgICA8SWNvbiBuPXt0Lmljb259IHM9ezI0fSAvPnt0LmxhYmVsfQogICAgICAgICAgPC9OYXZMaW5rPgogICAgICAgICkpfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzaWRlLWNvYWNoIj4KICAgICAgICAgIDxNYXNjb3Qgcz17NDB9IC8+CiAgICAgICAgICA8ZGl2PjxzcGFuIGNsYXNzTmFtZT0iZG90Ij48L3NwYW4+PGI+Vmkgbmjhuq9jOjwvYj4gZHV5IHRyw6wgc3RyZWFrIG3hu5dpIG5nw6B5IG5ow6khPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9Im5hdiIgb25DbGljaz17bG9nb3V0fSBzdHlsZT17eyBtYXJnaW5Ub3A6IDggfX0+CiAgICAgICAgICA8SWNvbiBuPSJsb2dvdXQiIHM9ezI0fSAvPsSQxINuZyB4deG6pXQKICAgICAgICA8L2J1dHRvbj4KICAgICAgPC9hc2lkZT4KICAgICAgPGRpdiBjbGFzc05hbWU9Im1haW4iPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0b3BiYXIiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InN0YXQiPjxJY29uIG49ImZsYW1lIiBzPXsxOH0gLz48c3BhbiBzdHlsZT17eyBjb2xvcjogJyNCNTdGMUYnIH19PjEyPC9zcGFuPjwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InN0YXQiPjxJY29uIG49ImdlbSIgcz17MTh9IC8+PHNwYW4gc3R5bGU9e3sgY29sb3I6ICd2YXIoLS1wcmltYXJ5KScgfX0+MzQwPC9zcGFuPjwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InN0YXQiPjxJY29uIG49ImhlYXJ0IiBzPXsxOH0gLz48c3BhbiBzdHlsZT17eyBjb2xvcjogJ3ZhcigtLXJlZCknIH19PjU8L3NwYW4+PC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idWF2YXRhciIgb25DbGljaz17KCkgPT4gbmF2KCcvcHJvZmlsZScpfSBzdHlsZT17eyBjdXJzb3I6ICdwb2ludGVyJyB9fT4KICAgICAgICAgICAgeyh1c2VyPy51c2VybmFtZSB8fCAnVScpWzBdLnRvVXBwZXJDYXNlKCl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8T3V0bGV0IC8+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo=
+import { NavLink, Outlet, useNavigate } from 'react-router-dom';
+import { useAuth } from '../auth/AuthContext';
+import { Icon, Mascot } from './icons';
+
+const TABS = [
+  { to: '/', label: 'Tổng quan', icon: 'home' as const, end: true },
+  { to: '/words', label: 'Từ vựng', icon: 'book' as const },
+  { to: '/speaking', label: 'Luyện nói', icon: 'mic' as const },
+  { to: '/profile', label: 'Cá nhân', icon: 'user' as const },
+];
+
+export function Layout() {
+  const { user, logout } = useAuth();
+  const nav = useNavigate();
+  return (
+    <div className="web">
+      <aside className="sidebar">
+        <div className="brand"><Mascot s={38} />VocabularyAI</div>
+        {TABS.map((t) => (
+          <NavLink key={t.to} to={t.to} end={t.end} className={({ isActive }) => 'nav' + (isActive ? ' on' : '')}>
+            <Icon n={t.icon} s={24} />{t.label}
+          </NavLink>
+        ))}
+        <div className="side-coach">
+          <Mascot s={40} />
+          <div><span className="dot"></span><b>Vi nhắc:</b> duy trì streak mỗi ngày nhé!</div>
+        </div>
+        <button className="nav" onClick={logout} style={{ marginTop: 8 }}>
+          <Icon n="logout" s={24} />Đăng xuất
+        </button>
+      </aside>
+      <div className="main">
+        <div className="topbar">
+          <div className="stat"><Icon n="flame" s={18} /><span style={{ color: '#B57F1F' }}>12</span></div>
+          <div className="stat"><Icon n="gem" s={18} /><span style={{ color: 'var(--primary)' }}>340</span></div>
+          <div className="stat"><Icon n="heart" s={18} /><span style={{ color: 'var(--red)' }}>5</span></div>
+          <div className="uavatar" onClick={() => nav('/profile')} style={{ cursor: 'pointer' }}>
+            {(user?.username || 'U')[0].toUpperCase()}
+          </div>
+        </div>
+        <Outlet />
+      </div>
+    </div>
+  );
+}

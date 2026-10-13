@@ -1,1 +1,88 @@
-aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VSZWYsIHVzZVN0YXRlIH0gZnJvbSAncmVhY3QnOwppbXBvcnQgeyBhaUFwaSwgZXJyTXNnIH0gZnJvbSAnLi4vYXBpJzsKaW1wb3J0IHR5cGUgeyBDb252ZXJzYXRpb24sIENoYXRNc2cgfSBmcm9tICcuLi9hcGknOwppbXBvcnQgeyBJY29uLCBNYXNjb3QgfSBmcm9tICcuLi9jb21wb25lbnRzL2ljb25zJzsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIENoYXQoKSB7CiAgY29uc3QgW2NvbnZzLCBzZXRDb252c10gPSB1c2VTdGF0ZTxDb252ZXJzYXRpb25bXT4oW10pOwogIGNvbnN0IFtjdXIsIHNldEN1cl0gPSB1c2VTdGF0ZTxudW1iZXIgfCBudWxsPihudWxsKTsKICBjb25zdCBbbXNncywgc2V0TXNnc10gPSB1c2VTdGF0ZTxDaGF0TXNnW10+KFtdKTsKICBjb25zdCBbdGV4dCwgc2V0VGV4dF0gPSB1c2VTdGF0ZSgnJyk7CiAgY29uc3QgW2J1c3ksIHNldEJ1c3ldID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtlcnIsIHNldEVycl0gPSB1c2VTdGF0ZSgnJyk7CiAgY29uc3QgYm90dG9tID0gdXNlUmVmPEhUTUxEaXZFbGVtZW50PihudWxsKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGFpQXBpLmxpc3RDb252KCkudGhlbigoeyBkYXRhIH0pID0+IHsKICAgICAgc2V0Q29udnMoZGF0YS5jb250ZW50KTsKICAgICAgaWYgKGRhdGEuY29udGVudFswXSkgb3BlbkNvbnYoZGF0YS5jb250ZW50WzBdLmlkKTsKICAgIH0pLmNhdGNoKCgpID0+IHt9KTsKICB9LCBbXSk7CiAgdXNlRWZmZWN0KCgpID0+IGJvdHRvbS5jdXJyZW50Py5zY3JvbGxJbnRvVmlldyh7IGJlaGF2aW9yOiAnc21vb3RoJyB9KSwgW21zZ3NdKTsKCiAgY29uc3Qgb3BlbkNvbnYgPSAoaWQ6IG51bWJlcikgPT4gewogICAgc2V0Q3VyKGlkKTsKICAgIGFpQXBpLmNvbnZNc2dzKGlkKS50aGVuKCh7IGRhdGEgfSkgPT4gc2V0TXNncyhkYXRhLmNvbnRlbnQpKS5jYXRjaCgoZSkgPT4gc2V0RXJyKGVyck1zZyhlKSkpOwogIH07CiAgY29uc3QgbmV3Q29udiA9IGFzeW5jICgpID0+IHsKICAgIHRyeSB7CiAgICAgIGNvbnN0IHsgZGF0YSB9ID0gYXdhaXQgYWlBcGkuY3JlYXRlQ29udignR0VORVJBTCcsICdUcsOyIGNodXnhu4duIG3hu5tpJyk7CiAgICAgIHNldENvbnZzKChjKSA9PiBbZGF0YSwgLi4uY10pOyBvcGVuQ29udihkYXRhLmlkKTsKICAgIH0gY2F0Y2ggKGUpIHsgc2V0RXJyKGVyck1zZyhlKSk7IH0KICB9OwogIGNvbnN0IHNlbmQgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIXRleHQudHJpbSgpIHx8IGJ1c3kpIHJldHVybjsKICAgIGxldCBjaWQgPSBjdXI7CiAgICBpZiAoIWNpZCkgewogICAgICB0cnkgeyBjb25zdCB7IGRhdGEgfSA9IGF3YWl0IGFpQXBpLmNyZWF0ZUNvbnYoJ0dFTkVSQUwnLCB0ZXh0LnNsaWNlKDAsIDMwKSk7IGNpZCA9IGRhdGEuaWQ7IHNldENvbnZzKChjKSA9PiBbZGF0YSwgLi4uY10pOyBzZXRDdXIoY2lkKTsgfQogICAgICBjYXRjaCAoZSkgeyBzZXRFcnIoZXJyTXNnKGUpKTsgcmV0dXJuOyB9CiAgICB9CiAgICBjb25zdCBjb250ZW50ID0gdGV4dDsgc2V0VGV4dCgnJyk7IHNldEJ1c3kodHJ1ZSk7CiAgICBzZXRNc2dzKChtKSA9PiBbLi4ubSwgeyBpZDogRGF0ZS5ub3coKSwgY29udmVyc2F0aW9uSWQ6IGNpZCEsIHJvbGU6ICdVU0VSJywgY29udGVudCB9XSk7CiAgICB0cnkgewogICAgICBjb25zdCB7IGRhdGEgfSA9IGF3YWl0IGFpQXBpLnNlbmRNc2coY2lkISwgY29udGVudCk7CiAgICAgIHNldE1zZ3MoKG0pID0+IFsuLi5tLCBkYXRhXSk7CiAgICB9IGNhdGNoIChlKSB7IHNldEVycihlcnJNc2coZSwgJ1ZpIGNoxrBhIHRy4bqjIGzhu51pIMSRxrDhu6NjLCB0aOG7rSBs4bqhaSBuaMOpLicpKTsgfQogICAgZmluYWxseSB7IHNldEJ1c3koZmFsc2UpOyB9CiAgfTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJjb250ZW50Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9InBhZ2VoZWFkIj48aDE+VHLDsiBjaHV54buHbiB24bubaSBWaTwvaDE+PGRpdiBjbGFzc05hbWU9InN1YiI+SOG7j2kgbmfhu68gcGjDoXAsIHThu6sgduG7sW5nLCBjw6FjaCBkaeG7hW4gxJHhuqF0IOKAlCBWaSB0cuG6oyBs4budaSAyNC83PC9kaXY+PC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2xzMiIgc3R5bGU9e3sgZ3JpZFRlbXBsYXRlQ29sdW1uczogJzI4MHB4IDFmcicsIGFsaWduSXRlbXM6ICdzdGFydCcgfX0+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQiIHN0eWxlPXt7IHBhZGRpbmc6IDEwIH19PgogICAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImJ0biBnaG9zdCBibG9jayIgc3R5bGU9e3sgbWluSGVpZ2h0OiA0OCB9fSBvbkNsaWNrPXtuZXdDb252fT48SWNvbiBuPSJwZW4iIHM9ezE4fSAvPsSQb+G6oW4gY2hhdCBt4bubaTwvYnV0dG9uPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10OCIgc3R5bGU9e3sgZGlzcGxheTogJ2ZsZXgnLCBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJywgZ2FwOiA0IH19PgogICAgICAgICAgICB7Y29udnMubWFwKChjKSA9PiAoCiAgICAgICAgICAgICAgPGJ1dHRvbiBrZXk9e2MuaWR9IGNsYXNzTmFtZT17J25hdicgKyAoY3VyID09PSBjLmlkID8gJyBvbicgOiAnJyl9IHN0eWxlPXt7IGZvbnRTaXplOiAxNCB9fSBvbkNsaWNrPXsoKSA9PiBvcGVuQ29udihjLmlkKX0+CiAgICAgICAgICAgICAgICA8SWNvbiBuPSJtc2ciIHM9ezIwfSAvPjxzcGFuIHN0eWxlPXt7IG92ZXJmbG93OiAnaGlkZGVuJywgdGV4dE92ZXJmbG93OiAnZWxsaXBzaXMnLCB3aGl0ZVNwYWNlOiAnbm93cmFwJyB9fT57Yy50aXRsZX08L3NwYW4+CiAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICkpfQogICAgICAgICAgICB7Y29udnMubGVuZ3RoID09PSAwICYmIDxkaXYgY2xhc3NOYW1lPSJlbXB0eSI+Q2jGsGEgY8OzIMSRb+G6oW4gY2hhdCBuw6BvLjwvZGl2Pn0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkIiBzdHlsZT17eyBtaW5IZWlnaHQ6IDU2MCwgZGlzcGxheTogJ2ZsZXgnLCBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJyB9fT4KICAgICAgICAgIHtlcnIgJiYgPGRpdiBjbGFzc05hbWU9ImVycm9yIj57ZXJyfTwvZGl2Pn0KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjaGF0IiBzdHlsZT17eyBmbGV4OiAxLCBvdmVyZmxvd1k6ICdhdXRvJywgbWF4SGVpZ2h0OiA1MjAgfX0+CiAgICAgICAgICAgIHttc2dzLmxlbmd0aCA9PT0gMCAmJiAoCiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNlbnRlciIgc3R5bGU9e3sgcGFkZGluZzogNDAgfX0+CiAgICAgICAgICAgICAgICA8TWFzY290IHM9ezcyfSAvPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InN1YiBtdDgiPkNow6BvIGLhuqFuISBI4buPaSBWaSBi4bqldCBj4bupIGfDrCB24buBIHRp4bq/bmcgQW5oIG5ow6kuPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICl9CiAgICAgICAgICAgIHttc2dzLm1hcCgobSkgPT4gKAogICAgICAgICAgICAgIDxkaXYga2V5PXttLmlkfSBjbGFzc05hbWU9eydtc2cgJyArIChtLnJvbGUgPT09ICdVU0VSJyA/ICdtZScgOiAnYWknKX0+e20uY29udGVudH08L2Rpdj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIHtidXN5ICYmIDxkaXYgY2xhc3NOYW1lPSJtc2cgYWkiPlZpIMSRYW5nIGfDtS4uLjwvZGl2Pn0KICAgICAgICAgICAgPGRpdiByZWY9e2JvdHRvbX0gLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNoYXRiYXIgbXQxNiI+CiAgICAgICAgICAgIDxpbnB1dCBjbGFzc05hbWU9ImlucHV0IiB2YWx1ZT17dGV4dH0gb25DaGFuZ2U9eyhlKSA9PiBzZXRUZXh0KGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAgICAgICBvbktleURvd249eyhlKSA9PiBlLmtleSA9PT0gJ0VudGVyJyAmJiBzZW5kKCl9IHBsYWNlaG9sZGVyPSJI4buPaSBWaSDEkWnhu4F1IGfDrCDEkcOzLi4uIiAvPgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYnRuIiBvbkNsaWNrPXtzZW5kfSBhcmlhLWxhYmVsPSJn4butaSI+PEljb24gbj0ic2VuZCIgcz17MjJ9IC8+PC9idXR0b24+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg==
+import { useEffect, useRef, useState } from 'react';
+import { aiApi, errMsg } from '../api';
+import type { Conversation, ChatMsg } from '../api';
+import { Icon, Mascot } from '../components/icons';
+
+export default function Chat() {
+  const [convs, setConvs] = useState<Conversation[]>([]);
+  const [cur, setCur] = useState<number | null>(null);
+  const [msgs, setMsgs] = useState<ChatMsg[]>([]);
+  const [text, setText] = useState('');
+  const [busy, setBusy] = useState(false);
+  const [err, setErr] = useState('');
+  const bottom = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    aiApi.listConv().then(({ data }) => {
+      setConvs(data.content);
+      if (data.content[0]) openConv(data.content[0].id);
+    }).catch(() => {});
+  }, []);
+  useEffect(() => bottom.current?.scrollIntoView({ behavior: 'smooth' }), [msgs]);
+
+  const openConv = (id: number) => {
+    setCur(id);
+    aiApi.convMsgs(id).then(({ data }) => setMsgs(data.messages || [])).catch((e) => setErr(errMsg(e)));
+  };
+  const newConv = async () => {
+    try {
+      const { data } = await aiApi.createConv('GENERAL', 'Trò chuyện mới');
+      setConvs((c) => [data, ...c]); openConv(data.id);
+    } catch (e) { setErr(errMsg(e)); }
+  };
+  const send = async () => {
+    if (!text.trim() || busy) return;
+    let cid = cur;
+    if (!cid) {
+      try { const { data } = await aiApi.createConv('GENERAL', text.slice(0, 30)); cid = data.id; setConvs((c) => [data, ...c]); setCur(cid); }
+      catch (e) { setErr(errMsg(e)); return; }
+    }
+    const content = text; setText(''); setBusy(true);
+    setMsgs((m) => [...m, { id: Date.now(), conversationId: cid!, role: 'USER', content }]);
+    try {
+      const { data } = await aiApi.sendMsg(cid!, content);
+      setMsgs((m) => [...m, data]);
+    } catch (e) { setErr(errMsg(e, 'Vi chưa trả lời được, thử lại nhé.')); }
+    finally { setBusy(false); }
+  };
+
+  return (
+    <div className="content">
+      <div className="pagehead"><h1>Trò chuyện với Vi</h1><div className="sub">Hỏi ngữ pháp, từ vựng, cách diễn đạt — Vi trả lời 24/7</div></div>
+      <div className="cols2" style={{ gridTemplateColumns: '280px 1fr', alignItems: 'start' }}>
+        <div className="card" style={{ padding: 10 }}>
+          <button className="btn ghost block" style={{ minHeight: 48 }} onClick={newConv}><Icon n="pen" s={18} />Đoạn chat mới</button>
+          <div className="mt8" style={{ display: 'flex', flexDirection: 'column', gap: 4 }}>
+            {convs.map((c) => (
+              <button key={c.id} className={'nav' + (cur === c.id ? ' on' : '')} style={{ fontSize: 14 }} onClick={() => openConv(c.id)}>
+                <Icon n="msg" s={20} /><span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c.title}</span>
+              </button>
+            ))}
+            {convs.length === 0 && <div className="empty">Chưa có đoạn chat nào.</div>}
+          </div>
+        </div>
+        <div className="card" style={{ minHeight: 560, display: 'flex', flexDirection: 'column' }}>
+          {err && <div className="error">{err}</div>}
+          <div className="chat" style={{ flex: 1, overflowY: 'auto', maxHeight: 520 }}>
+            {msgs.length === 0 && (
+              <div className="center" style={{ padding: 40 }}>
+                <Mascot s={72} />
+                <div className="sub mt8">Chào bạn! Hỏi Vi bất cứ gì về tiếng Anh nhé.</div>
+              </div>
+            )}
+            {msgs.map((m) => (
+              <div key={m.id} className={'msg ' + (m.role === 'USER' ? 'me' : 'ai')}>{m.content}</div>
+            ))}
+            {busy && <div className="msg ai">Vi đang gõ...</div>}
+            <div ref={bottom} />
+          </div>
+          <div className="chatbar mt16">
+            <input className="input" value={text} onChange={(e) => setText(e.target.value)}
+              onKeyDown={(e) => e.key === 'Enter' && send()} placeholder="Hỏi Vi điều gì đó..." />
+            <button className="btn" onClick={send} aria-label="gửi"><Icon n="send" s={22} /></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

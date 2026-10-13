@@ -1,1 +1,41 @@
-aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJzsKaW1wb3J0IHsgcXVpekFwaSwgZXJyTXNnIH0gZnJvbSAnLi4vYXBpJzsKaW1wb3J0IHR5cGUgeyBRdWl6IH0gZnJvbSAnLi4vYXBpJzsKaW1wb3J0IHsgSWNvbiB9IGZyb20gJy4uL2NvbXBvbmVudHMvaWNvbnMnOwoKY29uc3QgTEVWRUxTID0gWydU4bqldCBj4bqjJywgJ0ExJywgJ0EyJywgJ0IxJywgJ0IyJywgJ0MxJ107CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBRdWl6TGlzdCgpIHsKICBjb25zdCBbcXVpenplcywgc2V0UXVpenplc10gPSB1c2VTdGF0ZTxRdWl6W10+KFtdKTsKICBjb25zdCBbbGV2ZWwsIHNldExldmVsXSA9IHVzZVN0YXRlKCdU4bqldCBj4bqjJyk7CiAgY29uc3QgW2Vyciwgc2V0RXJyXSA9IHVzZVN0YXRlKCcnKTsKICBjb25zdCBuYXYgPSB1c2VOYXZpZ2F0ZSgpOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgcXVpekFwaS5saXN0KHsgcGFnZTogMCwgc2l6ZTogMjAsIGxldmVsOiBsZXZlbCA9PT0gJ1ThuqV0IGPhuqMnID8gdW5kZWZpbmVkIDogbGV2ZWwgfSkKICAgICAgLnRoZW4oKHsgZGF0YSB9KSA9PiBzZXRRdWl6emVzKGRhdGEuY29udGVudCkpCiAgICAgIC5jYXRjaCgoZSkgPT4gc2V0RXJyKGVyck1zZyhlKSkpOwogIH0sIFtsZXZlbF0pOwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImNvbnRlbnQiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0icGFnZWhlYWQiPjxoMT5RdWl6IGx1eeG7h24gdOG6rXA8L2gxPjxkaXYgY2xhc3NOYW1lPSJzdWIiPkLhuqVtIGdp4budIG5oxrAgdGhpIHRo4bqtdCDigJQgY2jhu41uIMSRw6FwIMOhbiBy4buTaSBu4buZcCBiw6BpPC9kaXY+PC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjaGlwcyI+e0xFVkVMUy5tYXAoKGwpID0+ICgKICAgICAgICA8YnV0dG9uIGtleT17bH0gY2xhc3NOYW1lPXsnY2hpcCcgKyAobGV2ZWwgPT09IGwgPyAnIG9uJyA6ICcnKX0gb25DbGljaz17KCkgPT4gc2V0TGV2ZWwobCl9PntsfTwvYnV0dG9uPgogICAgICApKX08L2Rpdj4KICAgICAge2VyciAmJiA8ZGl2IGNsYXNzTmFtZT0iZXJyb3IiPntlcnJ9PC9kaXY+fQogICAgICA8ZGl2IGNsYXNzTmFtZT0iY29sczMiPgogICAgICAgIHtxdWl6emVzLm1hcCgocXopID0+ICgKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkIiBrZXk9e3F6LmlkfT4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJvdyI+PHNwYW4gY2xhc3NOYW1lPSJwaWxsIGxldmVsIj57cXoubGV2ZWx9PC9zcGFuPjxzcGFuIGNsYXNzTmFtZT0ic3ViIj48SWNvbiBuPSJjbG9jayIgcz17MTZ9IC8+IHtxei50aW1lTGltaXR9IHBow7p0PC9zcGFuPjwvZGl2PgogICAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJtdDgiPntxei50aXRsZX08L2gyPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3ViIG10OCI+e3F6LnF1ZXN0aW9uQ291bnR9IGPDonUgaOG7j2l7cXouY2F0ZWdvcnkgPyBgIMK3ICR7cXouY2F0ZWdvcnl9YCA6ICcnfTwvZGl2PgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYnRuIGJsb2NrIG10MTYiIG9uQ2xpY2s9eygpID0+IG5hdihgL3F1aXovJHtxei5pZH1gKX0+TMOgbSBiw6BpPC9idXR0b24+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApKX0KICAgICAgPC9kaXY+CiAgICAgIHtxdWl6emVzLmxlbmd0aCA9PT0gMCAmJiAhZXJyICYmIDxkaXYgY2xhc3NOYW1lPSJlbXB0eSI+Q2jGsGEgY8OzIHF1aXogbsOgbyDhu58gdHLDrG5oIMSR4buZIG7DoHkuPC9kaXY+fQogICAgPC9kaXY+CiAgKTsKfQo=
+import { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import { quizApi, errMsg } from '../api';
+import type { Quiz } from '../api';
+import { Icon } from '../components/icons';
+
+const LEVELS = ['Tất cả', 'A1', 'A2', 'B1', 'B2', 'C1'];
+
+export default function QuizList() {
+  const [quizzes, setQuizzes] = useState<Quiz[]>([]);
+  const [level, setLevel] = useState('Tất cả');
+  const [err, setErr] = useState('');
+  const nav = useNavigate();
+
+  useEffect(() => {
+    quizApi.list({ page: 0, size: 20, level: level === 'Tất cả' ? undefined : level })
+      .then(({ data }) => setQuizzes(data.content))
+      .catch((e) => setErr(errMsg(e)));
+  }, [level]);
+
+  return (
+    <div className="content">
+      <div className="pagehead"><h1>Quiz luyện tập</h1><div className="sub">Bấm giờ như thi thật — chọn đáp án rồi nộp bài</div></div>
+      <div className="chips">{LEVELS.map((l) => (
+        <button key={l} className={'chip' + (level === l ? ' on' : '')} onClick={() => setLevel(l)}>{l}</button>
+      ))}</div>
+      {err && <div className="error">{err}</div>}
+      <div className="cols3">
+        {quizzes.map((qz) => (
+          <div className="card" key={qz.id}>
+            <div className="row"><span className="pill level">{qz.level}</span><span className="sub"><Icon n="clock" s={16} /> {qz.timeLimit} phút</span></div>
+            <h2 className="mt8">{qz.title}</h2>
+            <div className="sub mt8">{qz.questionCount} câu hỏi{qz.category ? ` · ${qz.category}` : ''}</div>
+            <button className="btn block mt16" onClick={() => nav(`/quiz/${qz.id}`)}>Làm bài</button>
+          </div>
+        ))}
+      </div>
+      {quizzes.length === 0 && !err && <div className="empty">Chưa có quiz nào ở trình độ này.</div>}
+    </div>
+  );
+}

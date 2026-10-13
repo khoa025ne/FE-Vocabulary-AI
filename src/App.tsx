@@ -1,1 +1,54 @@
-aW1wb3J0IHsgQnJvd3NlclJvdXRlciwgUm91dGVzLCBSb3V0ZSwgTmF2aWdhdGUgfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJzsKaW1wb3J0IHsgQXV0aFByb3ZpZGVyIH0gZnJvbSAnLi9hdXRoL0F1dGhDb250ZXh0JzsKaW1wb3J0IHsgTGF5b3V0IH0gZnJvbSAnLi9jb21wb25lbnRzL0xheW91dCc7CmltcG9ydCB7IFByb3RlY3RlZCwgR3Vlc3QgfSBmcm9tICcuL2NvbXBvbmVudHMvR3VhcmRzJzsKaW1wb3J0IExvZ2luIGZyb20gJy4vcGFnZXMvTG9naW4nOwppbXBvcnQgT3RwIGZyb20gJy4vcGFnZXMvT3RwJzsKaW1wb3J0IERhc2hib2FyZCBmcm9tICcuL3BhZ2VzL0Rhc2hib2FyZCc7CmltcG9ydCBXb3JkcyBmcm9tICcuL3BhZ2VzL1dvcmRzJzsKaW1wb3J0IFdvcmREZXRhaWwgZnJvbSAnLi9wYWdlcy9Xb3JkRGV0YWlsJzsKaW1wb3J0IEZhdm9yaXRlcyBmcm9tICcuL3BhZ2VzL0Zhdm9yaXRlcyc7CmltcG9ydCBSZXZpZXcgZnJvbSAnLi9wYWdlcy9SZXZpZXcnOwppbXBvcnQgUXVpekxpc3QgZnJvbSAnLi9wYWdlcy9RdWl6TGlzdCc7CmltcG9ydCBRdWl6RG8gZnJvbSAnLi9wYWdlcy9RdWl6RG8nOwppbXBvcnQgUXVpelJlc3VsdCBmcm9tICcuL3BhZ2VzL1F1aXpSZXN1bHQnOwppbXBvcnQgR3JhbW1hciBmcm9tICcuL3BhZ2VzL0dyYW1tYXInOwppbXBvcnQgQ2hhdCBmcm9tICcuL3BhZ2VzL0NoYXQnOwppbXBvcnQgU3BlYWtpbmcgZnJvbSAnLi9wYWdlcy9TcGVha2luZyc7CmltcG9ydCBTcGVha2luZ1Jlc3VsdCBmcm9tICcuL3BhZ2VzL1NwZWFraW5nUmVzdWx0JzsKaW1wb3J0IFByb2ZpbGUgZnJvbSAnLi9wYWdlcy9Qcm9maWxlJzsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEFwcCgpIHsKICByZXR1cm4gKAogICAgPEJyb3dzZXJSb3V0ZXI+CiAgICAgIDxBdXRoUHJvdmlkZXI+CiAgICAgICAgPFJvdXRlcz4KICAgICAgICAgIDxSb3V0ZSBlbGVtZW50PXs8R3Vlc3QgLz59PgogICAgICAgICAgICA8Um91dGUgcGF0aD0iL2xvZ2luIiBlbGVtZW50PXs8TG9naW4gLz59IC8+CiAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvb3RwIiBlbGVtZW50PXs8T3RwIC8+fSAvPgogICAgICAgICAgPC9Sb3V0ZT4KICAgICAgICAgIDxSb3V0ZSBlbGVtZW50PXs8UHJvdGVjdGVkIC8+fT4KICAgICAgICAgICAgPFJvdXRlIGVsZW1lbnQ9ezxMYXlvdXQgLz59PgogICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvIiBlbGVtZW50PXs8RGFzaGJvYXJkIC8+fSAvPgogICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvd29yZHMiIGVsZW1lbnQ9ezxXb3JkcyAvPn0gLz4KICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3dvcmRzLzppZCIgZWxlbWVudD17PFdvcmREZXRhaWwgLz59IC8+CiAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9mYXZvcml0ZXMiIGVsZW1lbnQ9ezxGYXZvcml0ZXMgLz59IC8+CiAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9yZXZpZXciIGVsZW1lbnQ9ezxSZXZpZXcgLz59IC8+CiAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9xdWl6IiBlbGVtZW50PXs8UXVpekxpc3QgLz59IC8+CiAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9xdWl6LzppZCIgZWxlbWVudD17PFF1aXpEbyAvPn0gLz4KICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3F1aXovOmlkL3Jlc3VsdCIgZWxlbWVudD17PFF1aXpSZXN1bHQgLz59IC8+CiAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9ncmFtbWFyIiBlbGVtZW50PXs8R3JhbW1hciAvPn0gLz4KICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL2NoYXQiIGVsZW1lbnQ9ezxDaGF0IC8+fSAvPgogICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvc3BlYWtpbmciIGVsZW1lbnQ9ezxTcGVha2luZyAvPn0gLz4KICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3NwZWFraW5nL3Jlc3VsdCIgZWxlbWVudD17PFNwZWFraW5nUmVzdWx0IC8+fSAvPgogICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcHJvZmlsZSIgZWxlbWVudD17PFByb2ZpbGUgLz59IC8+CiAgICAgICAgICAgIDwvUm91dGU+CiAgICAgICAgICA8L1JvdXRlPgogICAgICAgICAgPFJvdXRlIHBhdGg9IioiIGVsZW1lbnQ9ezxOYXZpZ2F0ZSB0bz0iLyIgcmVwbGFjZSAvPn0gLz4KICAgICAgICA8L1JvdXRlcz4KICAgICAgPC9BdXRoUHJvdmlkZXI+CiAgICA8L0Jyb3dzZXJSb3V0ZXI+CiAgKTsKfQo=
+import { BrowserRouter, HashRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { AuthProvider } from './auth/AuthContext';
+import { Layout } from './components/Layout';
+import { Protected, Guest } from './components/Guards';
+import Login from './pages/Login';
+import Otp from './pages/Otp';
+import Dashboard from './pages/Dashboard';
+import Words from './pages/Words';
+import WordDetail from './pages/WordDetail';
+import Favorites from './pages/Favorites';
+import Review from './pages/Review';
+import QuizList from './pages/QuizList';
+import QuizDo from './pages/QuizDo';
+import QuizResult from './pages/QuizResult';
+import Grammar from './pages/Grammar';
+import Chat from './pages/Chat';
+import Speaking from './pages/Speaking';
+import SpeakingResult from './pages/SpeakingResult';
+import Profile from './pages/Profile';
+
+export default function App() {
+  // Demo mode: HashRouter để chạy được trên static hosting không có SPA fallback.
+  const Router = import.meta.env.VITE_DEMO === '1' ? HashRouter : BrowserRouter;
+  return (
+    <Router>
+      <AuthProvider>
+        <Routes>
+          <Route element={<Guest />}>
+            <Route path="/login" element={<Login />} />
+            <Route path="/otp" element={<Otp />} />
+          </Route>
+          <Route element={<Protected />}>
+            <Route element={<Layout />}>
+              <Route path="/" element={<Dashboard />} />
+              <Route path="/words" element={<Words />} />
+              <Route path="/words/:id" element={<WordDetail />} />
+              <Route path="/favorites" element={<Favorites />} />
+              <Route path="/review" element={<Review />} />
+              <Route path="/quiz" element={<QuizList />} />
+              <Route path="/quiz/:id" element={<QuizDo />} />
+              <Route path="/quiz/:id/result" element={<QuizResult />} />
+              <Route path="/grammar" element={<Grammar />} />
+              <Route path="/chat" element={<Chat />} />
+              <Route path="/speaking" element={<Speaking />} />
+              <Route path="/speaking/result" element={<SpeakingResult />} />
+              <Route path="/profile" element={<Profile />} />
+            </Route>
+          </Route>
+          <Route path="*" element={<Navigate to="/" replace />} />
+        </Routes>
+      </AuthProvider>
+    </Router>
+  );
+}

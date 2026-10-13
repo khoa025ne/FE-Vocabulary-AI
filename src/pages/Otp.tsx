@@ -1,1 +1,58 @@
-aW1wb3J0IHsgdXNlUmVmLCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgdXNlTG9jYXRpb24sIHVzZU5hdmlnYXRlIH0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbSc7CmltcG9ydCB7IGF1dGhBcGksIGVyck1zZyB9IGZyb20gJy4uL2FwaSc7CmltcG9ydCB7IE1hc2NvdCB9IGZyb20gJy4uL2NvbXBvbmVudHMvaWNvbnMnOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gT3RwKCkgewogIGNvbnN0IHsgc3RhdGUgfSA9IHVzZUxvY2F0aW9uKCkgYXMgeyBzdGF0ZT86IHsgZW1haWw6IHN0cmluZzsgdXNlcm5hbWU6IHN0cmluZzsgZnVsbE5hbWU6IHN0cmluZzsgcGFzc3dvcmQ6IHN0cmluZyB9IH07CiAgY29uc3QgbmF2ID0gdXNlTmF2aWdhdGUoKTsKICBjb25zdCBbZGlnaXRzLCBzZXREaWdpdHNdID0gdXNlU3RhdGU8c3RyaW5nW10+KEFycmF5KDYpLmZpbGwoJycpKTsKICBjb25zdCBbZXJyLCBzZXRFcnJdID0gdXNlU3RhdGUoJycpOwogIGNvbnN0IFtidXN5LCBzZXRCdXN5XSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCByZWZzID0gdXNlUmVmPChIVE1MSW5wdXRFbGVtZW50IHwgbnVsbClbXT4oW10pOwoKICBpZiAoIXN0YXRlPy5lbWFpbCkgeyBuYXYoJy9sb2dpbicsIHsgcmVwbGFjZTogdHJ1ZSB9KTsgcmV0dXJuIG51bGw7IH0KCiAgY29uc3Qgc2V0ID0gKGk6IG51bWJlciwgdjogc3RyaW5nKSA9PiB7CiAgICB2ID0gdi5yZXBsYWNlKC9cRC9nLCAnJykuc2xpY2UoLTEpOwogICAgY29uc3QgZCA9IFsuLi5kaWdpdHNdOyBkW2ldID0gdjsgc2V0RGlnaXRzKGQpOwogICAgaWYgKHYgJiYgaSA8IDUpIHJlZnMuY3VycmVudFtpICsgMV0/LmZvY3VzKCk7CiAgfTsKICBjb25zdCBzdWJtaXQgPSBhc3luYyAoKSA9PiB7CiAgICBjb25zdCBvdHAgPSBkaWdpdHMuam9pbignJyk7CiAgICBpZiAob3RwLmxlbmd0aCA8IDYpIHsgc2V0RXJyKCdOaOG6rXAgxJHhu6cgNiBz4buRIG5ow6kuJyk7IHJldHVybjsgfQogICAgc2V0RXJyKCcnKTsgc2V0QnVzeSh0cnVlKTsKICAgIHRyeSB7CiAgICAgIC8vIEJFIGPhu5EgdMOsbmggS0jDlE5HIHRy4bqjIHRva2VuIHNhdSB2ZXJpZnkgT1RQIChSZWdpc3RlclN1Y2Nlc3NSZXNwb25zZSkg4oaSIHF1YSB0cmFuZyBsb2dpbiDEkcSDbmcgbmjhuq1wIHRheQogICAgICBhd2FpdCBhdXRoQXBpLnZlcmlmeU90cCh7IC4uLnN0YXRlLCBvdHAgfSk7CiAgICAgIG5hdignL2xvZ2luJywgeyBzdGF0ZTogeyByZWdpc3RlcmVkOiB0cnVlIH0sIHJlcGxhY2U6IHRydWUgfSk7CiAgICB9IGNhdGNoIChlKSB7IHNldEVycihlcnJNc2coZSwgJ03DoyBPVFAgY2jGsGEgxJHDum5nLCB0aOG7rSBs4bqhaSBuaMOpLicpKTsgfQogICAgZmluYWxseSB7IHNldEJ1c3koZmFsc2UpOyB9CiAgfTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJhdXRoLXdyYXAiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iYXV0aC1sZWZ0Ij4KICAgICAgICA8TWFzY290IHM9ezEyMH0gLz4KICAgICAgICA8aDE+R+G6p24geG9uZyBy4buTaSE8L2gxPgogICAgICAgIDxwPkNo4buJIGPDsm4gbeG7mXQgYsaw4bubYyB4w6FjIHRo4buxYyBu4buvYSB0aMO0aS48YnIgLz5LaeG7g20gdHJhIGPhuqMgaOG7mXAgdGjGsCByw6FjIG7hur91IGtow7RuZyB0aOG6pXkgbWFpbCBuaMOpLjwvcD4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJhdXRoLXJpZ2h0Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYXV0aC1jYXJkIiBzdHlsZT17eyBhbGlnbkl0ZW1zOiAnY2VudGVyJywgdGV4dEFsaWduOiAnY2VudGVyJyB9fT4KICAgICAgICAgIDxoMT5OaOG6rXAgbcOjIE9UUDwvaDE+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3ViIj5Nw6MgxJHDoyBn4butaSB04bubaSA8YiBzdHlsZT17eyBjb2xvcjogJ3ZhcigtLWluayknIH19PntzdGF0ZS5lbWFpbH08L2I+PC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ib3RwLXJvdyI+CiAgICAgICAgICAgIHtkaWdpdHMubWFwKChkLCBpKSA9PiAoCiAgICAgICAgICAgICAgPGlucHV0IGtleT17aX0gcmVmPXsoZWwpID0+IHsgcmVmcy5jdXJyZW50W2ldID0gZWw7IH19IGNsYXNzTmFtZT0ib3RwIiB2YWx1ZT17ZH0KICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gc2V0KGksIGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAgICAgICAgIG9uS2V5RG93bj17KGUpID0+IHsgaWYgKGUua2V5ID09PSAnQmFja3NwYWNlJyAmJiAhZCAmJiBpID4gMCkgcmVmcy5jdXJyZW50W2kgLSAxXT8uZm9jdXMoKTsgaWYgKGUua2V5ID09PSAnRW50ZXInKSBzdWJtaXQoKTsgfX0gLz4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIHtlcnIgJiYgPGRpdiBjbGFzc05hbWU9ImVycm9yIiBzdHlsZT17eyB3aWR0aDogJzEwMCUnIH19PntlcnJ9PC9kaXY+fQogICAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImJ0biBibG9jayIgZGlzYWJsZWQ9e2J1c3l9IG9uQ2xpY2s9e3N1Ym1pdH0+e2J1c3kgPyAnxJBhbmcgeMOhYyB0aOG7sWMuLi4nIDogJ1jDoWMgbmjhuq1uJ308L2J1dHRvbj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzdWIiPkNoxrBhIG5o4bqtbiDEkcaw4bujYyBtw6M/IDxidXR0b24gY2xhc3NOYW1lPSJsaW5rIj5H4butaSBs4bqhaTwvYnV0dG9uPjwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K
+import { useRef, useState } from 'react';
+import { useLocation, useNavigate } from 'react-router-dom';
+import { authApi, errMsg } from '../api';
+import { Mascot } from '../components/icons';
+
+export default function Otp() {
+  const { state } = useLocation() as { state?: { email: string; username: string; fullName: string; password: string } };
+  const nav = useNavigate();
+  const [digits, setDigits] = useState<string[]>(Array(6).fill(''));
+  const [err, setErr] = useState('');
+  const [busy, setBusy] = useState(false);
+  const refs = useRef<(HTMLInputElement | null)[]>([]);
+
+  if (!state?.email) { nav('/login', { replace: true }); return null; }
+
+  const set = (i: number, v: string) => {
+    v = v.replace(/\D/g, '').slice(-1);
+    const d = [...digits]; d[i] = v; setDigits(d);
+    if (v && i < 5) refs.current[i + 1]?.focus();
+  };
+  const submit = async () => {
+    const otp = digits.join('');
+    if (otp.length < 6) { setErr('Nhập đủ 6 số nhé.'); return; }
+    setErr(''); setBusy(true);
+    try {
+      // BE cố tình KHÔNG trả token sau verify OTP (RegisterSuccessResponse) → qua trang login đăng nhập tay
+      await authApi.verifyOtp({ ...state, otp });
+      nav('/login', { state: { registered: true }, replace: true });
+    } catch (e) { setErr(errMsg(e, 'Mã OTP chưa đúng, thử lại nhé.')); }
+    finally { setBusy(false); }
+  };
+
+  return (
+    <div className="auth-wrap">
+      <div className="auth-left">
+        <Mascot s={120} />
+        <h1>Gần xong rồi!</h1>
+        <p>Chỉ còn một bước xác thực nữa thôi.<br />Kiểm tra cả hộp thư rác nếu không thấy mail nhé.</p>
+      </div>
+      <div className="auth-right">
+        <div className="auth-card" style={{ alignItems: 'center', textAlign: 'center' }}>
+          <h1>Nhập mã OTP</h1>
+          <div className="sub">Mã đã gửi tới <b style={{ color: 'var(--ink)' }}>{state.email}</b></div>
+          <div className="otp-row">
+            {digits.map((d, i) => (
+              <input key={i} ref={(el) => { refs.current[i] = el; }} className="otp" value={d}
+                onChange={(e) => set(i, e.target.value)}
+                onKeyDown={(e) => { if (e.key === 'Backspace' && !d && i > 0) refs.current[i - 1]?.focus(); if (e.key === 'Enter') submit(); }} />
+            ))}
+          </div>
+          {err && <div className="error" style={{ width: '100%' }}>{err}</div>}
+          <button className="btn block" disabled={busy} onClick={submit}>{busy ? 'Đang xác thực...' : 'Xác nhận'}</button>
+          <div className="sub">Chưa nhận được mã? <button className="link">Gửi lại</button></div>
+        </div>
+      </div>
+    </div>
+  );
+}

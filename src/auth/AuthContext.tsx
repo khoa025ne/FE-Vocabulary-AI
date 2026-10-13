@@ -1,1 +1,43 @@
-aW1wb3J0IHsgY3JlYXRlQ29udGV4dCwgdXNlQ29udGV4dCwgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHR5cGUgeyBSZWFjdE5vZGUgfSBmcm9tICdyZWFjdCc7CmltcG9ydCB7IGF1dGhBcGkgfSBmcm9tICcuLi9hcGknOwppbXBvcnQgdHlwZSB7IFVzZXIgfSBmcm9tICcuLi9hcGknOwoKaW50ZXJmYWNlIEN0eCB7CiAgdXNlcjogVXNlciB8IG51bGw7CiAgbG9hZGluZzogYm9vbGVhbjsKICBsb2dpbjogKHU6IFVzZXIsIGFjY2Vzczogc3RyaW5nLCByZWZyZXNoOiBzdHJpbmcpID0+IHZvaWQ7CiAgbG9nb3V0OiAoKSA9PiB2b2lkOwp9CmNvbnN0IEF1dGhDdHggPSBjcmVhdGVDb250ZXh0PEN0eD4oeyB1c2VyOiBudWxsLCBsb2FkaW5nOiB0cnVlLCBsb2dpbjogKCkgPT4ge30sIGxvZ291dDogKCkgPT4ge30gfSk7CmV4cG9ydCBjb25zdCB1c2VBdXRoID0gKCkgPT4gdXNlQ29udGV4dChBdXRoQ3R4KTsKCmV4cG9ydCBmdW5jdGlvbiBBdXRoUHJvdmlkZXIoeyBjaGlsZHJlbiB9OiB7IGNoaWxkcmVuOiBSZWFjdE5vZGUgfSkgewogIGNvbnN0IFt1c2VyLCBzZXRVc2VyXSA9IHVzZVN0YXRlPFVzZXIgfCBudWxsPihudWxsKTsKICBjb25zdCBbbG9hZGluZywgc2V0TG9hZGluZ10gPSB1c2VTdGF0ZSh0cnVlKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnN0IHJhdyA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCd2b2NhYl91c2VyJyk7CiAgICBpZiAocmF3ICYmIGxvY2FsU3RvcmFnZS5nZXRJdGVtKCd2b2NhYl9hY2Nlc3MnKSkgewogICAgICB0cnkgeyBzZXRVc2VyKEpTT04ucGFyc2UocmF3KSk7IH0gY2F0Y2ggeyAvKiBpZ25vcmUgKi8gfQogICAgfQogICAgc2V0TG9hZGluZyhmYWxzZSk7CiAgfSwgW10pOwoKICBjb25zdCBsb2dpbiA9ICh1OiBVc2VyLCBhY2Nlc3M6IHN0cmluZywgcmVmcmVzaDogc3RyaW5nKSA9PiB7CiAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgndm9jYWJfdXNlcicsIEpTT04uc3RyaW5naWZ5KHUpKTsKICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCd2b2NhYl9hY2Nlc3MnLCBhY2Nlc3MpOwogICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3ZvY2FiX3JlZnJlc2gnLCByZWZyZXNoKTsKICAgIHNldFVzZXIodSk7CiAgfTsKICBjb25zdCBsb2dvdXQgPSAoKSA9PiB7CiAgICBhdXRoQXBpLmxvZ291dCgpOwogICAgbG9jYWxTdG9yYWdlLnJlbW92ZUl0ZW0oJ3ZvY2FiX3VzZXInKTsKICAgIGxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKCd2b2NhYl9hY2Nlc3MnKTsKICAgIGxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKCd2b2NhYl9yZWZyZXNoJyk7CiAgICBzZXRVc2VyKG51bGwpOwogICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAnL2xvZ2luJzsKICB9OwogIHJldHVybiA8QXV0aEN0eC5Qcm92aWRlciB2YWx1ZT17eyB1c2VyLCBsb2FkaW5nLCBsb2dpbiwgbG9nb3V0IH19PntjaGlsZHJlbn08L0F1dGhDdHguUHJvdmlkZXI+Owp9Cg==
+import { createContext, useContext, useEffect, useState } from 'react';
+import type { ReactNode } from 'react';
+import { authApi } from '../api';
+import type { User } from '../api';
+
+interface Ctx {
+  user: User | null;
+  loading: boolean;
+  login: (u: User, access: string, refresh: string) => void;
+  logout: () => void;
+}
+const AuthCtx = createContext<Ctx>({ user: null, loading: true, login: () => {}, logout: () => {} });
+export const useAuth = () => useContext(AuthCtx);
+
+export function AuthProvider({ children }: { children: ReactNode }) {
+  const [user, setUser] = useState<User | null>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const raw = localStorage.getItem('vocab_user');
+    if (raw && localStorage.getItem('vocab_access')) {
+      try { setUser(JSON.parse(raw)); } catch { /* ignore */ }
+    }
+    setLoading(false);
+  }, []);
+
+  const login = (u: User, access: string, refresh: string) => {
+    localStorage.setItem('vocab_user', JSON.stringify(u));
+    localStorage.setItem('vocab_access', access);
+    localStorage.setItem('vocab_refresh', refresh);
+    setUser(u);
+  };
+  const logout = () => {
+    authApi.logout();
+    localStorage.removeItem('vocab_user');
+    localStorage.removeItem('vocab_access');
+    localStorage.removeItem('vocab_refresh');
+    setUser(null);
+    // Demo mode dùng HashRouter → redirect bằng hash để không cần SPA fallback.
+    window.location.href = import.meta.env.VITE_DEMO === '1' ? '/#/login' : '/login';
+  };
+  return <AuthCtx.Provider value={{ user, loading, login, logout }}>{children}</AuthCtx.Provider>;
+}

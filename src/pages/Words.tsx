@@ -1,1 +1,63 @@
-aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJzsKaW1wb3J0IHsgd29yZEFwaSwgZXJyTXNnIH0gZnJvbSAnLi4vYXBpJzsKaW1wb3J0IHR5cGUgeyBXb3JkIH0gZnJvbSAnLi4vYXBpJzsKaW1wb3J0IHsgSWNvbiB9IGZyb20gJy4uL2NvbXBvbmVudHMvaWNvbnMnOwoKY29uc3QgTEVWRUxTID0gWydU4bqldCBj4bqjJywgJ0ExJywgJ0EyJywgJ0IxJywgJ0IyJywgJ0MxJywgJ0MyJ107CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBXb3JkcygpIHsKICBjb25zdCBbd29yZHMsIHNldFdvcmRzXSA9IHVzZVN0YXRlPFdvcmRbXT4oW10pOwogIGNvbnN0IFtsZXZlbCwgc2V0TGV2ZWxdID0gdXNlU3RhdGUoJ1ThuqV0IGPhuqMnKTsKICBjb25zdCBbc2VhcmNoLCBzZXRTZWFyY2hdID0gdXNlU3RhdGUoJycpOwogIGNvbnN0IFtxLCBzZXRRXSA9IHVzZVN0YXRlKCcnKTsKICBjb25zdCBbZmF2LCBzZXRGYXZdID0gdXNlU3RhdGU8U2V0PG51bWJlcj4+KG5ldyBTZXQoKSk7CiAgY29uc3QgW2Vyciwgc2V0RXJyXSA9IHVzZVN0YXRlKCcnKTsKICBjb25zdCBuYXYgPSB1c2VOYXZpZ2F0ZSgpOwoKICBjb25zdCBsb2FkID0gKCkgPT4gewogICAgd29yZEFwaS5saXN0KHsgcGFnZTogMCwgc2l6ZTogMjAsIGxldmVsOiBsZXZlbCA9PT0gJ1ThuqV0IGPhuqMnID8gdW5kZWZpbmVkIDogbGV2ZWwsIHNlYXJjaDogcSB8fCB1bmRlZmluZWQgfSkKICAgICAgLnRoZW4oKHsgZGF0YSB9KSA9PiBzZXRXb3JkcyhkYXRhLmNvbnRlbnQpKQogICAgICAuY2F0Y2goKGUpID0+IHNldEVycihlcnJNc2coZSkpKTsKICB9OwogIHVzZUVmZmVjdChsb2FkLCBbbGV2ZWxdKTsgLy8gZXNsaW50LWRpc2FibGUtbGluZSByZWFjdC1ob29rcy9leGhhdXN0aXZlLWRlcHMKICB1c2VFZmZlY3QoKCkgPT4geyB3b3JkQXBpLmZhdm9yaXRlcygwLCAyMDApLnRoZW4oKHsgZGF0YSB9KSA9PiBzZXRGYXYobmV3IFNldChkYXRhLmNvbnRlbnQubWFwKCh3KSA9PiB3LmlkKSkpKS5jYXRjaCgoKSA9PiB7fSk7IH0sIFtdKTsKCiAgY29uc3QgdG9nZ2xlRmF2ID0gYXN5bmMgKGlkOiBudW1iZXIpID0+IHsKICAgIGNvbnN0IGlzRmF2ID0gZmF2LmhhcyhpZCk7CiAgICB0cnkgewogICAgICBpZiAoaXNGYXYpIGF3YWl0IHdvcmRBcGkudW5mYXZvcml0ZShpZCk7IGVsc2UgYXdhaXQgd29yZEFwaS5mYXZvcml0ZShpZCk7CiAgICAgIHNldEZhdigocykgPT4geyBjb25zdCBuID0gbmV3IFNldChzKTsgaXNGYXYgPyBuLmRlbGV0ZShpZCkgOiBuLmFkZChpZCk7IHJldHVybiBuOyB9KTsKICAgIH0gY2F0Y2ggKGUpIHsgc2V0RXJyKGVyck1zZyhlKSk7IH0KICB9OwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImNvbnRlbnQiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0icGFnZWhlYWQiPjxoMT5LaMOhbSBwaMOhIHThu6sgduG7sW5nPC9oMT48ZGl2IGNsYXNzTmFtZT0ic3ViIj5Uw6xtIHThu6sgbeG7m2kgdGhlbyB0csOsbmggxJHhu5kgdsOgIGNo4bunIMSR4buBPC9kaXY+PC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJyb3ciPgogICAgICAgIDxkaXYgc3R5bGU9e3sgcG9zaXRpb246ICdyZWxhdGl2ZScsIGZsZXg6IDEgfX0+CiAgICAgICAgICA8aW5wdXQgY2xhc3NOYW1lPSJpbnB1dCIgc3R5bGU9e3sgcGFkZGluZ0xlZnQ6IDQ4IH19IHBsYWNlaG9sZGVyPSJUw6xtIHThu6sgduG7sW5nLi4uIiB2YWx1ZT17c2VhcmNofQogICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IHNldFNlYXJjaChlLnRhcmdldC52YWx1ZSl9IG9uS2V5RG93bj17KGUpID0+IHsgaWYgKGUua2V5ID09PSAnRW50ZXInKSB7IHNldFEoc2VhcmNoKTsgc2V0VGltZW91dChsb2FkLCAwKTsgfSB9fSAvPgogICAgICAgICAgPHNwYW4gc3R5bGU9e3sgcG9zaXRpb246ICdhYnNvbHV0ZScsIGxlZnQ6IDE2LCB0b3A6IDE3LCBjb2xvcjogJ3ZhcigtLW11dGVkKScgfX0+PEljb24gbj0ic2VhcmNoIiBzPXsyMn0gLz48L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImJ0biIgc3R5bGU9e3sgd2lkdGg6IDE2MCB9fSBvbkNsaWNrPXsoKSA9PiB7IHNldFEoc2VhcmNoKTsgc2V0VGltZW91dChsb2FkLCAwKTsgfX0+VMOsbSBraeG6v208L2J1dHRvbj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjaGlwcyI+e0xFVkVMUy5tYXAoKGwpID0+ICgKICAgICAgICA8YnV0dG9uIGtleT17bH0gY2xhc3NOYW1lPXsnY2hpcCcgKyAobGV2ZWwgPT09IGwgPyAnIG9uJyA6ICcnKX0gb25DbGljaz17KCkgPT4gc2V0TGV2ZWwobCl9PntsfTwvYnV0dG9uPgogICAgICApKX08L2Rpdj4KICAgICAge2VyciAmJiA8ZGl2IGNsYXNzTmFtZT0iZXJyb3IiPntlcnJ9PC9kaXY+fQogICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCIgc3R5bGU9e3sgcGFkZGluZzogOCB9fT4KICAgICAgICB7d29yZHMubGVuZ3RoID09PSAwID8gPGRpdiBjbGFzc05hbWU9ImVtcHR5Ij5DaMawYSBjw7MgdOG7qyB24buxbmcgbsOgby48L2Rpdj4gOiB3b3Jkcy5tYXAoKHcpID0+ICgKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3b3JkIiBrZXk9e3cuaWR9IHN0eWxlPXt7IGJvcmRlckJvdHRvbTogJzFweCBzb2xpZCB2YXIoLS1saW5lKScsIGN1cnNvcjogJ3BvaW50ZXInIH19IG9uQ2xpY2s9eygpID0+IG5hdihgL3dvcmRzLyR7dy5pZH1gKX0+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhdmF0YXIgdGludC1uIj48SWNvbiBuPSJib29rIiBzPXsyNH0gLz48L2Rpdj4KICAgICAgICAgICAgPGRpdj48ZGl2IGNsYXNzTmFtZT0idyI+e3cud29yZH08L2Rpdj48ZGl2IGNsYXNzTmFtZT0ibSI+e3cubWVhbmluZ308L2Rpdj48L2Rpdj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJwaWxsIGxldmVsIiBzdHlsZT17eyBtYXJnaW5MZWZ0OiAxMiB9fT57dy5sZXZlbH08L3NwYW4+CiAgICAgICAgICAgIDxidXR0b24gY2xhc3NOYW1lPXsnaGVhcnQnICsgKGZhdi5oYXMody5pZCkgPyAnIG9uJyA6ICcnKX0gb25DbGljaz17KGUpID0+IHsgZS5zdG9wUHJvcGFnYXRpb24oKTsgdG9nZ2xlRmF2KHcuaWQpOyB9fSBhcmlhLWxhYmVsPSJ5w6p1IHRow61jaCI+CiAgICAgICAgICAgICAgPEljb24gbj0iaGVhcnQiIHM9ezI0fSAvPgogICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICkpfQogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K
+import { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import { wordApi, errMsg } from '../api';
+import type { Word } from '../api';
+import { Icon } from '../components/icons';
+
+const LEVELS = ['Tất cả', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+
+export default function Words() {
+  const [words, setWords] = useState<Word[]>([]);
+  const [level, setLevel] = useState('Tất cả');
+  const [search, setSearch] = useState('');
+  const [q, setQ] = useState('');
+  const [fav, setFav] = useState<Set<number>>(new Set());
+  const [err, setErr] = useState('');
+  const nav = useNavigate();
+
+  const load = () => {
+    wordApi.list({ page: 0, size: 20, level: level === 'Tất cả' ? undefined : level, search: q || undefined })
+      .then(({ data }) => setWords(data.content))
+      .catch((e) => setErr(errMsg(e)));
+  };
+  useEffect(load, [level]); // eslint-disable-line react-hooks/exhaustive-deps
+  useEffect(() => { wordApi.favorites(0, 200).then(({ data }) => setFav(new Set(data.content.map((w) => w.id)))).catch(() => {}); }, []);
+
+  const toggleFav = async (id: number) => {
+    const isFav = fav.has(id);
+    try {
+      if (isFav) await wordApi.unfavorite(id); else await wordApi.favorite(id);
+      setFav((s) => { const n = new Set(s); isFav ? n.delete(id) : n.add(id); return n; });
+    } catch (e) { setErr(errMsg(e)); }
+  };
+
+  return (
+    <div className="content">
+      <div className="pagehead"><h1>Khám phá từ vựng</h1><div className="sub">Tìm từ mới theo trình độ và chủ đề</div></div>
+      <div className="row">
+        <div style={{ position: 'relative', flex: 1 }}>
+          <input className="input" style={{ paddingLeft: 48 }} placeholder="Tìm từ vựng..." value={search}
+            onChange={(e) => setSearch(e.target.value)} onKeyDown={(e) => { if (e.key === 'Enter') { setQ(search); setTimeout(load, 0); } }} />
+          <span style={{ position: 'absolute', left: 16, top: 17, color: 'var(--muted)' }}><Icon n="search" s={22} /></span>
+        </div>
+        <button className="btn" style={{ width: 160 }} onClick={() => { setQ(search); setTimeout(load, 0); }}>Tìm kiếm</button>
+      </div>
+      <div className="chips">{LEVELS.map((l) => (
+        <button key={l} className={'chip' + (level === l ? ' on' : '')} onClick={() => setLevel(l)}>{l}</button>
+      ))}</div>
+      {err && <div className="error">{err}</div>}
+      <div className="card" style={{ padding: 8 }}>
+        {words.length === 0 ? <div className="empty">Chưa có từ vựng nào.</div> : words.map((w) => (
+          <div className="word" key={w.id} style={{ borderBottom: '1px solid var(--line)', cursor: 'pointer' }} onClick={() => nav(`/words/${w.id}`)}>
+            <div className="avatar tint-n"><Icon n="book" s={24} /></div>
+            <div><div className="w">{w.word}</div><div className="m">{w.meaning}</div></div>
+            <span className="pill level" style={{ marginLeft: 12 }}>{w.level}</span>
+            <button className={'heart' + (fav.has(w.id) ? ' on' : '')} onClick={(e) => { e.stopPropagation(); toggleFav(w.id); }} aria-label="yêu thích">
+              <Icon n="heart" s={24} />
+            </button>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}

@@ -1,1 +1,42 @@
-aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJzsKaW1wb3J0IHsgd29yZEFwaSwgZXJyTXNnIH0gZnJvbSAnLi4vYXBpJzsKaW1wb3J0IHR5cGUgeyBXb3JkIH0gZnJvbSAnLi4vYXBpJzsKaW1wb3J0IHsgSWNvbiB9IGZyb20gJy4uL2NvbXBvbmVudHMvaWNvbnMnOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gRmF2b3JpdGVzKCkgewogIGNvbnN0IFt3b3Jkcywgc2V0V29yZHNdID0gdXNlU3RhdGU8V29yZFtdPihbXSk7CiAgY29uc3QgW2Vyciwgc2V0RXJyXSA9IHVzZVN0YXRlKCcnKTsKICBjb25zdCBuYXYgPSB1c2VOYXZpZ2F0ZSgpOwoKICBjb25zdCBsb2FkID0gKCkgPT4gd29yZEFwaS5mYXZvcml0ZXMoMCwgNTApCiAgICAudGhlbigoeyBkYXRhIH0pID0+IHNldFdvcmRzKGRhdGEuY29udGVudCkpCiAgICAuY2F0Y2goKGUpID0+IHNldEVycihlcnJNc2coZSkpKTsKICB1c2VFZmZlY3QoKCkgPT4geyBsb2FkKCk7IH0sIFtdKTsKCiAgY29uc3QgcmVtb3ZlID0gYXN5bmMgKGlkOiBudW1iZXIpID0+IHsKICAgIHRyeSB7IGF3YWl0IHdvcmRBcGkudW5mYXZvcml0ZShpZCk7IHNldFdvcmRzKCh3KSA9PiB3LmZpbHRlcigoeCkgPT4geC5pZCAhPT0gaWQpKTsgfQogICAgY2F0Y2ggKGUpIHsgc2V0RXJyKGVyck1zZyhlKSk7IH0KICB9OwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImNvbnRlbnQiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0icGFnZWhlYWQiPjxoMT5U4burIHnDqnUgdGjDrWNoPC9oMT48ZGl2IGNsYXNzTmFtZT0ic3ViIj57d29yZHMubGVuZ3RofSB04burIGLhuqFuIMSRw6MgxJHDoW5oIGThuqV1PC9kaXY+PC9kaXY+CiAgICAgIHtlcnIgJiYgPGRpdiBjbGFzc05hbWU9ImVycm9yIj57ZXJyfTwvZGl2Pn0KICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQiIHN0eWxlPXt7IHBhZGRpbmc6IDggfX0+CiAgICAgICAge3dvcmRzLmxlbmd0aCA9PT0gMCA/ICgKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJlbXB0eSI+Q2jGsGEgY8OzIHThu6sgecOqdSB0aMOtY2ggbsOgby48YnIgLz5C4bqlbSB2w6BvIHRyw6FpIHRpbSDhu58gdHJhbmcgVOG7qyB24buxbmcgxJHhu4MgbMawdSBs4bqhaSBuaMOpLjwvZGl2PgogICAgICAgICkgOiB3b3Jkcy5tYXAoKHcpID0+ICgKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3b3JkIiBrZXk9e3cuaWR9IHN0eWxlPXt7IGJvcmRlckJvdHRvbTogJzFweCBzb2xpZCB2YXIoLS1saW5lKScsIGN1cnNvcjogJ3BvaW50ZXInIH19IG9uQ2xpY2s9eygpID0+IG5hdihgL3dvcmRzLyR7dy5pZH1gKX0+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhdmF0YXIgdGludC1uIj48SWNvbiBuPSJib29rIiBzPXsyNH0gLz48L2Rpdj4KICAgICAgICAgICAgPGRpdj48ZGl2IGNsYXNzTmFtZT0idyI+e3cud29yZH08L2Rpdj48ZGl2IGNsYXNzTmFtZT0ibSI+e3cubWVhbmluZ308L2Rpdj48L2Rpdj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJwaWxsIGxldmVsIiBzdHlsZT17eyBtYXJnaW5MZWZ0OiAxMiB9fT57dy5sZXZlbH08L3NwYW4+CiAgICAgICAgICAgIDxidXR0b24gY2xhc3NOYW1lPSJoZWFydCBvbiIgb25DbGljaz17KGUpID0+IHsgZS5zdG9wUHJvcGFnYXRpb24oKTsgcmVtb3ZlKHcuaWQpOyB9fSBhcmlhLWxhYmVsPSJi4buPIHnDqnUgdGjDrWNoIj4KICAgICAgICAgICAgICA8SWNvbiBuPSJoZWFydCIgcz17MjR9IC8+CiAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKSl9CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo=
+import { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import { wordApi, errMsg } from '../api';
+import type { Word } from '../api';
+import { Icon } from '../components/icons';
+
+export default function Favorites() {
+  const [words, setWords] = useState<Word[]>([]);
+  const [err, setErr] = useState('');
+  const nav = useNavigate();
+
+  const load = () => wordApi.favorites(0, 50)
+    .then(({ data }) => setWords(data.content))
+    .catch((e) => setErr(errMsg(e)));
+  useEffect(() => { load(); }, []);
+
+  const remove = async (id: number) => {
+    try { await wordApi.unfavorite(id); setWords((w) => w.filter((x) => x.id !== id)); }
+    catch (e) { setErr(errMsg(e)); }
+  };
+
+  return (
+    <div className="content">
+      <div className="pagehead"><h1>Từ yêu thích</h1><div className="sub">{words.length} từ bạn đã đánh dấu</div></div>
+      {err && <div className="error">{err}</div>}
+      <div className="card" style={{ padding: 8 }}>
+        {words.length === 0 ? (
+          <div className="empty">Chưa có từ yêu thích nào.<br />Bấm vào trái tim ở trang Từ vựng để lưu lại nhé.</div>
+        ) : words.map((w) => (
+          <div className="word" key={w.id} style={{ borderBottom: '1px solid var(--line)', cursor: 'pointer' }} onClick={() => nav(`/words/${w.id}`)}>
+            <div className="avatar tint-n"><Icon n="book" s={24} /></div>
+            <div><div className="w">{w.word}</div><div className="m">{w.meaning}</div></div>
+            <span className="pill level" style={{ marginLeft: 12 }}>{w.level}</span>
+            <button className="heart on" onClick={(e) => { e.stopPropagation(); remove(w.id); }} aria-label="bỏ yêu thích">
+              <Icon n="heart" s={24} />
+            </button>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}

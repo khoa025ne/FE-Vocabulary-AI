@@ -1,1 +1,49 @@
-aW1wb3J0IHsgdXNlTG9jYXRpb24sIHVzZU5hdmlnYXRlIH0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbSc7CmltcG9ydCB0eXBlIHsgUXVpelJlc3VsdCBhcyBSIH0gZnJvbSAnLi4vYXBpJzsKaW1wb3J0IHsgTWFzY290LCBJY29uIH0gZnJvbSAnLi4vY29tcG9uZW50cy9pY29ucyc7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBRdWl6UmVzdWx0KCkgewogIGNvbnN0IHsgc3RhdGUgfSA9IHVzZUxvY2F0aW9uKCkgYXMgeyBzdGF0ZT86IHsgcmVzdWx0OiBSOyB0aXRsZT86IHN0cmluZyB9IH07CiAgY29uc3QgbmF2ID0gdXNlTmF2aWdhdGUoKTsKICBjb25zdCByID0gc3RhdGU/LnJlc3VsdDsKCiAgaWYgKCFyKSByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImNvbnRlbnQgbmFycm93IGNlbnRlciIgc3R5bGU9e3sgcGFkZGluZ1RvcDogODAgfX0+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJzdWIiPktow7RuZyBjw7Mga+G6v3QgcXXhuqMgxJHhu4MgaGnhu4NuIHRo4buLLjwvZGl2PgogICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYnRuIG10MTYiIG9uQ2xpY2s9eygpID0+IG5hdignL3F1aXonKX0+VuG7gSBkYW5oIHPDoWNoIHF1aXo8L2J1dHRvbj4KICAgIDwvZGl2PgogICk7CgogIGNvbnN0IHBjdCA9IE1hdGgucm91bmQoKHIuY29ycmVjdEFuc3dlcnMgLyByLnRvdGFsUXVlc3Rpb25zKSAqIDEwMCk7CiAgY29uc3QgUl8gPSA1NCwgQyA9IDIgKiBNYXRoLlBJICogUl87CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGVudCBuYXJyb3cgY2VudGVyIj4KICAgICAgPGRpdiBzdHlsZT17eyBjb2xvcjogJ3ZhcigtLXllbGxvdy1kYXJrKScsIG1hcmdpbjogJzIwcHggYXV0byAwJyB9fT48SWNvbiBuPSJ0cm9waHkiIHM9ezcyfSAvPjwvZGl2PgogICAgICA8aDEgY2xhc3NOYW1lPSJtdDgiPntwY3QgPj0gODAgPyAnVHV54buHdCB24budaSEnIDogcGN0ID49IDUwID8gJ0tow6EgdOG7kXQhJyA6ICdD4buRIGfhuq9uZyB0aMOqbSBuaMOpISd9PC9oMT4KICAgICAgPGRpdiBjbGFzc05hbWU9InN1YiI+QuG6oW4gbMOgbSDEkcO6bmcge3IuY29ycmVjdEFuc3dlcnN9L3tyLnRvdGFsUXVlc3Rpb25zfSBjw6J1e3Iuc2NvcmUgIT09IHVuZGVmaW5lZCAmJiByLnNjb3JlICE9PSBwY3QgPyBgIMK3ICR7ci5zY29yZX0gxJFp4buDbWAgOiAnJ308L2Rpdj4KICAgICAgPGRpdiBzdHlsZT17eyBtYXJnaW46ICcyNHB4IGF1dG8nLCB3aWR0aDogMTQwIH19PgogICAgICAgIDxzdmcgdmlld0JveD0iMCAwIDE0MCAxNDAiIHdpZHRoPSIxNDAiIGhlaWdodD0iMTQwIj4KICAgICAgICAgIDxjaXJjbGUgY3g9IjcwIiBjeT0iNzAiIHI9e1JffSBmaWxsPSJub25lIiBzdHJva2U9InZhcigtLWxpbmUpIiBzdHJva2VXaWR0aD0iMTQiIC8+CiAgICAgICAgICA8Y2lyY2xlIGN4PSI3MCIgY3k9IjcwIiByPXtSX30gZmlsbD0ibm9uZSIgc3Ryb2tlPSJ2YXIoLS1wcmltYXJ5KSIgc3Ryb2tlV2lkdGg9IjE0IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIKICAgICAgICAgICAgc3Ryb2tlRGFzaGFycmF5PXtDfSBzdHJva2VEYXNob2Zmc2V0PXtDICogKDEgLSBwY3QgLyAxMDApfSB0cmFuc2Zvcm09InJvdGF0ZSgtOTAgNzAgNzApIiAvPgogICAgICAgICAgPHRleHQgeD0iNzAiIHk9IjgyIiB0ZXh0QW5jaG9yPSJtaWRkbGUiIGZvbnRTaXplPSIzNCIgZm9udFdlaWdodD0iOTAwIiBmaWxsPSJ2YXIoLS1pbmspIj57cGN0fTwvdGV4dD4KICAgICAgICA8L3N2Zz4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2xzMyIgc3R5bGU9e3sgdGV4dEFsaWduOiAnbGVmdCcgfX0+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQgY2VudGVyIj48ZGl2IGNsYXNzTmFtZT0ic3ViIj48SWNvbiBuPSJjbG9jayIgcz17MTZ9IC8+IFRo4budaSBnaWFuPC9kaXY+PGIgc3R5bGU9e3sgZm9udFNpemU6IDIyIH19PuKAlDwvYj48L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCBjZW50ZXIiPjxkaXYgY2xhc3NOYW1lPSJzdWIiPjxJY29uIG49InphcCIgcz17MTZ9IC8+IMSQaeG7g208L2Rpdj48YiBzdHlsZT17eyBmb250U2l6ZTogMjIsIGNvbG9yOiAndmFyKC0teWVsbG93LWRhcmspJyB9fT57ci5zY29yZSA/PyBwY3R9PC9iPjwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkIGNlbnRlciI+PGRpdiBjbGFzc05hbWU9InN1YiI+PEljb24gbj0iY2hlY2tjIiBzPXsxNn0gLz4gxJDDum5nPC9kaXY+PGIgc3R5bGU9e3sgZm9udFNpemU6IDIyIH19PntyLmNvcnJlY3RBbnN3ZXJzfS97ci50b3RhbFF1ZXN0aW9uc308L2I+PC9kaXY+CiAgICAgIDwvZGl2PgogICAgICB7ci5mZWVkYmFjayAmJiAoCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQgbXQxNiIgc3R5bGU9e3sgdGV4dEFsaWduOiAnbGVmdCcgfX0+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29hY2giPjxNYXNjb3Qgcz17NDR9IC8+PGRpdiBjbGFzc05hbWU9ImJ1YmJsZSI+PGI+Vmkgbmjhuq1uIHjDqXQ6PC9iPiB7ci5mZWVkYmFja308L2Rpdj48L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgKX0KICAgICAgPGRpdiBjbGFzc05hbWU9ImJ0bi1yb3cgbXQxNiI+CiAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImJ0biBnaG9zdCIgb25DbGljaz17KCkgPT4gbmF2KCcvcXVpeicpfT5RdWl6IGtow6FjPC9idXR0b24+CiAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImJ0biIgb25DbGljaz17KCkgPT4gbmF2KCcvJyl9Plbhu4EgdHJhbmcgY2jhu6c8L2J1dHRvbj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg==
+import { useLocation, useNavigate } from 'react-router-dom';
+import type { QuizResult as R } from '../api';
+import { Mascot, Icon } from '../components/icons';
+
+export default function QuizResult() {
+  const { state } = useLocation() as { state?: { result: R; title?: string } };
+  const nav = useNavigate();
+  const r = state?.result;
+
+  if (!r) return (
+    <div className="content narrow center" style={{ paddingTop: 80 }}>
+      <div className="sub">Không có kết quả để hiển thị.</div>
+      <button className="btn mt16" onClick={() => nav('/quiz')}>Về danh sách quiz</button>
+    </div>
+  );
+
+  const pct = Math.round((r.correctAnswers / r.totalQuestions) * 100);
+  const R_ = 54, C = 2 * Math.PI * R_;
+
+  return (
+    <div className="content narrow center">
+      <div style={{ color: 'var(--yellow-dark)', margin: '20px auto 0' }}><Icon n="trophy" s={72} /></div>
+      <h1 className="mt8">{pct >= 80 ? 'Tuyệt vời!' : pct >= 50 ? 'Khá tốt!' : 'Cố gắng thêm nhé!'}</h1>
+      <div className="sub">Bạn làm đúng {r.correctAnswers}/{r.totalQuestions} câu{r.score !== undefined && r.score !== pct ? ` · ${r.score} điểm` : ''}</div>
+      <div style={{ margin: '24px auto', width: 140 }}>
+        <svg viewBox="0 0 140 140" width="140" height="140">
+          <circle cx="70" cy="70" r={R_} fill="none" stroke="var(--line)" strokeWidth="14" />
+          <circle cx="70" cy="70" r={R_} fill="none" stroke="var(--primary)" strokeWidth="14" strokeLinecap="round"
+            strokeDasharray={C} strokeDashoffset={C * (1 - pct / 100)} transform="rotate(-90 70 70)" />
+          <text x="70" y="82" textAnchor="middle" fontSize="34" fontWeight="900" fill="var(--ink)">{pct}</text>
+        </svg>
+      </div>
+      <div className="cols3" style={{ textAlign: 'left' }}>
+        <div className="card center"><div className="sub"><Icon n="clock" s={16} /> Thời gian</div><b style={{ fontSize: 22 }}>—</b></div>
+        <div className="card center"><div className="sub"><Icon n="zap" s={16} /> Điểm</div><b style={{ fontSize: 22, color: 'var(--yellow-dark)' }}>{r.score ?? pct}</b></div>
+        <div className="card center"><div className="sub"><Icon n="checkc" s={16} /> Đúng</div><b style={{ fontSize: 22 }}>{r.correctAnswers}/{r.totalQuestions}</b></div>
+      </div>
+      {r.feedback && (
+        <div className="card mt16" style={{ textAlign: 'left' }}>
+          <div className="coach"><Mascot s={44} /><div className="bubble"><b>Vi nhận xét:</b> {r.feedback}</div></div>
+        </div>
+      )}
+      <div className="btn-row mt16">
+        <button className="btn ghost" onClick={() => nav('/quiz')}>Quiz khác</button>
+        <button className="btn" onClick={() => nav('/')}>Về trang chủ</button>
+      </div>
+    </div>
+  );
+}

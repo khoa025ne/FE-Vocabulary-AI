@@ -1,1 +1,27 @@
-ewogICJuYW1lIjogInZvY2FiLWZlIiwKICAicHJpdmF0ZSI6IHRydWUsCiAgInZlcnNpb24iOiAiMC4wLjAiLAogICJ0eXBlIjogIm1vZHVsZSIsCiAgInNjcmlwdHMiOiB7CiAgICAiZGV2IjogInZpdGUiLAogICAgImJ1aWxkIjogInRzYyAtYiAmJiB2aXRlIGJ1aWxkIiwKICAgICJsaW50IjogIm94bGludCIsCiAgICAicHJldmlldyI6ICJ2aXRlIHByZXZpZXciCiAgfSwKICAiZGVwZW5kZW5jaWVzIjogewogICAgImF4aW9zIjogIl4xLjIwLjAiLAogICAgInJlYWN0IjogIl4xOS4yLjgiLAogICAgInJlYWN0LWRvbSI6ICJeMTkuMi44IiwKICAgICJyZWFjdC1yb3V0ZXItZG9tIjogIl43LjE4LjQiCiAgfSwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgIkB0eXBlcy9ub2RlIjogIl4yNC4xMy4zIiwKICAgICJAdHlwZXMvcmVhY3QiOiAiXjE5LjIuMTgiLAogICAgIkB0eXBlcy9yZWFjdC1kb20iOiAiXjE5LjIuNyIsCiAgICAiQHZpdGVqcy9wbHVnaW4tcmVhY3QiOiAiXjYuMS4xIiwKICAgICJveGxpbnQiOiAiXjEuODEuMCIsCiAgICAidHlwZXNjcmlwdCI6ICJ+Ni4wLjIiLAogICAgInZpdGUiOiAiXjguMy4wIgogIH0KfQo=
+{
+  "name": "vocab-fe",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0"
+  }
+}

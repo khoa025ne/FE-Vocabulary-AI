@@ -1,1 +1,66 @@
-aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7CmltcG9ydCB7IGFpQXBpLCBlcnJNc2cgfSBmcm9tICcuLi9hcGknOwppbXBvcnQgdHlwZSB7IEdyYW1tYXJSZXNwIH0gZnJvbSAnLi4vYXBpJzsKaW1wb3J0IHsgSWNvbiwgTWFzY290IH0gZnJvbSAnLi4vY29tcG9uZW50cy9pY29ucyc7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBHcmFtbWFyKCkgewogIGNvbnN0IFt0ZXh0LCBzZXRUZXh0XSA9IHVzZVN0YXRlKCcnKTsKICBjb25zdCBbcmVzLCBzZXRSZXNdID0gdXNlU3RhdGU8R3JhbW1hclJlc3AgfCBudWxsPihudWxsKTsKICBjb25zdCBbYnVzeSwgc2V0QnVzeV0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW2Vyciwgc2V0RXJyXSA9IHVzZVN0YXRlKCcnKTsKCiAgY29uc3QgY2hlY2sgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAodGV4dC50cmltKCkubGVuZ3RoIDwgMykgeyBzZXRFcnIoJ1Zp4bq/dCB2w6BpIHThu6sgxJHDoyBy4buTaSBow6N5IGtp4buDbSB0cmEgbmjDqS4nKTsgcmV0dXJuOyB9CiAgICBzZXRFcnIoJycpOyBzZXRCdXN5KHRydWUpOyBzZXRSZXMobnVsbCk7CiAgICB0cnkgeyBjb25zdCB7IGRhdGEgfSA9IGF3YWl0IGFpQXBpLmdyYW1tYXIodGV4dCk7IHNldFJlcyhkYXRhKTsgfQogICAgY2F0Y2ggKGUpIHsgc2V0RXJyKGVyck1zZyhlLCAnQUkgxJFhbmcgYuG6rW4sIHRo4butIGzhuqFpIHNhdSBuaMOpLicpKTsgfQogICAgZmluYWxseSB7IHNldEJ1c3koZmFsc2UpOyB9CiAgfTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJjb250ZW50Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9InBhZ2VoZWFkIj48aDE+U+G7rWEgbmfhu68gcGjDoXA8L2gxPjxkaXYgY2xhc3NOYW1lPSJzdWIiPlZpIGtp4buDbSB0cmEgY8OidSBj4bunYSBi4bqhbiB2w6AgZ+G7o2kgw70gY8OhY2ggdmnhur90IGhheSBoxqFuPC9kaXY+PC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2xzMiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNhcmQiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZpZWxkIj48bGFiZWw+Q8OidSBj4bunYSBi4bqhbjwvbGFiZWw+CiAgICAgICAgICAgIDx0ZXh0YXJlYSBjbGFzc05hbWU9ImlucHV0IiB2YWx1ZT17dGV4dH0gb25DaGFuZ2U9eyhlKSA9PiBzZXRUZXh0KGUudGFyZ2V0LnZhbHVlKX0gcGxhY2Vob2xkZXI9IkkgZ28gdG8gc2Nob29sIHllc3RlcmRheS4uLiIgLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImJ0biBibG9jayBtdDE2IiBkaXNhYmxlZD17YnVzeX0gb25DbGljaz17Y2hlY2t9PgogICAgICAgICAgICA8SWNvbiBuPSJzcGFyayIgcz17MjB9IC8+e2J1c3kgPyAnVmkgxJFhbmcgxJHhu41jLi4uJyA6ICdLaeG7g20gdHJhJ30KICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAge2VyciAmJiA8ZGl2IGNsYXNzTmFtZT0iZXJyb3IgbXQ4Ij57ZXJyfTwvZGl2Pn0KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2PgogICAgICAgICAgeyFyZXMgJiYgIWJ1c3kgJiYgPGRpdiBjbGFzc05hbWU9ImNhcmQiPjxkaXYgY2xhc3NOYW1lPSJlbXB0eSI+S+G6v3QgcXXhuqMgc+G6vSBoaeG7h24g4bufIMSRw6J5LjwvZGl2PjwvZGl2Pn0KICAgICAgICAgIHtidXN5ICYmIDxkaXYgY2xhc3NOYW1lPSJjYXJkIj48ZGl2IGNsYXNzTmFtZT0ibG9hZGluZyI+VmkgxJFhbmcgcGjDom4gdMOtY2guLi48L2Rpdj48L2Rpdj59CiAgICAgICAgICB7cmVzICYmICgKICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAnZmxleCcsIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLCBnYXA6IDE4IH19PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyb3ciPjxoMj5L4bq/dCBxdeG6ozwvaDI+PHNwYW4gY2xhc3NOYW1lPSJwaWxsIGxldmVsIj57cmVzLnNjb3JlfS8xMDA8L3NwYW4+PC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQ4Ij48c3BhbiBjbGFzc05hbWU9InN1YiI+Q8OidSBn4buRYzo8L3NwYW4+PGRpdiBzdHlsZT17eyBmb250V2VpZ2h0OiA3MDAgfX0+e3Jlcy5vcmlnaW5hbFRleHR9PC9kaXY+PC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQ4Ij48c3BhbiBjbGFzc05hbWU9InN1YiI+Q8OidSDEkcOjIHPhu61hOjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250V2VpZ2h0OiA4MDAsIGNvbG9yOiAndmFyKC0tZ3JlZW4tZGFyayknLCBmb250U2l6ZTogMTcgfX0+e3Jlcy5jb3JyZWN0ZWRUZXh0fTwvZGl2PjwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIHtyZXMuZXJyb3JzPy5sZW5ndGggPiAwICYmICgKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjYXJkIj4KICAgICAgICAgICAgICAgICAgPGgyPjxzcGFuIGNsYXNzTmFtZT0iZG90IHIiIC8+e3Jlcy5lcnJvcnMubGVuZ3RofSBs4buXaSBj4bqnbiBjaMO6IMO9PC9oMj4KICAgICAgICAgICAgICAgICAge3Jlcy5lcnJvcnMubWFwKChlLCBpKSA9PiAoCiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Imt2IiBrZXk9e2l9IHN0eWxlPXt7IGRpc3BsYXk6ICdibG9jaycgfX0+CiAgICAgICAgICAgICAgICAgICAgICA8YiBzdHlsZT17eyBjb2xvcjogJ3ZhcigtLXJlZC1kYXJrKScgfX0+e2UuZXJyb3JUeXBlfTwvYj4KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdDgiPntlLm1lc3NhZ2V9PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3ViIG10OCI+R+G7o2kgw706IHtlLnN1Z2dlc3Rpb259PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29hY2giPjxNYXNjb3Qgcz17NDR9IC8+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJidWJibGUiPjxiPk3hurlvIGPhu6dhIFZpOjwvYj4gxJHhu41jIHRvIGPDonUgxJHDoyBz4butYSAzIGzhuqduIMSR4buDIG1p4buHbmcgcXVlbiB24bubaSBj4bqldSB0csO6YyDEkcO6bmcgbmjDqS48L2Rpdj48L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K
+import { useState } from 'react';
+import { aiApi, errMsg } from '../api';
+import type { GrammarResp } from '../api';
+import { Icon, Mascot } from '../components/icons';
+
+export default function Grammar() {
+  const [text, setText] = useState('');
+  const [res, setRes] = useState<GrammarResp | null>(null);
+  const [busy, setBusy] = useState(false);
+  const [err, setErr] = useState('');
+
+  const check = async () => {
+    if (text.trim().length < 3) { setErr('Viết vài từ đã rồi hãy kiểm tra nhé.'); return; }
+    setErr(''); setBusy(true); setRes(null);
+    try { const { data } = await aiApi.grammar(text); setRes(data); }
+    catch (e) { setErr(errMsg(e, 'AI đang bận, thử lại sau nhé.')); }
+    finally { setBusy(false); }
+  };
+
+  return (
+    <div className="content">
+      <div className="pagehead"><h1>Sửa ngữ pháp</h1><div className="sub">Vi kiểm tra câu của bạn và gợi ý cách viết hay hơn</div></div>
+      <div className="cols2">
+        <div className="card">
+          <div className="field"><label>Câu của bạn</label>
+            <textarea className="input" value={text} onChange={(e) => setText(e.target.value)} placeholder="I go to school yesterday..." />
+          </div>
+          <button className="btn block mt16" disabled={busy} onClick={check}>
+            <Icon n="spark" s={20} />{busy ? 'Vi đang đọc...' : 'Kiểm tra'}
+          </button>
+          {err && <div className="error mt8">{err}</div>}
+        </div>
+        <div>
+          {!res && !busy && <div className="card"><div className="empty">Kết quả sẽ hiện ở đây.</div></div>}
+          {busy && <div className="card"><div className="loading">Vi đang phân tích...</div></div>}
+          {res && (
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 18 }}>
+              <div className="card">
+                <div className="row"><h2>Kết quả</h2><span className="pill level">{res.score}/100</span></div>
+                <div className="mt8"><span className="sub">Câu gốc:</span><div style={{ fontWeight: 700 }}>{res.originalText}</div></div>
+                <div className="mt8"><span className="sub">Câu đã sửa:</span>
+                  <div style={{ fontWeight: 800, color: 'var(--green-dark)', fontSize: 17 }}>{res.correctedText}</div></div>
+              </div>
+              {res.errors?.length > 0 && (
+                <div className="card">
+                  <h2><span className="dot r" />{res.errors.length} lỗi cần chú ý</h2>
+                  {res.errors.map((e, i) => (
+                    <div className="kv" key={i} style={{ display: 'block' }}>
+                      <b style={{ color: 'var(--red-dark)' }}>{e.errorType}</b>
+                      <div className="mt8">{e.message}</div>
+                      <div className="sub mt8">Gợi ý: {e.suggestion}</div>
+                    </div>
+                  ))}
+                </div>
+              )}
+              <div className="card">
+                <div className="coach"><Mascot s={44} />
+                  <div className="bubble"><b>Mẹo của Vi:</b> đọc to câu đã sửa 3 lần để miệng quen với cấu trúc đúng nhé.</div></div>
+              </div>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}

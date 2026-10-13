@@ -1,1 +1,84 @@
-aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7CmltcG9ydCB7IHVzZUxvY2F0aW9uLCB1c2VOYXZpZ2F0ZSB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nOwppbXBvcnQgeyBhdXRoQXBpLCBlcnJNc2cgfSBmcm9tICcuLi9hcGknOwppbXBvcnQgeyB1c2VBdXRoIH0gZnJvbSAnLi4vYXV0aC9BdXRoQ29udGV4dCc7CmltcG9ydCB7IE1hc2NvdCwgSWNvbiB9IGZyb20gJy4uL2NvbXBvbmVudHMvaWNvbnMnOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTG9naW4oKSB7CiAgY29uc3QgeyBzdGF0ZSB9ID0gdXNlTG9jYXRpb24oKSBhcyB7IHN0YXRlPzogeyByZWdpc3RlcmVkPzogYm9vbGVhbiB9IH07CiAgY29uc3QgW21vZGUsIHNldE1vZGVdID0gdXNlU3RhdGU8J2xvZ2luJyB8ICdyZWdpc3Rlcic+KCdsb2dpbicpOwogIGNvbnN0IFtpZCwgc2V0SWRdID0gdXNlU3RhdGUoJycpOwogIGNvbnN0IFtlbWFpbCwgc2V0RW1haWxdID0gdXNlU3RhdGUoJycpOwogIGNvbnN0IFt1c2VybmFtZSwgc2V0VXNlcm5hbWVdID0gdXNlU3RhdGUoJycpOwogIGNvbnN0IFtmdWxsTmFtZSwgc2V0RnVsbE5hbWVdID0gdXNlU3RhdGUoJycpOwogIGNvbnN0IFtwdywgc2V0UHddID0gdXNlU3RhdGUoJycpOwogIGNvbnN0IFtlcnIsIHNldEVycl0gPSB1c2VTdGF0ZSgnJyk7CiAgY29uc3QgW2J1c3ksIHNldEJ1c3ldID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IG5hdiA9IHVzZU5hdmlnYXRlKCk7CiAgY29uc3QgeyBsb2dpbiB9ID0gdXNlQXV0aCgpOwoKICBjb25zdCBzdWJtaXQgPSBhc3luYyAoKSA9PiB7CiAgICBzZXRFcnIoJycpOyBzZXRCdXN5KHRydWUpOwogICAgdHJ5IHsKICAgICAgaWYgKG1vZGUgPT09ICdsb2dpbicpIHsKICAgICAgICBjb25zdCB7IGRhdGEgfSA9IGF3YWl0IGF1dGhBcGkubG9naW4oeyBlbWFpbE9yVXNlcm5hbWU6IGlkLCBwYXNzd29yZDogcHcgfSk7CiAgICAgICAgbG9naW4oZGF0YS51c2VyLCBkYXRhLmFjY2Vzc1Rva2VuLCBkYXRhLnJlZnJlc2hUb2tlbik7CiAgICAgICAgbmF2KCcvJyk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgYXdhaXQgYXV0aEFwaS52YWxpZGF0ZSh7IGVtYWlsLCB1c2VybmFtZSwgZnVsbE5hbWUsIHBhc3N3b3JkOiBwdyB9KTsKICAgICAgICBuYXYoJy9vdHAnLCB7IHN0YXRlOiB7IGVtYWlsLCB1c2VybmFtZSwgZnVsbE5hbWUsIHBhc3N3b3JkOiBwdyB9IH0pOwogICAgICB9CiAgICB9IGNhdGNoIChlKSB7IHNldEVycihlcnJNc2coZSkpOyB9CiAgICBmaW5hbGx5IHsgc2V0QnVzeShmYWxzZSk7IH0KICB9OwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImF1dGgtd3JhcCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJhdXRoLWxlZnQiPgogICAgICAgIDxNYXNjb3Qgcz17MTIwfSAvPgogICAgICAgIDxoMT5Wb2NhYnVsYXJ5QUk8L2gxPgogICAgICAgIDxwPkjhu41jIHRp4bq/bmcgQW5oIHZ1aSBt4buXaSBuZ8OgeSDigJQgdOG7qyB24buxbmcsIHF1aXosIGx1eeG7h24gbsOzaSBjw7luZyBBSS48YnIgLz5Ew6BuaCBjaG8gbeG7jWkgbOG7qWEgdHXhu5VpLCB04burIDUgxJHhur9uIDcwITwvcD4KICAgICAgICA8ZGl2IHN0eWxlPXt7IGRpc3BsYXk6ICdmbGV4JywgZ2FwOiAxMiB9fT4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icGlsbCI+PEljb24gbj0iYm9vayIgcz17MTZ9IC8+MjAwMCsgdOG7qyB24buxbmc8L3NwYW4+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InBpbGwiPjxJY29uIG49InNwYXJrIiBzPXsxNn0gLz5BSSAyNC83PC9zcGFuPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJwaWxsIj48SWNvbiBuPSJtaWMiIHM9ezE2fSAvPkx1eeG7h24gbsOzaTwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJhdXRoLXJpZ2h0Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYXV0aC1jYXJkIj4KICAgICAgICAgIDxoMT57bW9kZSA9PT0gJ2xvZ2luJyA/ICdDaMOgbyBt4burbmcgdHLhu58gbOG6oWkhJyA6ICdU4bqhbyB0w6BpIGtob+G6o24nfTwvaDE+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3ViIj57bW9kZSA9PT0gJ2xvZ2luJyA/ICfEkMSDbmcgbmjhuq1wIMSR4buDIHRp4bq/cCB04bulYyBow6BuaCB0csOsbmgnIDogJ01p4buFbiBwaMOtIOKAlCBt4bqldCAxIHBow7p0IHRow7RpJ308L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzZWciPgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT17bW9kZSA9PT0gJ2xvZ2luJyA/ICdvbicgOiAnJ30gb25DbGljaz17KCkgPT4gc2V0TW9kZSgnbG9naW4nKX0+xJDEg25nIG5o4bqtcDwvYnV0dG9uPgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT17bW9kZSA9PT0gJ3JlZ2lzdGVyJyA/ICdvbicgOiAnJ30gb25DbGljaz17KCkgPT4gc2V0TW9kZSgncmVnaXN0ZXInKX0+xJDEg25nIGvDvTwvYnV0dG9uPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICB7bW9kZSA9PT0gJ2xvZ2luJyA/ICgKICAgICAgICAgICAgPD4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmllbGQiPjxsYWJlbD5FbWFpbCBob+G6t2MgdMOqbiDEkcSDbmcgbmjhuq1wPC9sYWJlbD4KICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzc05hbWU9ImlucHV0IiB2YWx1ZT17aWR9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0SWQoZS50YXJnZXQudmFsdWUpfSBwbGFjZWhvbGRlcj0ibWluaC5uZ3V5ZW4iIC8+PC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZpZWxkIj48bGFiZWw+TeG6rXQga2jhuql1PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzc05hbWU9ImlucHV0IiB0eXBlPSJwYXNzd29yZCIgdmFsdWU9e3B3fSBvbkNoYW5nZT17KGUpID0+IHNldFB3KGUudGFyZ2V0LnZhbHVlKX0gb25LZXlEb3duPXsoZSkgPT4gZS5rZXkgPT09ICdFbnRlcicgJiYgc3VibWl0KCl9IC8+PC9kaXY+CiAgICAgICAgICAgIDwvPgogICAgICAgICAgKSA6ICgKICAgICAgICAgICAgPD4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmllbGQiPjxsYWJlbD5I4buNIHTDqm48L2xhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzTmFtZT0iaW5wdXQiIHZhbHVlPXtmdWxsTmFtZX0gb25DaGFuZ2U9eyhlKSA9PiBzZXRGdWxsTmFtZShlLnRhcmdldC52YWx1ZSl9IHBsYWNlaG9sZGVyPSJOZ3V54buFbiBWxINuIE1pbmgiIC8+PC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZpZWxkIj48bGFiZWw+RW1haWw8L2xhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzTmFtZT0iaW5wdXQiIHZhbHVlPXtlbWFpbH0gb25DaGFuZ2U9eyhlKSA9PiBzZXRFbWFpbChlLnRhcmdldC52YWx1ZSl9IHBsYWNlaG9sZGVyPSJtaW5oQGVtYWlsLmNvbSIgLz48L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmllbGQiPjxsYWJlbD5Uw6puIMSRxINuZyBuaOG6rXA8L2xhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzTmFtZT0iaW5wdXQiIHZhbHVlPXt1c2VybmFtZX0gb25DaGFuZ2U9eyhlKSA9PiBzZXRVc2VybmFtZShlLnRhcmdldC52YWx1ZSl9IHBsYWNlaG9sZGVyPSJtaW5oLm5ndXllbiIgLz48L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmllbGQiPjxsYWJlbD5N4bqtdCBraOG6qXU8L2xhYmVsPgogICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzTmFtZT0iaW5wdXQiIHR5cGU9InBhc3N3b3JkIiB2YWx1ZT17cHd9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0UHcoZS50YXJnZXQudmFsdWUpfSBwbGFjZWhvbGRlcj0iVOG7kWkgdGhp4buDdSA4IGvDvSB04buxIiAvPjwvZGl2PgogICAgICAgICAgICA8Lz4KICAgICAgICAgICl9CiAgICAgICAgICB7c3RhdGU/LnJlZ2lzdGVyZWQgJiYgIWVyciAmJiA8ZGl2IGNsYXNzTmFtZT0ib2siPlThuqFvIHTDoGkga2hv4bqjbiB4b25nIHLhu5NpIOKAlCDEkcSDbmcgbmjhuq1wIMSR4buDIGLhuq90IMSR4bqndSBuaMOpISDwn46JPC9kaXY+fQogICAgICAgICAge2VyciAmJiA8ZGl2IGNsYXNzTmFtZT0iZXJyb3IiPntlcnJ9PC9kaXY+fQogICAgICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImJ0biBibG9jayIgZGlzYWJsZWQ9e2J1c3l9IG9uQ2xpY2s9e3N1Ym1pdH0+CiAgICAgICAgICAgIHtidXN5ID8gJ8SQYW5nIHjhu60gbMO9Li4uJyA6IG1vZGUgPT09ICdsb2dpbicgPyAnxJDEg25nIG5o4bqtcCcgOiAnR+G7rWkgbcOjIE9UUCd9CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgIHttb2RlID09PSAnbG9naW4nICYmIDxkaXYgY2xhc3NOYW1lPSJjZW50ZXIiPjxidXR0b24gY2xhc3NOYW1lPSJsaW5rIj5RdcOqbiBt4bqtdCBraOG6qXU/PC9idXR0b24+PC9kaXY+fQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K
+import { useState } from 'react';
+import { useLocation, useNavigate } from 'react-router-dom';
+import { authApi, errMsg } from '../api';
+import { useAuth } from '../auth/AuthContext';
+import { Mascot, Icon } from '../components/icons';
+
+export default function Login() {
+  const { state } = useLocation() as { state?: { registered?: boolean } };
+  const [mode, setMode] = useState<'login' | 'register'>('login');
+  const [id, setId] = useState('');
+  const [email, setEmail] = useState('');
+  const [username, setUsername] = useState('');
+  const [fullName, setFullName] = useState('');
+  const [pw, setPw] = useState('');
+  const [err, setErr] = useState('');
+  const [busy, setBusy] = useState(false);
+  const nav = useNavigate();
+  const { login } = useAuth();
+
+  const submit = async () => {
+    setErr(''); setBusy(true);
+    try {
+      if (mode === 'login') {
+        const { data } = await authApi.login({ emailOrUsername: id, password: pw });
+        login(data.user, data.accessToken, data.refreshToken);
+        nav('/');
+      } else {
+        await authApi.validate({ email, username, fullName, password: pw });
+        nav('/otp', { state: { email, username, fullName, password: pw } });
+      }
+    } catch (e) { setErr(errMsg(e)); }
+    finally { setBusy(false); }
+  };
+
+  return (
+    <div className="auth-wrap">
+      <div className="auth-left">
+        <Mascot s={120} />
+        <h1>VocabularyAI</h1>
+        <p>Học tiếng Anh vui mỗi ngày — từ vựng, quiz, luyện nói cùng AI.<br />Dành cho mọi lứa tuổi, từ 5 đến 70!</p>
+        <div style={{ display: 'flex', gap: 12 }}>
+          <span className="pill"><Icon n="book" s={16} />2000+ từ vựng</span>
+          <span className="pill"><Icon n="spark" s={16} />AI 24/7</span>
+          <span className="pill"><Icon n="mic" s={16} />Luyện nói</span>
+        </div>
+      </div>
+      <div className="auth-right">
+        <div className="auth-card">
+          <h1>{mode === 'login' ? 'Chào mừng trở lại!' : 'Tạo tài khoản'}</h1>
+          <div className="sub">{mode === 'login' ? 'Đăng nhập để tiếp tục hành trình' : 'Miễn phí — mất 1 phút thôi'}</div>
+          <div className="seg">
+            <button className={mode === 'login' ? 'on' : ''} onClick={() => setMode('login')}>Đăng nhập</button>
+            <button className={mode === 'register' ? 'on' : ''} onClick={() => setMode('register')}>Đăng ký</button>
+          </div>
+          {mode === 'login' ? (
+            <>
+              <div className="field"><label>Email hoặc tên đăng nhập</label>
+                <input className="input" value={id} onChange={(e) => setId(e.target.value)} placeholder="minh.nguyen" /></div>
+              <div className="field"><label>Mật khẩu</label>
+                <input className="input" type="password" value={pw} onChange={(e) => setPw(e.target.value)} onKeyDown={(e) => e.key === 'Enter' && submit()} /></div>
+            </>
+          ) : (
+            <>
+              <div className="field"><label>Họ tên</label>
+                <input className="input" value={fullName} onChange={(e) => setFullName(e.target.value)} placeholder="Nguyễn Văn Minh" /></div>
+              <div className="field"><label>Email</label>
+                <input className="input" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="minh@email.com" /></div>
+              <div className="field"><label>Tên đăng nhập</label>
+                <input className="input" value={username} onChange={(e) => setUsername(e.target.value)} placeholder="minh.nguyen" /></div>
+              <div className="field"><label>Mật khẩu</label>
+                <input className="input" type="password" value={pw} onChange={(e) => setPw(e.target.value)} placeholder="Tối thiểu 8 ký tự" /></div>
+            </>
+          )}
+          {state?.registered && !err && <div className="ok">Tạo tài khoản xong rồi — đăng nhập để bắt đầu nhé! 🎉</div>}
+          {err && <div className="error">{err}</div>}
+          <button className="btn block" disabled={busy} onClick={submit}>
+            {busy ? 'Đang xử lý...' : mode === 'login' ? 'Đăng nhập' : 'Gửi mã OTP'}
+          </button>
+          {mode === 'login' && <div className="center"><button className="link">Quên mật khẩu?</button></div>}
+        </div>
+      </div>
+    </div>
+  );
+}

@@ -1,1 +1,112 @@
-aW1wb3J0IHsgYXBpIH0gZnJvbSAnLi9jbGllbnQnOwpleHBvcnQgeyBhcGksIGVyck1zZyB9IGZyb20gJy4vY2xpZW50JzsKCi8qIC0tLS0tLS0tLS0gdHlwZXMgLS0tLS0tLS0tLSAqLwpleHBvcnQgaW50ZXJmYWNlIFVzZXIgeyBpZDogbnVtYmVyOyBlbWFpbDogc3RyaW5nOyB1c2VybmFtZTogc3RyaW5nOyBmdWxsTmFtZT86IHN0cmluZzsgcm9sZTogJ0FETUlOJyB8ICdTVFVERU5UJzsgc3RhdHVzOiBzdHJpbmcgfQpleHBvcnQgaW50ZXJmYWNlIEF1dGhSZXNwIHsgYWNjZXNzVG9rZW46IHN0cmluZzsgcmVmcmVzaFRva2VuOiBzdHJpbmc7IGV4cGlyZXNJbjogbnVtYmVyOyB1c2VyOiBVc2VyOyBtZXNzYWdlOiBzdHJpbmcgfQovKiogQkUgUmVnaXN0ZXJTdWNjZXNzUmVzcG9uc2Ug4oCUIEtIw5RORyBjaOG7qWEgdG9rZW4gKEJFIGLhuq90IMSRxINuZyBuaOG6rXAgdGF5IHNhdSBPVFApICovCmV4cG9ydCBpbnRlcmZhY2UgUmVnaXN0ZXJTdWNjZXNzIHsgbWVzc2FnZTogc3RyaW5nOyBlbWFpbDogc3RyaW5nOyB1c2VybmFtZTogc3RyaW5nOyBmdWxsTmFtZTogc3RyaW5nOyBzdGF0dXM6IHN0cmluZzsgaW5zdHJ1Y3Rpb246IHN0cmluZyB9CmV4cG9ydCBpbnRlcmZhY2UgUGFnZTxUPiB7IGNvbnRlbnQ6IFRbXTsgcGFnZWFibGU6IHsgcGFnZU51bWJlcjogbnVtYmVyOyBwYWdlU2l6ZTogbnVtYmVyOyB0b3RhbEVsZW1lbnRzOiBudW1iZXI7IHRvdGFsUGFnZXM6IG51bWJlciB9IH0KZXhwb3J0IGludGVyZmFjZSBDYXRlZ29yeSB7IGlkOiBudW1iZXI7IG5hbWU6IHN0cmluZyB9CmV4cG9ydCBpbnRlcmZhY2UgV29yZCB7IGlkOiBudW1iZXI7IHdvcmQ6IHN0cmluZzsgcHJvbnVuY2lhdGlvbj86IHN0cmluZzsgbWVhbmluZzogc3RyaW5nOyBleGFtcGxlPzogc3RyaW5nOyBsZXZlbDogc3RyaW5nOyBhdWRpb1VybD86IHN0cmluZzsgaW1hZ2VVcmw/OiBzdHJpbmc7IGNhdGVnb3J5PzogQ2F0ZWdvcnkgfQpleHBvcnQgaW50ZXJmYWNlIFJldmlld0l0ZW0geyB3b3JkSWQ6IG51bWJlcjsgd29yZDogc3RyaW5nOyBkYXlzT3ZlcmR1ZTogbnVtYmVyOyBhdHRlbXB0Q291bnQ6IG51bWJlciB9Ci8qKiBCRTogTGVhcm5pbmdQcm9ncmVzc1Jlc3BvbnNlIOKAlCBpdGVtIGPhu6dhIEdFVCAvYXBpL2xlYXJuaW5nL3Jldmlldy1xdWV1ZSAoU3ByaW5nIFBhZ2UpICovCmV4cG9ydCBpbnRlcmZhY2UgUHJvZ3Jlc3NJdGVtIHsKICBpZDogbnVtYmVyOyB3b3JkOiBXb3JkOyBzdGF0dXM6IHN0cmluZzsKICBjb3JyZWN0Q291bnQ6IG51bWJlcjsgd3JvbmdDb3VudDogbnVtYmVyOyByZXZpZXdDb3VudDogbnVtYmVyOwogIGFjY3VyYWN5PzogbnVtYmVyOyBuZXh0UmV2aWV3QXQ/OiBzdHJpbmc7IGxhc3RSZXZpZXdlZEF0Pzogc3RyaW5nOwp9CmV4cG9ydCBpbnRlcmZhY2UgUHJvZ3Jlc3NQYWdlIHsgY29udGVudDogUHJvZ3Jlc3NJdGVtW107IHRvdGFsRWxlbWVudHM6IG51bWJlcjsgdG90YWxQYWdlczogbnVtYmVyIH0KLyoqIFPhu5EgbmfDoHkgdHLhu4Ugw7RuID0gaMO0bSBuYXkgLSBuZXh0UmV2aWV3QXQgKEJFIGtow7RuZyB0cuG6oyBz4bq1bikgKi8KZXhwb3J0IGNvbnN0IGRheXNPdmVyZHVlID0gKGl0OiBQcm9ncmVzc0l0ZW0pOiBudW1iZXIgPT4gewogIGlmICghaXQubmV4dFJldmlld0F0KSByZXR1cm4gMDsKICBjb25zdCBkID0gTWF0aC5jZWlsKChEYXRlLm5vdygpIC0gbmV3IERhdGUoaXQubmV4dFJldmlld0F0KS5nZXRUaW1lKCkpIC8gODY0MDAwMDApOwogIHJldHVybiBkID4gMCA/IGQgOiAwOwp9OwpleHBvcnQgaW50ZXJmYWNlIFF1aXogeyBpZDogbnVtYmVyOyB0aXRsZTogc3RyaW5nOyBsZXZlbDogc3RyaW5nOyBxdWVzdGlvbkNvdW50OiBudW1iZXI7IHRpbWVMaW1pdDogbnVtYmVyOyBjYXRlZ29yeT86IHN0cmluZzsgc3RhdHVzOiBzdHJpbmcgfQpleHBvcnQgaW50ZXJmYWNlIFF1ZXN0aW9uIHsgaWQ6IG51bWJlcjsgY29udGVudDogc3RyaW5nOyBvcHRpb25zOiBzdHJpbmdbXSB9CmV4cG9ydCBpbnRlcmZhY2UgUXVpekRldGFpbCBleHRlbmRzIFF1aXogeyB0b3RhbFF1ZXN0aW9uczogbnVtYmVyOyBxdWVzdGlvbnM6IFF1ZXN0aW9uW10gfQpleHBvcnQgaW50ZXJmYWNlIEF0dGVtcHQgeyBhdHRlbXB0SWQ6IG51bWJlcjsgcXVpeklkOiBudW1iZXI7IHN0YXJ0ZWRBdDogc3RyaW5nOyBleHBpcmVzQXQ6IHN0cmluZyB9CmV4cG9ydCBpbnRlcmZhY2UgUXVpelJlc3VsdCB7IGF0dGVtcHRJZDogbnVtYmVyOyBzY29yZTogbnVtYmVyOyB0b3RhbFF1ZXN0aW9uczogbnVtYmVyOyBjb3JyZWN0QW5zd2VyczogbnVtYmVyOyBmZWVkYmFjazogc3RyaW5nIH0KZXhwb3J0IGludGVyZmFjZSBFeHBsYWluIHsgd29yZElkOiBudW1iZXI7IHdvcmQ6IHN0cmluZzsgbWVhbmluZzogc3RyaW5nOyBleGFtcGxlczogc3RyaW5nW107IHN5bm9ueW1zOiBzdHJpbmdbXTsgdXNhZ2VUaXBzOiBzdHJpbmc7IHRva2Vuc1VzZWQ6IG51bWJlcjsgc291cmNlOiBzdHJpbmcgfQpleHBvcnQgaW50ZXJmYWNlIEdyYW1tYXJFcnIgeyBlcnJvclR5cGU6IHN0cmluZzsgbWVzc2FnZTogc3RyaW5nOyBzdWdnZXN0aW9uOiBzdHJpbmcgfQpleHBvcnQgaW50ZXJmYWNlIEdyYW1tYXJSZXNwIHsgb3JpZ2luYWxUZXh0OiBzdHJpbmc7IGNvcnJlY3RlZFRleHQ6IHN0cmluZzsgc2NvcmU6IG51bWJlcjsgZXJyb3JzOiBHcmFtbWFyRXJyW107IHRva2Vuc1VzZWQ6IG51bWJlciB9CmV4cG9ydCBpbnRlcmZhY2UgSGludCB7IHByb2dyZXNzSWQ6IG51bWJlcjsgd29yZDogc3RyaW5nOyBhdHRlbXB0Q291bnQ6IG51bWJlcjsgaGludDogc3RyaW5nOyBkaWZmaWN1bHR5OiBzdHJpbmc7IHRva2Vuc1VzZWQ6IG51bWJlciB9CmV4cG9ydCBpbnRlcmZhY2UgQ29udmVyc2F0aW9uIHsgaWQ6IG51bWJlcjsgdHlwZTogc3RyaW5nOyB0aXRsZTogc3RyaW5nOyBjcmVhdGVkQXQ6IHN0cmluZyB9CmV4cG9ydCBpbnRlcmZhY2UgQ2hhdE1zZyB7IGlkOiBudW1iZXI7IGNvbnZlcnNhdGlvbklkOiBudW1iZXI7IHJvbGU6ICdVU0VSJyB8ICdBU1NJU1RBTlQnOyBjb250ZW50OiBzdHJpbmc7IHRva2Vuc1VzZWQ/OiBudW1iZXIgfQpleHBvcnQgaW50ZXJmYWNlIFNwZWFrU2Vzc2lvbiB7IGlkOiBudW1iZXI7IHRvcGljOiBzdHJpbmc7IGxldmVsOiBzdHJpbmc7IHN0YXJ0ZWRBdDogc3RyaW5nOyBzdGF0dXM6IHN0cmluZyB9CmV4cG9ydCBpbnRlcmZhY2UgU3BlYWtBdHRlbXB0IHsgYXR0ZW1wdElkOiBudW1iZXI7IHNlc3Npb25JZDogbnVtYmVyOyBhdHRlbXB0TnVtYmVyOiBudW1iZXI7IGF1ZGlvVXJsOiBzdHJpbmc7IGF1ZGlvRHVyYXRpb25TZWNvbmRzOiBudW1iZXI7IHRyYW5zY3JpcHQ6IHN0cmluZzsgdHJhbnNjcmlwdENvbmZpZGVuY2U6IG51bWJlcjsgc2NvcmVzOiB7IGdyYW1tYXJTY29yZTogbnVtYmVyOyB2b2NhYnVsYXJ5U2NvcmU6IG51bWJlcjsgZmx1ZW5jeVNjb3JlOiBudW1iZXI7IGNvbnRlbnRTY29yZTogbnVtYmVyOyBvdmVyYWxsU2NvcmU6IG51bWJlciB9OyBmZWVkYmFjazogeyBnZW5lcmFsRmVlZGJhY2s6IHN0cmluZzsgc3VnZ2VzdGlvbnM6IHN0cmluZ1tdOyBzdHJlbmd0aHM6IHN0cmluZ1tdOyB3ZWFrbmVzc2VzOiBzdHJpbmdbXSB9IH0KZXhwb3J0IGludGVyZmFjZSBTZXNzaW9uRGV0YWlsIGV4dGVuZHMgU3BlYWtTZXNzaW9uIHsgYXR0ZW1wdENvdW50OiBudW1iZXI7IGF0dGVtcHRzOiB7IGlkOiBudW1iZXI7IGF0dGVtcHROdW1iZXI6IG51bWJlcjsgb3ZlcmFsbFNjb3JlOiBudW1iZXIgfVtdOyBzdGF0aXN0aWNzOiB7IGF2ZXJhZ2VTY29yZTogbnVtYmVyOyBiZXN0U2NvcmU6IG51bWJlcjsgaW1wcm92ZW1lbnQ6IHN0cmluZyB9IH0KCi8qIC0tLS0tLS0tLS0gYXV0aCAtLS0tLS0tLS0tICovCmV4cG9ydCBjb25zdCBhdXRoQXBpID0gewogIHZhbGlkYXRlOiAoZDogeyBlbWFpbDogc3RyaW5nOyB1c2VybmFtZTogc3RyaW5nOyBmdWxsTmFtZTogc3RyaW5nOyBwYXNzd29yZDogc3RyaW5nIH0pID0+CiAgICBhcGkucG9zdCgnL2FwaS9hdXRoL3JlZ2lzdGVyL3ZhbGlkYXRlJywgZCksCiAgdmVyaWZ5T3RwOiAoZDogeyBlbWFpbDogc3RyaW5nOyBvdHA6IHN0cmluZzsgdXNlcm5hbWU6IHN0cmluZzsgcGFzc3dvcmQ6IHN0cmluZzsgZnVsbE5hbWU6IHN0cmluZyB9KSA9PgogICAgYXBpLnBvc3Q8UmVnaXN0ZXJTdWNjZXNzPignL2FwaS9hdXRoL3JlZ2lzdGVyL3ZlcmlmeS1vdHAnLCBkKSwKICBsb2dpbjogKGQ6IHsgZW1haWxPclVzZXJuYW1lOiBzdHJpbmc7IHBhc3N3b3JkOiBzdHJpbmcgfSkgPT4KICAgIGFwaS5wb3N0PEF1dGhSZXNwPignL2FwaS9hdXRoL2xvZ2luJywgZCksCiAgLy8gQkUgUE9TVCAvYXBpL2F1dGgvbG9nb3V0IHnDqnUgY+G6p3UgYm9keSB7IHJlZnJlc2hUb2tlbiB9IOKAlCBraMO0bmcgZ+G7rWkgbMOgIDQwMAogIGxvZ291dDogKCkgPT4gewogICAgY29uc3QgcnQgPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgndm9jYWJfcmVmcmVzaCcpOwogICAgcmV0dXJuIGFwaS5wb3N0KCcvYXBpL2F1dGgvbG9nb3V0JywgcnQgPyB7IHJlZnJlc2hUb2tlbjogcnQgfSA6IHt9KS5jYXRjaCgoKSA9PiB7fSk7CiAgfSwKfTsKCi8qIC0tLS0tLS0tLS0gdm9jYWJ1bGFyeSAtLS0tLS0tLS0tICovCmV4cG9ydCBjb25zdCB3b3JkQXBpID0gewogIGxpc3Q6IChwOiB7IHBhZ2U/OiBudW1iZXI7IHNpemU/OiBudW1iZXI7IGxldmVsPzogc3RyaW5nOyBjYXRlZ29yeT86IHN0cmluZzsgc2VhcmNoPzogc3RyaW5nIH0pID0+CiAgICBhcGkuZ2V0PFBhZ2U8V29yZD4+KCcvYXBpL3dvcmRzJywgeyBwYXJhbXM6IHAgfSksCiAgZmF2b3JpdGU6IChpZDogbnVtYmVyKSA9PiBhcGkucG9zdChgL2FwaS93b3Jkcy8ke2lkfS9mYXZvcml0ZWApLAogIHVuZmF2b3JpdGU6IChpZDogbnVtYmVyKSA9PiBhcGkuZGVsZXRlKGAvYXBpL3dvcmRzLyR7aWR9L2Zhdm9yaXRlYCksCiAgZmF2b3JpdGVzOiAocGFnZSA9IDAsIHNpemUgPSAyMCkgPT4gYXBpLmdldDxQYWdlPFdvcmQ+PignL2FwaS93b3Jkcy9mYXZvcml0ZXMnLCB7IHBhcmFtczogeyBwYWdlLCBzaXplIH0gfSksCn07CgovKiAtLS0tLS0tLS0tIGxlYXJuaW5nIC0tLS0tLS0tLS0gKi8KZXhwb3J0IGNvbnN0IGxlYXJuQXBpID0gewogIHN0YXJ0OiAod29yZElkOiBudW1iZXIpID0+IGFwaS5wb3N0KGAvYXBpL2xlYXJuaW5nL3dvcmRzLyR7d29yZElkfS9zdGFydGApLAogIC8vIEJFIFJldmlld1dvcmRSZXF1ZXN0IGZpZWxkIGzDoCBgY29ycmVjdGAgKEBOb3ROdWxsKSDigJQga2jDtG5nIHBo4bqjaSBpc0NvcnJlY3QKICByZXZpZXc6ICh3b3JkSWQ6IG51bWJlciwgaXNDb3JyZWN0OiBib29sZWFuKSA9PiBhcGkucG9zdChgL2FwaS9sZWFybmluZy93b3Jkcy8ke3dvcmRJZH0vcmV2aWV3YCwgeyBjb3JyZWN0OiBpc0NvcnJlY3QgfSksCiAgLy8gQkUgdHLhuqMgU3ByaW5nIFBhZ2U8TGVhcm5pbmdQcm9ncmVzc1Jlc3BvbnNlPjogeyBjb250ZW50LCB0b3RhbEVsZW1lbnRzLCB0b3RhbFBhZ2VzIH07IG5o4bqtbiBwYXJhbSBzaXplIChraMO0bmcgcGjhuqNpIGxpbWl0KQogIHF1ZXVlOiAobGltaXQgPSAxMCkgPT4gYXBpLmdldDxQcm9ncmVzc1BhZ2U+KCcvYXBpL2xlYXJuaW5nL3Jldmlldy1xdWV1ZScsIHsgcGFyYW1zOiB7IHNpemU6IGxpbWl0IH0gfSksCn07CgovKiAtLS0tLS0tLS0tIHF1aXogLS0tLS0tLS0tLSAqLwpleHBvcnQgY29uc3QgcXVpekFwaSA9IHsKICBsaXN0OiAocDogeyBwYWdlPzogbnVtYmVyOyBzaXplPzogbnVtYmVyOyBsZXZlbD86IHN0cmluZyB9KSA9PiBhcGkuZ2V0PFBhZ2U8UXVpej4+KCcvYXBpL3F1aXp6ZXMnLCB7IHBhcmFtczogcCB9KSwKICBkZXRhaWw6IChpZDogbnVtYmVyKSA9PiBhcGkuZ2V0PFF1aXpEZXRhaWw+KGAvYXBpL3F1aXp6ZXMvJHtpZH1gKSwKICBzdGFydDogKGlkOiBudW1iZXIpID0+IGFwaS5wb3N0PEF0dGVtcHQ+KGAvYXBpL3F1aXp6ZXMvJHtpZH0vc3RhcnRgKSwKICAvLyBCRTogUE9TVCAvYXBpL3F1aXp6ZXMve2F0dGVtcHRJZH0vc3VibWl0IChraMO0bmcgY8OzIMSRb+G6oW4gL3txdWl6SWR9L2F0dGVtcHRzLyDhu58gZ2nhu69hKQogIHN1Ym1pdDogKGF0dGVtcHRJZDogbnVtYmVyLCBhbnN3ZXJzOiB7IHF1ZXN0aW9uSWQ6IG51bWJlcjsgYW5zd2VyOiBudW1iZXIgfVtdKSA9PgogICAgYXBpLnBvc3Q8UXVpelJlc3VsdD4oYC9hcGkvcXVpenplcy8ke2F0dGVtcHRJZH0vc3VibWl0YCwgeyBhbnN3ZXJzIH0pLAp9OwoKLyogLS0tLS0tLS0tLSBhaSAtLS0tLS0tLS0tICovCmV4cG9ydCBjb25zdCBhaUFwaSA9IHsKICAvLyBCRTogUE9TVCAvYXBpL3YxL2FpL3ZvY2FidWxhcnkvZXhwbGFpbiB7IHdvcmRJZCwgY29udGV4dCB9IChraMO0bmcgcGjhuqNpIEdFVCAvZXhwbGFpbi97aWR9KQogIGV4cGxhaW46ICh3b3JkSWQ6IG51bWJlciwgY29udGV4dD86IHN0cmluZykgPT4KICAgIGFwaS5wb3N0PEV4cGxhaW4+KCcvYXBpL3YxL2FpL3ZvY2FidWxhcnkvZXhwbGFpbicsIHsgd29yZElkLCBjb250ZXh0IH0pLAogIGdyYW1tYXI6ICh0ZXh0OiBzdHJpbmcpID0+IGFwaS5wb3N0PEdyYW1tYXJSZXNwPignL2FwaS92MS9haS9ncmFtbWFyJywgeyB0ZXh0LCBsYW5ndWFnZTogJ2VuJywgaW5jbHVkZVN1Z2dlc3Rpb25zOiB0cnVlIH0pLAogIC8vIEJFOiBQT1NUIC9hcGkvdjEvYWkvaGludHMvZ2VuZXJhdGUgeyBsZWFybmluZ1Byb2dyZXNzSWQsIGF0dGVtcHRDb3VudCB9IChraMO0bmcgcGjhuqNpIEdFVCAvaGludHMve2lkfSkKICBoaW50OiAocHJvZ3Jlc3NJZDogbnVtYmVyLCBhdHRlbXB0Q291bnQ6IG51bWJlcikgPT4KICAgIGFwaS5wb3N0PEhpbnQ+KCcvYXBpL3YxL2FpL2hpbnRzL2dlbmVyYXRlJywgeyBsZWFybmluZ1Byb2dyZXNzSWQ6IHByb2dyZXNzSWQsIGF0dGVtcHRDb3VudCB9KSwKICBjcmVhdGVDb252OiAodHlwZTogc3RyaW5nLCB0aXRsZTogc3RyaW5nKSA9PiBhcGkucG9zdDxDb252ZXJzYXRpb24+KCcvYXBpL3YxL2FpL2NvbnZlcnNhdGlvbnMnLCB7IHR5cGUsIHRpdGxlIH0pLAogIGxpc3RDb252OiAoKSA9PiBhcGkuZ2V0PFBhZ2U8Q29udmVyc2F0aW9uPj4oJy9hcGkvdjEvYWkvY29udmVyc2F0aW9ucycsIHsgcGFyYW1zOiB7IHBhZ2U6IDAsIHNpemU6IDIwIH0gfSksCiAgc2VuZE1zZzogKGNvbnZJZDogbnVtYmVyLCBjb250ZW50OiBzdHJpbmcpID0+CiAgICBhcGkucG9zdDxDaGF0TXNnPihgL2FwaS92MS9haS9jb252ZXJzYXRpb25zLyR7Y29udklkfS9tZXNzYWdlc2AsIHsgY29udGVudCB9KSwKICBjb252TXNnczogKGNvbnZJZDogbnVtYmVyKSA9PiBhcGkuZ2V0PFBhZ2U8Q2hhdE1zZz4+KGAvYXBpL3YxL2FpL2NvbnZlcnNhdGlvbnMvJHtjb252SWR9L21lc3NhZ2VzYCwgeyBwYXJhbXM6IHsgcGFnZTogMCwgc2l6ZTogNTAgfSB9KSwKfTsKCi8qIC0tLS0tLS0tLS0gc3BlYWtpbmcgLS0tLS0tLS0tLSAqLwpleHBvcnQgY29uc3Qgc3BlYWtBcGkgPSB7CiAgY3JlYXRlU2Vzc2lvbjogKHRvcGljOiBzdHJpbmcsIGxldmVsOiBzdHJpbmcpID0+IGFwaS5wb3N0PFNwZWFrU2Vzc2lvbj4oJy9hcGkvYWkvc3BlYWtpbmcvc2Vzc2lvbnMnLCB7IHRvcGljLCBsZXZlbCB9KSwKICB1cGxvYWRBdHRlbXB0OiAoc2Vzc2lvbklkOiBudW1iZXIsIGZpbGU6IEJsb2IpID0+IHsKICAgIGNvbnN0IGZkID0gbmV3IEZvcm1EYXRhKCk7CiAgICBmZC5hcHBlbmQoJ2F1ZGlvJywgZmlsZSwgJ3JlY29yZGluZy53ZWJtJyk7CiAgICByZXR1cm4gYXBpLnBvc3Q8U3BlYWtBdHRlbXB0PihgL2FwaS9haS9zcGVha2luZy9hdHRlbXB0cz9zZXNzaW9uSWQ9JHtzZXNzaW9uSWR9YCwgZmQsIHsKICAgICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ211bHRpcGFydC9mb3JtLWRhdGEnIH0sIHRpbWVvdXQ6IDE4MDAwMCwKICAgIH0pOwogIH0sCiAgc2Vzc2lvbkRldGFpbDogKGlkOiBudW1iZXIpID0+IGFwaS5nZXQ8U2Vzc2lvbkRldGFpbD4oYC9hcGkvYWkvc3BlYWtpbmcvc2Vzc2lvbnMvJHtpZH1gKSwKfTsK
+import { api } from './client';
+export { api, errMsg } from './client';
+
+/* ---------- types ---------- */
+export interface User { id: number; email: string; username: string; fullName?: string; role: 'ADMIN' | 'STUDENT'; status: string }
+export interface AuthResp { accessToken: string; refreshToken: string; expiresIn: number; user: User; message: string }
+/** BE RegisterSuccessResponse — KHÔNG chứa token (BE bắt đăng nhập tay sau OTP) */
+export interface RegisterSuccess { message: string; email: string; username: string; fullName: string; status: string; instruction: string }
+export interface Page<T> { content: T[]; pageable: { pageNumber: number; pageSize: number; totalElements: number; totalPages: number } }
+export interface Category { id: number; name: string }
+export interface Word { id: number; word: string; pronunciation?: string; meaning: string; example?: string; level: string; audioUrl?: string; imageUrl?: string; category?: Category }
+export interface ReviewItem { wordId: number; word: string; daysOverdue: number; attemptCount: number }
+/** BE: LearningProgressResponse — item của GET /api/learning/review-queue (Spring Page) */
+export interface ProgressItem {
+  id: number; word: Word; status: string;
+  correctCount: number; wrongCount: number; reviewCount: number;
+  accuracy?: number; nextReviewAt?: string; lastReviewedAt?: string;
+}
+export interface ProgressPage { content: ProgressItem[]; totalElements: number; totalPages: number }
+/** Số ngày trễ ôn = hôm nay - nextReviewAt (BE không trả sẵn) */
+export const daysOverdue = (it: ProgressItem): number => {
+  if (!it.nextReviewAt) return 0;
+  const d = Math.ceil((Date.now() - new Date(it.nextReviewAt).getTime()) / 86400000);
+  return d > 0 ? d : 0;
+};
+export interface Quiz { id: number; title: string; level: string; questionCount: number; timeLimit: number; category?: string; status: string }
+export interface Question { id: number; content: string; options: string[] }
+export interface QuizDetail extends Quiz { totalQuestions: number; questions: Question[] }
+export interface Attempt { attemptId: number; quizId: number; startedAt: string; expiresAt: string }
+export interface QuizResult { attemptId: number; score: number; totalQuestions: number; correctAnswers: number; feedback: string }
+export interface Explain { wordId: number; word: string; meaning: string; examples: string[]; synonyms: string[]; usageTips: string; tokensUsed: number; source: string }
+export interface GrammarErr { errorType: string; message: string; suggestion: string }
+export interface GrammarResp { originalText: string; correctedText: string; score: number; errors: GrammarErr[]; tokensUsed: number }
+export interface Hint { progressId: number; word: string; attemptCount: number; hint: string; difficulty: string; tokensUsed: number }
+export interface Conversation { id: number; type: string; title: string; createdAt: string }
+export interface ChatMsg { id: number; conversationId: number; role: 'USER' | 'ASSISTANT'; content: string; tokensUsed?: number }
+export interface SpeakSession { id: number; topic: string; level: string; startedAt: string; status: string }
+export interface SpeakAttempt { attemptId: number; sessionId: number; attemptNumber: number; audioUrl: string; audioDurationSeconds: number; transcript: string; transcriptConfidence: number; scores: { grammarScore: number; vocabularyScore: number; fluencyScore: number; contentScore: number; overallScore: number }; feedback: { generalFeedback: string; suggestions: string[]; strengths: string[]; weaknesses: string[] } }
+export interface SessionDetail extends SpeakSession { attemptCount: number; attempts: { id: number; attemptNumber: number; overallScore: number }[]; statistics: { averageScore: number; bestScore: number; improvement: string } }
+
+/* ---------- auth ---------- */
+export const authApi = {
+  validate: (d: { email: string; username: string; fullName: string; password: string }) =>
+    api.post('/api/auth/register/validate', d),
+  verifyOtp: (d: { email: string; otp: string; username: string; password: string; fullName: string }) =>
+    api.post<RegisterSuccess>('/api/auth/register/verify-otp', d),
+  login: (d: { emailOrUsername: string; password: string }) =>
+    api.post<AuthResp>('/api/auth/login', d),
+  // BE POST /api/auth/logout yêu cầu body { refreshToken } — không gửi là 400
+  logout: () => {
+    const rt = localStorage.getItem('vocab_refresh');
+    return api.post('/api/auth/logout', rt ? { refreshToken: rt } : {}).catch(() => {});
+  },
+};
+
+/* ---------- vocabulary ---------- */
+export const wordApi = {
+  list: (p: { page?: number; size?: number; level?: string; category?: string; search?: string }) =>
+    api.get<Page<Word>>('/api/words', { params: p }),
+  favorite: (id: number) => api.post(`/api/words/${id}/favorite`),
+  unfavorite: (id: number) => api.delete(`/api/words/${id}/favorite`),
+  favorites: (page = 0, size = 20) => api.get<Page<Word>>('/api/words/favorites', { params: { page, size } }),
+};
+
+/* ---------- learning ---------- */
+export const learnApi = {
+  start: (wordId: number) => api.post(`/api/learning/words/${wordId}/start`),
+  // BE ReviewWordRequest field là `correct` (@NotNull) — không phải isCorrect
+  review: (wordId: number, isCorrect: boolean) => api.post(`/api/learning/words/${wordId}/review`, { correct: isCorrect }),
+  // BE trả Spring Page<LearningProgressResponse>: { content, totalElements, totalPages }; nhận param size (không phải limit)
+  queue: (limit = 10) => api.get<ProgressPage>('/api/learning/review-queue', { params: { size: limit } }),
+};
+
+/* ---------- quiz ---------- */
+export const quizApi = {
+  list: (p: { page?: number; size?: number; level?: string }) => api.get<Page<Quiz>>('/api/quizzes', { params: p }),
+  detail: (id: number) => api.get<QuizDetail>(`/api/quizzes/${id}`),
+  start: (id: number) => api.post<Attempt>(`/api/quizzes/${id}/start`),
+  // BE: POST /api/quizzes/{attemptId}/submit (không có đoạn /{quizId}/attempts/ ở giữa)
+  submit: (attemptId: number, answers: { questionId: number; answer: number }[]) =>
+    api.post<QuizResult>(`/api/quizzes/${attemptId}/submit`, { answers }),
+};
+
+/* ---------- ai ---------- */
+export const aiApi = {
+  // BE: POST /api/v1/ai/vocabulary/explain { wordId, context } (không phải GET /explain/{id})
+  explain: (wordId: number, context?: string) =>
+    api.post<Explain>('/api/v1/ai/vocabulary/explain', { wordId, context }),
+  grammar: (text: string) => api.post<GrammarResp>('/api/v1/ai/grammar', { text, language: 'en', includeSuggestions: true }),
+  // BE: POST /api/v1/ai/hints/generate { learningProgressId, attemptCount } (không phải GET /hints/{id})
+  hint: (progressId: number, attemptCount: number) =>
+    api.post<Hint>('/api/v1/ai/hints/generate', { learningProgressId: progressId, attemptCount }),
+  createConv: (type: string, title: string) => api.post<Conversation>('/api/v1/ai/conversations', { type, title }),
+  listConv: () => api.get<Page<Conversation>>('/api/v1/ai/conversations', { params: { page: 0, size: 20 } }),
+  sendMsg: (convId: number, content: string) =>
+    api.post<ChatMsg>(`/api/v1/ai/conversations/${convId}/messages`, { content }),
+  // BE khong co GET /{id}/messages rieng — GET /{id} tra ConversationDetailResponse kem san messages[]
+  convMsgs: (convId: number) => api.get<{ messages: ChatMsg[] }>(`/api/v1/ai/conversations/${convId}`),
+};
+
+/* ---------- speaking ---------- */
+export const speakApi = {
+  createSession: (topic: string, level: string) => api.post<SpeakSession>('/api/ai/speaking/sessions', { topic, level }),
+  uploadAttempt: (sessionId: number, file: Blob) => {
+    const fd = new FormData();
+    fd.append('audio', file, 'recording.webm');
+    return api.post<SpeakAttempt>(`/api/ai/speaking/attempts?sessionId=${sessionId}`, fd, {
+      headers: { 'Content-Type': 'multipart/form-data' }, timeout: 180000,
+    });
+  },
+  sessionDetail: (id: number) => api.get<SessionDetail>(`/api/ai/speaking/sessions/${id}`),
+};

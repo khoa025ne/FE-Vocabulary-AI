@@ -1,1 +1,63 @@
-aW1wb3J0IGF4aW9zLCB7IEF4aW9zRXJyb3IgfSBmcm9tICdheGlvcyc7CmltcG9ydCB0eXBlIHsgSW50ZXJuYWxBeGlvc1JlcXVlc3RDb25maWcgfSBmcm9tICdheGlvcyc7Cgpjb25zdCBBUElfVVJMID0gaW1wb3J0Lm1ldGEuZW52LlZJVEVfQVBJX1VSTCB8fCAnaHR0cDovL2xvY2FsaG9zdDo4MDgwJzsKCmV4cG9ydCBjb25zdCBhcGkgPSBheGlvcy5jcmVhdGUoeyBiYXNlVVJMOiBBUElfVVJMLCB0aW1lb3V0OiA2MDAwMCB9KTsKCmNvbnN0IGdldEFjY2VzcyA9ICgpID0+IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCd2b2NhYl9hY2Nlc3MnKTsKY29uc3QgZ2V0UmVmcmVzaCA9ICgpID0+IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCd2b2NhYl9yZWZyZXNoJyk7CgphcGkuaW50ZXJjZXB0b3JzLnJlcXVlc3QudXNlKChjZmc6IEludGVybmFsQXhpb3NSZXF1ZXN0Q29uZmlnKSA9PiB7CiAgY29uc3QgdCA9IGdldEFjY2VzcygpOwogIGlmICh0KSBjZmcuaGVhZGVycy5BdXRob3JpemF0aW9uID0gYEJlYXJlciAke3R9YDsKICByZXR1cm4gY2ZnOwp9KTsKCmxldCByZWZyZXNoaW5nOiBQcm9taXNlPHN0cmluZz4gfCBudWxsID0gbnVsbDsKCmFwaS5pbnRlcmNlcHRvcnMucmVzcG9uc2UudXNlKAogIChyKSA9PiB7CiAgICAvLyBCRSBi4buNYyBt4buNaSByZXNwb25zZSB0aMOgbmggY8O0bmcgdHJvbmcgQXBpUmVzcG9uc2Uge3N1Y2Nlc3MsIG1lc3NhZ2UsIGRhdGEsIHRpbWVzdGFtcH0KICAgIC8vIOKGkiBiw7NjIGzhuqV5IGBkYXRhYCDEkeG7gyBjb2RlIGPDoWMgdHJhbmcgZMO5bmcgdHLhu7FjIHRp4bq/cCBuaMawIGPFqQogICAgY29uc3QgYm9keSA9IHIuZGF0YTsKICAgIGlmIChib2R5ICYmIHR5cGVvZiBib2R5ID09PSAnb2JqZWN0JyAmJiAnc3VjY2VzcycgaW4gYm9keSAmJiAnZGF0YScgaW4gYm9keSkgewogICAgICByLmRhdGEgPSAoYm9keSBhcyB7IGRhdGE6IHVua25vd24gfSkuZGF0YTsKICAgIH0KICAgIHJldHVybiByOwogIH0sCiAgYXN5bmMgKGVycjogQXhpb3NFcnJvcikgPT4gewogICAgY29uc3Qgb3JpZyA9IGVyci5jb25maWcgYXMgSW50ZXJuYWxBeGlvc1JlcXVlc3RDb25maWcgJiB7IF9yZXRyaWVkPzogYm9vbGVhbiB9OwogICAgaWYgKGVyci5yZXNwb25zZT8uc3RhdHVzID09PSA0MDEgJiYgIW9yaWcuX3JldHJpZWQgJiYgZ2V0UmVmcmVzaCgpKSB7CiAgICAgIG9yaWcuX3JldHJpZWQgPSB0cnVlOwogICAgICB0cnkgewogICAgICAgIHJlZnJlc2hpbmcgPSByZWZyZXNoaW5nIHx8IGFwaS5wb3N0KCcvYXBpL2F1dGgvcmVmcmVzaCcsIHsgcmVmcmVzaFRva2VuOiBnZXRSZWZyZXNoKCkgfSkKICAgICAgICAgIC50aGVuKChyKSA9PiB7CiAgICAgICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKCd2b2NhYl9hY2Nlc3MnLCByLmRhdGEuYWNjZXNzVG9rZW4pOwogICAgICAgICAgICBpZiAoci5kYXRhLnJlZnJlc2hUb2tlbikgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3ZvY2FiX3JlZnJlc2gnLCByLmRhdGEucmVmcmVzaFRva2VuKTsKICAgICAgICAgICAgcmV0dXJuIHIuZGF0YS5hY2Nlc3NUb2tlbiBhcyBzdHJpbmc7CiAgICAgICAgICB9KQogICAgICAgICAgLmZpbmFsbHkoKCkgPT4geyByZWZyZXNoaW5nID0gbnVsbDsgfSk7CiAgICAgICAgY29uc3QgdG9rZW4gPSBhd2FpdCByZWZyZXNoaW5nOwogICAgICAgIG9yaWcuaGVhZGVycy5BdXRob3JpemF0aW9uID0gYEJlYXJlciAke3Rva2VufWA7CiAgICAgICAgcmV0dXJuIGFwaShvcmlnKTsKICAgICAgfSBjYXRjaCB7CiAgICAgICAgbG9jYWxTdG9yYWdlLnJlbW92ZUl0ZW0oJ3ZvY2FiX2FjY2VzcycpOwogICAgICAgIGxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKCd2b2NhYl9yZWZyZXNoJyk7CiAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAnL2xvZ2luJzsKICAgICAgfQogICAgfQogICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGVycik7CiAgfQopOwoKZXhwb3J0IGNvbnN0IGVyck1zZyA9IChlOiB1bmtub3duLCBmYWxsYmFjayA9ICdDw7MgbOG7l2kgeOG6o3kgcmEsIHRo4butIGzhuqFpIG5ow6kuJykgPT4gewogIGlmIChheGlvcy5pc0F4aW9zRXJyb3IoZSkpIHJldHVybiAoZS5yZXNwb25zZT8uZGF0YT8ubWVzc2FnZSBhcyBzdHJpbmcpIHx8IGZhbGxiYWNrOwogIHJldHVybiBmYWxsYmFjazsKfTsK
+import axios, { AxiosError } from 'axios';
+import type { InternalAxiosRequestConfig } from 'axios';
+import { mockAdapter } from '../demo/mockAdapter';
+
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8080';
+const IS_DEMO = import.meta.env.VITE_DEMO === '1';
+
+export const api = axios.create({ baseURL: API_URL, timeout: 60000 });
+
+// Demo mode: giả lập toàn bộ BE thật bằng mockAdapter (không gọi mạng).
+if (IS_DEMO) api.defaults.adapter = mockAdapter;
+
+const getAccess = () => localStorage.getItem('vocab_access');
+const getRefresh = () => localStorage.getItem('vocab_refresh');
+
+api.interceptors.request.use((cfg: InternalAxiosRequestConfig) => {
+  const t = getAccess();
+  if (t) cfg.headers.Authorization = `Bearer ${t}`;
+  return cfg;
+});
+
+let refreshing: Promise<string> | null = null;
+
+api.interceptors.response.use(
+  (r) => {
+    // BE bọc mọi response thành công trong ApiResponse {success, message, data, timestamp}
+    // → bóc lấy `data` để code các trang dùng trực tiếp như cũ
+    const body = r.data;
+    if (body && typeof body === 'object' && 'success' in body && 'data' in body) {
+      r.data = (body as { data: unknown }).data;
+    }
+    return r;
+  },
+  async (err: AxiosError) => {
+    const orig = err.config as InternalAxiosRequestConfig & { _retried?: boolean };
+    if (err.response?.status === 401 && !orig._retried && getRefresh()) {
+      orig._retried = true;
+      try {
+        refreshing = refreshing || api.post('/api/auth/refresh', { refreshToken: getRefresh() })
+          .then((r) => {
+            localStorage.setItem('vocab_access', r.data.accessToken);
+            if (r.data.refreshToken) localStorage.setItem('vocab_refresh', r.data.refreshToken);
+            return r.data.accessToken as string;
+          })
+          .finally(() => { refreshing = null; });
+        const token = await refreshing;
+        orig.headers.Authorization = `Bearer ${token}`;
+        return api(orig);
+      } catch {
+        localStorage.removeItem('vocab_access');
+        localStorage.removeItem('vocab_refresh');
+        // Demo mode dùng HashRouter → redirect bằng hash để không cần SPA fallback.
+        window.location.href = IS_DEMO ? '/#/login' : '/login';
+      }
+    }
+    return Promise.reject(err);
+  }
+);
+
+export const errMsg = (e: unknown, fallback = 'Có lỗi xảy ra, thử lại nhé.') => {
+  if (axios.isAxiosError(e)) return (e.response?.data?.message as string) || fallback;
+  return fallback;
+};

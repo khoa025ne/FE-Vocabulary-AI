@@ -1,1 +1,40 @@
-Y29uc3QgVyA9IChwOiBzdHJpbmcpID0+ICgKICA8c3ZnIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPXsyfSBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIiBkYW5nZXJvdXNseVNldElubmVySFRNTD17eyBfX2h0bWw6IHAgfX0gLz4KKTsKY29uc3QgUDogUmVjb3JkPHN0cmluZywgc3RyaW5nPiA9IHsKICBob21lOiAnPHBhdGggZD0iTTMgMTFsOS04IDkgOCIvPjxwYXRoIGQ9Ik01IDEwdjEwaDV2LTZoNHY2aDVWMTAiLz4nLAogIGJvb2s6ICc8cGF0aCBkPSJNNCAxOS41QTIuNSAyLjUgMCAwIDEgNi41IDE3SDIwIi8+PHBhdGggZD0iTTYuNSAySDIwdjIwSDYuNUEyLjUgMi41IDAgMCAxIDQgMTkuNXYtMTVBMi41IDIuNSAwIDAgMSA2LjUgMnoiLz4nLAogIG1pYzogJzxyZWN0IHg9IjkiIHk9IjIiIHdpZHRoPSI2IiBoZWlnaHQ9IjEyIiByeD0iMyIvPjxwYXRoIGQ9Ik01IDEwYTcgNyAwIDAgMCAxNCAwIi8+PHBhdGggZD0iTTEyIDE5djMiLz4nLAogIHVzZXI6ICc8Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjQiLz48cGF0aCBkPSJNNCAyMWMwLTQgNC02IDgtNnM4IDIgOCA2Ii8+JywKICBmbGFtZTogJzxwYXRoIGQ9Ik04LjUgMTQuNUEyLjUgMi41IDAgMCAwIDExIDEyYzAtMS4zOC0uNS0yLTEtMy0xLjA3Mi0yLjE0My0uMjI0LTQuMDU0IDItNiAuNSAyLjUgMiA0LjkgNCA2LjUgMiAxLjYgMyAzLjUgMyA1LjVhNyA3IDAgMSAxLTE0IDBjMC0xLjE1My40MzMtMi4yOTQgMS0zYTIuNSAyLjUgMCAwIDAgMi41IDIuNXoiLz4nLAogIGdlbTogJzxwYXRoIGQ9Ik02IDNoMTJsNCA2LTEwIDEzTDIgOVoiLz48cGF0aCBkPSJNMTEgMyA4IDlsNCAxMyA0LTEzLTMtNiIvPjxwYXRoIGQ9Ik0yIDloMjAiLz4nLAogIGhlYXJ0OiAnPHBhdGggZD0iTTE5IDE0YzEuNDktMS40NiAzLTMuMjEgMy01LjVBNS41IDUuNSAwIDAgMCAxNi41IDNjLTEuNzYgMC0zIC41LTQuNSAyLTEuNS0xLjUtMi43NC0yLTQuNS0yQTUuNSA1LjUgMCAwIDAgMiA4LjVjMCAyLjMgMS41IDQuMDUgMyA1LjVsNyA3WiIvPicsCiAgY2xvY2s6ICc8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0xMiA2djZsNCAyIi8+JywKICB0cm9waHk6ICc8cGF0aCBkPSJNNiA5SDQuNWEyLjUgMi41IDAgMCAxIDAtNUg2Ii8+PHBhdGggZD0iTTE4IDloMS41YTIuNSAyLjUgMCAwIDAgMC01SDE4Ii8+PHBhdGggZD0iTTQgMjJoMTYiLz48cGF0aCBkPSJNMTAgMTQuNjZWMTdjMCAuNTUtLjQ3Ljk4LS45NyAxLjIxQzcuODUgMTguNzUgNyAyMC4yNCA3IDIyIi8+PHBhdGggZD0iTTE0IDE0LjY2VjE3YzAgLjU1LjQ3Ljk4Ljk3IDEuMjFDMTYuMTUgMTguNzUgMTcgMjAuMjQgMTcgMjIiLz48cGF0aCBkPSJNMTggMkg2djdhNiA2IDAgMCAwIDEyIDBWMloiLz4nLAogIHZvbDogJzxwYXRoIGQ9Ik0xMSA1IDYgOUgydjZoNGw1IDRWNXoiLz48cGF0aCBkPSJNMTUuNTQgOC40NmE1IDUgMCAwIDEgMCA3LjA3Ii8+JywKICBzZW5kOiAnPHBhdGggZD0iTTIyIDIgMTEgMTMiLz48cGF0aCBkPSJNMjIgMmwtNyAyMC00LTktOS00eiIvPicsCiAgc3Bhcms6ICc8cGF0aCBkPSJNMTIgM2wxLjkgNS44IDUuOCAxLjktNS44IDEuOUwxMiAxOC40bC0xLjktNS44LTUuOC0xLjkgNS44LTEuOXoiLz4nLAogIGJ1bGI6ICc8cGF0aCBkPSJNOSAxOGg2TTEwIDIyaDQiLz48cGF0aCBkPSJNMTIgMmE3IDcgMCAwIDAtNCAxMi43Yy42LjUgMSAxLjQgMSAyLjNoNmMwLS45LjQtMS44IDEtMi4zQTcgNyAwIDAgMCAxMiAyeiIvPicsCiAgY2hlY2tjOiAnPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJtOSAxMiAyIDIgNC00Ii8+JywKICBzZWFyY2g6ICc8Y2lyY2xlIGN4PSIxMSIgY3k9IjExIiByPSI4Ii8+PHBhdGggZD0ibTIxIDIxLTQuMy00LjMiLz4nLAogIG1zZzogJzxwYXRoIGQ9Ik0yMSAxNWEyIDIgMCAwIDEtMiAySDdsLTQgNFY1YTIgMiAwIDAgMSAyLTJoMTRhMiAyIDAgMCAxIDIgMnoiLz4nLAogIHBlbjogJzxwYXRoIGQ9Ik0xNyAzYTIuODUgMi44MyAwIDEgMSA0IDRMNy41IDIwLjUgMiAyMmwxLjUtNS41WiIvPicsCiAgaGVhZDogJzxwYXRoIGQ9Ik0zIDE0aDNhMiAyIDAgMCAxIDIgMnYzYTIgMiAwIDAgMS0yIDJINWEyIDIgMCAwIDEtMi0ydi01Wm0wIDBhOSA5IDAgMCAxIDE4IDBtMCAwdjVhMiAyIDAgMCAxLTIgMmgtMWEyIDIgMCAwIDEtMi0ydi0zYTIgMiAwIDAgMSAyLTJoM1oiLz4nLAogIHphcDogJzxwYXRoIGQ9Ik0xMyAyIDMgMTRoOWwtMSA4IDEwLTEyaC05bDEtOHoiLz4nLAogIGNoYXJ0OiAnPHBhdGggZD0iTTMgM3YxOGgxOCIvPjxwYXRoIGQ9Ik04IDE3di02TTEzIDE3VjdNMTggMTd2LTMiLz4nLAogIGxvZ291dDogJzxwYXRoIGQ9Ik05IDIxSDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoNCIvPjxwYXRoIGQ9Im0xNiAxNyA1LTUtNS01Ii8+PHBhdGggZD0iTTIxIDEySDkiLz4nLAp9OwpleHBvcnQgY29uc3QgSWNvbiA9ICh7IG4sIHMgPSAyMCB9OiB7IG46IGtleW9mIHR5cGVvZiBQOyBzPzogbnVtYmVyIH0pID0+ICgKICA8c3BhbiBjbGFzc05hbWU9ImljIiBzdHlsZT17eyB3aWR0aDogcywgaGVpZ2h0OiBzIH19PntXKFBbbl0pfTwvc3Bhbj4KKTsKZXhwb3J0IGNvbnN0IE1hc2NvdCA9ICh7IHMgPSA0MCB9OiB7IHM/OiBudW1iZXIgfSkgPT4gKAogIDxzdmcgdmlld0JveD0iMCAwIDcyIDcyIiB3aWR0aD17c30gaGVpZ2h0PXtzfT4KICAgIDxlbGxpcHNlIGN4PSIzNiIgY3k9IjQwIiByeD0iMjYiIHJ5PSIyNCIgZmlsbD0iIzM1OUU3RCIvPjxlbGxpcHNlIGN4PSIzNiIgY3k9IjUwIiByeD0iMTQiIHJ5PSIxMSIgZmlsbD0iI0MyRTREMiIvPgogICAgPHJlY3QgeD0iMzAiIHk9IjgiIHdpZHRoPSI1IiBoZWlnaHQ9IjEyIiByeD0iMi41IiBmaWxsPSIjRTU0ODREIiB0cmFuc2Zvcm09InJvdGF0ZSgtMTUgMzIgMTQpIi8+CiAgICA8cmVjdCB4PSIzNiIgeT0iNiIgd2lkdGg9IjUiIGhlaWdodD0iMTMiIHJ4PSIyLjUiIGZpbGw9IiNCNTdGMUYiLz4KICAgIDxyZWN0IHg9IjQyIiB5PSI4IiB3aWR0aD0iNSIgaGVpZ2h0PSIxMiIgcng9IjIuNSIgZmlsbD0iIzE1NjVDMCIgdHJhbnNmb3JtPSJyb3RhdGUoMTUgNDQgMTQpIi8+CiAgICA8Y2lyY2xlIGN4PSIyNyIgY3k9IjMyIiByPSI4IiBmaWxsPSIjZmZmIi8+PGNpcmNsZSBjeD0iMjcuNSIgY3k9IjMzIiByPSIzLjYiIGZpbGw9IiMwQTI1NDAiLz4KICAgIDxjaXJjbGUgY3g9IjQ1IiBjeT0iMzIiIHI9IjgiIGZpbGw9IiNmZmYiLz48Y2lyY2xlIGN4PSI0NS41IiBjeT0iMzMiIHI9IjMuNiIgZmlsbD0iIzBBMjU0MCIvPgogICAgPHBhdGggZD0iTTMxIDQyIFEzNiAzOCA0MSA0MiBRMzYgNTAgMzEgNDIiIGZpbGw9IiNDOTZGMkUiLz4KICA8L3N2Zz4KKTsK
+const W = (p: string) => (
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" dangerouslySetInnerHTML={{ __html: p }} />
+);
+const P: Record<string, string> = {
+  home: '<path d="M3 11l9-8 9 8"/><path d="M5 10v10h5v-6h4v6h5V10"/>',
+  book: '<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>',
+  mic: '<rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10a7 7 0 0 0 14 0"/><path d="M12 19v3"/>',
+  user: '<circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 4-6 8-6s8 2 8 6"/>',
+  flame: '<path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/>',
+  gem: '<path d="M6 3h12l4 6-10 13L2 9Z"/><path d="M11 3 8 9l4 13 4-13-3-6"/><path d="M2 9h20"/>',
+  heart: '<path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>',
+  clock: '<circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>',
+  trophy: '<path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/>',
+  vol: '<path d="M11 5 6 9H2v6h4l5 4V5z"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/>',
+  send: '<path d="M22 2 11 13"/><path d="M22 2l-7 20-4-9-9-4z"/>',
+  spark: '<path d="M12 3l1.9 5.8 5.8 1.9-5.8 1.9L12 18.4l-1.9-5.8-5.8-1.9 5.8-1.9z"/>',
+  bulb: '<path d="M9 18h6M10 22h4"/><path d="M12 2a7 7 0 0 0-4 12.7c.6.5 1 1.4 1 2.3h6c0-.9.4-1.8 1-2.3A7 7 0 0 0 12 2z"/>',
+  checkc: '<circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/>',
+  search: '<circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>',
+  msg: '<path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>',
+  pen: '<path d="M17 3a2.85 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5Z"/>',
+  head: '<path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-5Zm0 0a9 9 0 0 1 18 0m0 0v5a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3Z"/>',
+  zap: '<path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z"/>',
+  chart: '<path d="M3 3v18h18"/><path d="M8 17v-6M13 17V7M18 17v-3"/>',
+  logout: '<path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><path d="m16 17 5-5-5-5"/><path d="M21 12H9"/>',
+};
+export const Icon = ({ n, s = 20 }: { n: keyof typeof P; s?: number }) => (
+  <span className="ic" style={{ width: s, height: s }}>{W(P[n])}</span>
+);
+export const Mascot = ({ s = 40 }: { s?: number }) => (
+  <svg viewBox="0 0 72 72" width={s} height={s}>
+    <ellipse cx="36" cy="40" rx="26" ry="24" fill="#359E7D"/><ellipse cx="36" cy="50" rx="14" ry="11" fill="#C2E4D2"/>
+    <rect x="30" y="8" width="5" height="12" rx="2.5" fill="#E5484D" transform="rotate(-15 32 14)"/>
+    <rect x="36" y="6" width="5" height="13" rx="2.5" fill="#B57F1F"/>
+    <rect x="42" y="8" width="5" height="12" rx="2.5" fill="#1565C0" transform="rotate(15 44 14)"/>
+    <circle cx="27" cy="32" r="8" fill="#fff"/><circle cx="27.5" cy="33" r="3.6" fill="#0A2540"/>
+    <circle cx="45" cy="32" r="8" fill="#fff"/><circle cx="45.5" cy="33" r="3.6" fill="#0A2540"/>
+    <path d="M31 42 Q36 38 41 42 Q36 50 31 42" fill="#C96F2E"/>
+  </svg>
+);

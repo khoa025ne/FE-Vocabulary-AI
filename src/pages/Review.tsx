@@ -1,1 +1,66 @@
-aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJzsKaW1wb3J0IHsgbGVhcm5BcGksIGFpQXBpLCBlcnJNc2csIGRheXNPdmVyZHVlIH0gZnJvbSAnLi4vYXBpJzsKaW1wb3J0IHR5cGUgeyBQcm9ncmVzc0l0ZW0gfSBmcm9tICcuLi9hcGknOwppbXBvcnQgeyBNYXNjb3QsIEljb24gfSBmcm9tICcuLi9jb21wb25lbnRzL2ljb25zJzsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFJldmlldygpIHsKICBjb25zdCBbcXVldWUsIHNldFF1ZXVlXSA9IHVzZVN0YXRlPFByb2dyZXNzSXRlbVtdPihbXSk7CiAgY29uc3QgW2ksIHNldEldID0gdXNlU3RhdGUoMCk7CiAgY29uc3QgW2ZsaXAsIHNldEZsaXBdID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtoaW50LCBzZXRIaW50XSA9IHVzZVN0YXRlKCcnKTsKICBjb25zdCBbZG9uZSwgc2V0RG9uZV0gPSB1c2VTdGF0ZSgwKTsKICBjb25zdCBbZXJyLCBzZXRFcnJdID0gdXNlU3RhdGUoJycpOwogIGNvbnN0IG5hdiA9IHVzZU5hdmlnYXRlKCk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBsZWFybkFwaS5xdWV1ZSgyMCkudGhlbigoeyBkYXRhIH0pID0+IHNldFF1ZXVlKGRhdGEuY29udGVudCkpLmNhdGNoKChlKSA9PiBzZXRFcnIoZXJyTXNnKGUpKSk7CiAgfSwgW10pOwoKICBjb25zdCBjdXIgPSBxdWV1ZVtpXTsKICBjb25zdCBvdmVyZHVlID0gY3VyID8gZGF5c092ZXJkdWUoY3VyKSA6IDA7CiAgY29uc3QgYW5zd2VyID0gYXN5bmMgKG9rOiBib29sZWFuKSA9PiB7CiAgICBpZiAoIWN1cikgcmV0dXJuOwogICAgdHJ5IHsgYXdhaXQgbGVhcm5BcGkucmV2aWV3KGN1ci53b3JkLmlkLCBvayk7IH0gY2F0Y2ggeyAvKiB24bqrbiBjaG8gcXVhICovIH0KICAgIHNldERvbmUoKGQpID0+IGQgKyAxKTsgc2V0RmxpcChmYWxzZSk7IHNldEhpbnQoJycpOwogICAgaWYgKGkgKyAxID49IHF1ZXVlLmxlbmd0aCkgc2V0SSgtMSk7IGVsc2Ugc2V0SShpICsgMSk7CiAgfTsKICBjb25zdCBnZXRIaW50ID0gYXN5bmMgKCkgPT4gewogICAgaWYgKCFjdXIpIHJldHVybjsKICAgIHRyeSB7IGNvbnN0IHsgZGF0YSB9ID0gYXdhaXQgYWlBcGkuaGludChjdXIuaWQsIGN1ci5yZXZpZXdDb3VudCArIDEpOyBzZXRIaW50KGRhdGEuaGludCk7IH0KICAgIGNhdGNoIHsgc2V0SGludCgnTmdoxKkgdOG7m2kgbmfhu68gY+G6o25oIGLhuqFuIMSRw6MgZ+G6t3AgdOG7qyBuw6B5IG5ow6kuJyk7IH0KICB9OwoKICBpZiAoaSA9PT0gLTEpIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGVudCBuYXJyb3cgY2VudGVyIiBzdHlsZT17eyBwYWRkaW5nVG9wOiA4MCB9fT4KICAgICAgPE1hc2NvdCBzPXsxMDB9IC8+CiAgICAgIDxoMSBjbGFzc05hbWU9Im10MTYiPlhvbmcgcGhpw6puIMO0biB04bqtcCE8L2gxPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ic3ViIG10OCI+QuG6oW4gxJHDoyDDtG4ge2RvbmV9IHThu6suIFZpIHThu7EgaMOgbyB24buBIGLhuqFuITwvZGl2PgogICAgICA8ZGl2IGNsYXNzTmFtZT0iYnRuLXJvdyBtdDE2Ij48YnV0dG9uIGNsYXNzTmFtZT0iYnRuIGdob3N0IiBvbkNsaWNrPXsoKSA9PiBuYXYoJy93b3JkcycpfT5I4buNYyB04burIG3hu5tpPC9idXR0b24+PGJ1dHRvbiBjbGFzc05hbWU9ImJ0biIgb25DbGljaz17KCkgPT4gbmF2KCcvJyl9Plbhu4EgdHJhbmcgY2jhu6c8L2J1dHRvbj48L2Rpdj4KICAgIDwvZGl2PgogICk7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGVudCBuYXJyb3ciPgogICAgICA8ZGl2IGNsYXNzTmFtZT0icGFnZWhlYWQiPjxoMT7DlG4gdOG6rXA8L2gxPjxkaXYgY2xhc3NOYW1lPSJzdWIiPntxdWV1ZS5sZW5ndGggPT09IDAgPyAnxJBhbmcgdOG6o2kuLi4nIDogYFThu6sgJHtNYXRoLm1pbihpICsgMSwgcXVldWUubGVuZ3RoKX0vJHtxdWV1ZS5sZW5ndGh9YH08L2Rpdj48L2Rpdj4KICAgICAge3F1ZXVlLmxlbmd0aCA+IDAgJiYgPGRpdiBjbGFzc05hbWU9InByb2dyZXNzIj48aSBzdHlsZT17eyB3aWR0aDogYCR7KGkgLyBxdWV1ZS5sZW5ndGgpICogMTAwfSVgIH19IC8+PC9kaXY+fQogICAgICB7ZXJyICYmIDxkaXYgY2xhc3NOYW1lPSJlcnJvciI+e2Vycn08L2Rpdj59CiAgICAgIHtjdXIgJiYgKAogICAgICAgIDw+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY2FyZCBmbGFzaCIgb25DbGljaz17KCkgPT4gc2V0RmxpcCghZmxpcCl9PgogICAgICAgICAgICB7IWZsaXAgPyAoPD48ZGl2IGNsYXNzTmFtZT0iYmlnIj57Y3VyLndvcmQud29yZH08L2Rpdj48ZGl2IGNsYXNzTmFtZT0ic3ViIj5C4bqlbSDEkeG7gyBs4bqtdCB4ZW0gbmdoxKlhPC9kaXY+PC8+CiAgICAgICAgICAgICkgOiAoPD48ZGl2IGNsYXNzTmFtZT0iYmlnIj57Y3VyLndvcmQud29yZH08L2Rpdj48ZGl2IGNsYXNzTmFtZT0ibWVhbiI+4oCUIG5naMSpYSBz4bq9IGhp4buHbiBzYXUga2hpIGLhuqFuIHThu7Egbmjhu5sg4oCUPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InN1YiI+QuG6oW4gY8OybiBu4bujIHThu6sgbsOgeSB7b3ZlcmR1ZX0gbmfDoHk8L2Rpdj48Lz4pfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgICB7aGludCAmJiA8ZGl2IGNsYXNzTmFtZT0iY2FyZCI+PGI+PEljb24gbj0iYnVsYiIgcz17MTh9IC8+IEfhu6NpIMO9IGPhu6dhIFZpOjwvYj48ZGl2IGNsYXNzTmFtZT0ibXQ4Ij57aGludH08L2Rpdj48L2Rpdj59CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYnRuLXJvdyI+CiAgICAgICAgICAgIDxidXR0b24gY2xhc3NOYW1lPSJidG4gZGFuZ2VyLWdob3N0IiBvbkNsaWNrPXsoKSA9PiBhbnN3ZXIoZmFsc2UpfT5DaMawYSBuaOG7mzwvYnV0dG9uPgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYnRuIGdob3N0IiBvbkNsaWNrPXtnZXRIaW50fT48SWNvbiBuPSJidWxiIiBzPXsyMH0gLz5H4bujaSDDvTwvYnV0dG9uPgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iYnRuIGdyZWVuIiBvbkNsaWNrPXsoKSA9PiBhbnN3ZXIodHJ1ZSl9PsSQw6Mgbmjhu5s8L2J1dHRvbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvPgogICAgICApfQogICAgICB7cXVldWUubGVuZ3RoID09PSAwICYmICFlcnIgJiYgPGRpdiBjbGFzc05hbWU9ImVtcHR5Ij5I4bq/dCB04burIGPhuqduIMO0biDigJQgcXVheSBs4bqhaSBzYXUgbmjDqSE8L2Rpdj59CiAgICA8L2Rpdj4KICApOwp9Cg==
+import { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import { learnApi, aiApi, errMsg, daysOverdue } from '../api';
+import type { ProgressItem } from '../api';
+import { Mascot, Icon } from '../components/icons';
+
+export default function Review() {
+  const [queue, setQueue] = useState<ProgressItem[]>([]);
+  const [i, setI] = useState(0);
+  const [flip, setFlip] = useState(false);
+  const [hint, setHint] = useState('');
+  const [done, setDone] = useState(0);
+  const [err, setErr] = useState('');
+  const nav = useNavigate();
+
+  useEffect(() => {
+    learnApi.queue(20).then(({ data }) => setQueue(data.content)).catch((e) => setErr(errMsg(e)));
+  }, []);
+
+  const cur = queue[i];
+  const overdue = cur ? daysOverdue(cur) : 0;
+  const answer = async (ok: boolean) => {
+    if (!cur) return;
+    try { await learnApi.review(cur.word.id, ok); } catch { /* vẫn cho qua */ }
+    setDone((d) => d + 1); setFlip(false); setHint('');
+    if (i + 1 >= queue.length) setI(-1); else setI(i + 1);
+  };
+  const getHint = async () => {
+    if (!cur) return;
+    try { const { data } = await aiApi.hint(cur.id, cur.reviewCount + 1); setHint(data.hint); }
+    catch { setHint('Nghĩ tới ngữ cảnh bạn đã gặp từ này nhé.'); }
+  };
+
+  if (i === -1) return (
+    <div className="content narrow center" style={{ paddingTop: 80 }}>
+      <Mascot s={100} />
+      <h1 className="mt16">Xong phiên ôn tập!</h1>
+      <div className="sub mt8">Bạn đã ôn {done} từ. Vi tự hào về bạn!</div>
+      <div className="btn-row mt16"><button className="btn ghost" onClick={() => nav('/words')}>Học từ mới</button><button className="btn" onClick={() => nav('/')}>Về trang chủ</button></div>
+    </div>
+  );
+
+  return (
+    <div className="content narrow">
+      <div className="pagehead"><h1>Ôn tập</h1><div className="sub">{queue.length === 0 ? 'Đang tải...' : `Từ ${Math.min(i + 1, queue.length)}/${queue.length}`}</div></div>
+      {queue.length > 0 && <div className="progress"><i style={{ width: `${(i / queue.length) * 100}%` }} /></div>}
+      {err && <div className="error">{err}</div>}
+      {cur && (
+        <>
+          <div className="card flash" onClick={() => setFlip(!flip)}>
+            {!flip ? (<><div className="big">{cur.word.word}</div><div className="sub">Bấm để lật xem nghĩa</div></>
+            ) : (<><div className="big">{cur.word.word}</div><div className="mean">— nghĩa sẽ hiện sau khi bạn tự nhớ —</div>
+              <div className="sub">Bạn còn nợ từ này {overdue} ngày</div></>)}
+          </div>
+          {hint && <div className="card"><b><Icon n="bulb" s={18} /> Gợi ý của Vi:</b><div className="mt8">{hint}</div></div>}
+          <div className="btn-row">
+            <button className="btn danger-ghost" onClick={() => answer(false)}>Chưa nhớ</button>
+            <button className="btn ghost" onClick={getHint}><Icon n="bulb" s={20} />Gợi ý</button>
+            <button className="btn green" onClick={() => answer(true)}>Đã nhớ</button>
+          </div>
+        </>
+      )}
+      {queue.length === 0 && !err && <div className="empty">Hết từ cần ôn — quay lại sau nhé!</div>}
+    </div>
+  );
+}
