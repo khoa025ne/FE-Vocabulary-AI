@@ -3,7 +3,7 @@ export { api, errMsg } from './client';
 
 /* ---------- types ---------- */
 export interface User { id: number; email: string; username: string; fullName?: string; role: 'ADMIN' | 'STUDENT'; status: string }
-export interface AuthResp { accessToken: string; refreshToken: string; expiresIn: number; user: User; message: string }
+export interface AuthResp { accessToken: string; refreshToken: string; expiresIn: number; user: User; message: string; access_token?: string; refresh_token?: string }
 /** BE RegisterSuccessResponse — KHÔNG chứa token (BE bắt đăng nhập tay sau OTP) */
 export interface RegisterSuccess { message: string; email: string; username: string; fullName: string; status: string; instruction: string }
 export interface Page<T> { content: T[]; pageable: { pageNumber: number; pageSize: number; totalElements: number; totalPages: number } }
@@ -26,7 +26,7 @@ export const daysOverdue = (it: ProgressItem): number => {
 export interface Quiz { id: number; title: string; level: string; questionCount: number; timeLimit: number; category?: string; status: string }
 export interface Question { id: number; content: string; options: string[] }
 export interface QuizDetail extends Quiz { totalQuestions: number; questions: Question[] }
-export interface Attempt { attemptId: number; quizId: number; startedAt: string; expiresAt: string }
+export interface Attempt { attemptId: number; quizId: number; startedAt: string; expiresAt: string; id?: number }
 export interface QuizResult { attemptId: number; score: number; totalQuestions: number; correctAnswers: number; feedback: string }
 export interface Explain { wordId: number; word: string; meaning: string; examples: string[]; synonyms: string[]; usageTips: string; tokensUsed: number; source: string }
 export interface GrammarErr { errorType: string; message: string; suggestion: string }
@@ -45,7 +45,13 @@ export const authApi = {
   verifyOtp: (d: { email: string; otp: string; username: string; password: string; fullName: string }) =>
     api.post<RegisterSuccess>('/api/auth/register/verify-otp', d),
   login: (d: { emailOrUsername: string; password: string }) =>
-    api.post<AuthResp>('/api/auth/login', d),
+    api.post<AuthResp>('/api/auth/login', d).then((r) => {
+      // BUG-03: BE trả access_token/refresh_token (snake_case) thay vì accessToken/refreshToken
+      // → chuẩn hóa về camelCase ngay tại đây để Login.tsx + client.ts dùng như cũ, không đổi gì thêm.
+      const raw = r.data;
+      r.data = { ...raw, accessToken: raw.accessToken ?? raw.access_token ?? '', refreshToken: raw.refreshToken ?? raw.refresh_token ?? '' };
+      return r;
+    }),
   // BE POST /api/auth/logout yêu cầu body { refreshToken } — không gửi là 400
   logout: () => {
     const rt = localStorage.getItem('vocab_refresh');
@@ -75,7 +81,15 @@ export const learnApi = {
 export const quizApi = {
   list: (p: { page?: number; size?: number; level?: string }) => api.get<Page<Quiz>>('/api/quizzes', { params: p }),
   detail: (id: number) => api.get<QuizDetail>(`/api/quizzes/${id}`),
-  start: (id: number) => api.post<Attempt>(`/api/quizzes/${id}/start`),
+  start: (id: number) =>
+    api.post<Attempt>(`/api/quizzes/${id}/start`).then((r) => {
+      // TEMP BUG-05: BE trả `id` thay vì `attemptId` → FE tự vá để chạy được.
+      // BE sửa DTO xong thì dòng này vô hại (attemptId đã có sẵn thì giữ nguyên).
+      const raw = r.data;
+      if (!raw.attemptId && typeof raw.id === 'number') raw.attemptId = raw.id;
+      r.data = raw;
+      return r;
+    }),
   // BE: POST /api/quizzes/{attemptId}/submit (không có đoạn /{quizId}/attempts/ ở giữa)
   submit: (attemptId: number, answers: { questionId: number; answer: number }[]) =>
     api.post<QuizResult>(`/api/quizzes/${attemptId}/submit`, { answers }),

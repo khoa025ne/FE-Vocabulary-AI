@@ -20,7 +20,10 @@ export default function QuizDo() {
     Promise.all([quizApi.detail(qid), quizApi.start(qid)])
       .then(([{ data: q }, { data: a }]) => {
         setQuiz(q); setAttempt(a);
-        setSecs(Math.max(0, Math.floor((new Date(a.expiresAt).getTime() - Date.now()) / 1000)));
+        // TEMP BUG-05: BE thiếu `expiresAt` → FE tự tính từ startedAt + timeLimit (phút, theo QuizList).
+        // BE trả expiresAt thật thì dùng luôn, không ảnh hưởng.
+        const exp = a.expiresAt || new Date(new Date(a.startedAt).getTime() + (q.timeLimit || 0) * 60000).toISOString();
+        setSecs(Math.max(0, Math.floor((new Date(exp).getTime() - Date.now()) / 1000)));
       })
       .catch((e) => setErr(errMsg(e, 'Không mở được quiz này.')));
     return () => clearInterval(timer.current);

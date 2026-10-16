@@ -38,9 +38,13 @@ api.interceptors.response.use(
       try {
         refreshing = refreshing || api.post('/api/auth/refresh', { refreshToken: getRefresh() })
           .then((r) => {
-            localStorage.setItem('vocab_access', r.data.accessToken);
-            if (r.data.refreshToken) localStorage.setItem('vocab_refresh', r.data.refreshToken);
-            return r.data.accessToken as string;
+            // BUG-03: BE trả snake_case (access_token) — đọc cả hai để không lưu "undefined" vào localStorage
+            const nd = r.data as { accessToken?: string; access_token?: string; refreshToken?: string; refresh_token?: string };
+            const at = nd.accessToken ?? nd.access_token ?? '';
+            const rt = nd.refreshToken ?? nd.refresh_token ?? '';
+            localStorage.setItem('vocab_access', at);
+            if (rt) localStorage.setItem('vocab_refresh', rt);
+            return at;
           })
           .finally(() => { refreshing = null; });
         const token = await refreshing;
